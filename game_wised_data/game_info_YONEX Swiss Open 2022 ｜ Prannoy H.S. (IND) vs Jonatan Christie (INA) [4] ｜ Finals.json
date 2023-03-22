@@ -1,0 +1,205 @@
+{
+  "Match": "YONEX Swiss Open 2022 ｜ Prannoy H.S. (IND) vs Jonatan Christie (INA) [4] ｜ Finals",
+  "b_r_players": [
+    "Jonatan Christie",
+    "Prannoy H.S."
+  ],
+  "correct_scores": [
+    [
+      21,
+      12
+    ],
+    [
+      21,
+      18
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 75,
+      "blue red score": [
+        40,
+        34
+      ]
+    },
+    {
+      "score count": 0,
+      "blue red score": [
+        0,
+        1
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 36,
+    "切球": 107,
+    "殺球": 89,
+    "挑球": 24,
+    "小球": 25,
+    "平球": 4,
+    "撲球": 1
+  },
+  "blue loss shots": {
+    "長球": 29,
+    "切球": 80,
+    "殺球": 78,
+    "挑球": 16,
+    "小球": 23,
+    "平球": 6,
+    "撲球": 1
+  },
+  "red win shots": {
+    "長球": 41,
+    "切球": 0,
+    "殺球": 2,
+    "挑球": 141,
+    "小球": 4,
+    "平球": 9,
+    "撲球": 30
+  },
+  "red loss shots": {
+    "長球": 53,
+    "切球": 0,
+    "殺球": 5,
+    "挑球": 181,
+    "小球": 13,
+    "平球": 14,
+    "撲球": 22
+  },
+  "blue win moves": {
+    "DLBL": 1,
+    "DLBR": 0,
+    "DLFL": 1,
+    "DLFR": 5,
+    "DSBL": 2,
+    "DSBR": 0,
+    "DSFL": 17,
+    "DSFR": 18,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 3,
+    "LSF": 33,
+    "TLL": 52,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 39,
+    "NM": 113
+  },
+  "blue loss moves": {
+    "DLBL": 1,
+    "DLBR": 1,
+    "DLFL": 0,
+    "DLFR": 3,
+    "DSBL": 2,
+    "DSBR": 2,
+    "DSFL": 10,
+    "DSFR": 13,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 5,
+    "LSF": 32,
+    "TLL": 30,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 28,
+    "NM": 95
+  },
+  "red win moves": {
+    "DLBL": 8,
+    "DLBR": 3,
+    "DLFL": 2,
+    "DLFR": 4,
+    "DSBL": 9,
+    "DSBR": 12,
+    "DSFL": 7,
+    "DSFR": 17,
+    "LLB": 1,
+    "LLF": 2,
+    "LSB": 5,
+    "LSF": 32,
+    "TLL": 21,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 14,
+    "NM": 94
+  },
+  "red loss moves": {
+    "DLBL": 9,
+    "DLBR": 8,
+    "DLFL": 3,
+    "DLFR": 11,
+    "DSBL": 14,
+    "DSBR": 9,
+    "DSFL": 7,
+    "DSFR": 12,
+    "LLB": 1,
+    "LLF": 3,
+    "LSB": 12,
+    "LSF": 34,
+    "TLL": 32,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 19,
+    "NM": 111
+  },
+  "blue total shots": {
+    "長球": 65,
+    "切球": 187,
+    "殺球": 167,
+    "挑球": 40,
+    "小球": 48,
+    "平球": 10,
+    "撲球": 2
+  },
+  "red total shots": {
+    "長球": 94,
+    "切球": 0,
+    "殺球": 7,
+    "挑球": 322,
+    "小球": 17,
+    "平球": 23,
+    "撲球": 52
+  },
+  "blue total moves": {
+    "DLBL": 2,
+    "DLBR": 1,
+    "DLFL": 1,
+    "DLFR": 8,
+    "DSBL": 4,
+    "DSBR": 2,
+    "DSFL": 27,
+    "DSFR": 31,
+    "LLB": 0,
+    "LLF": 2,
+    "LSB": 8,
+    "LSF": 65,
+    "TLL": 82,
+    "TLR": 7,
+    "TSL": 0,
+    "TSR": 67,
+    "NM": 208
+  },
+  "red total moves": {
+    "DLBL": 17,
+    "DLBR": 11,
+    "DLFL": 5,
+    "DLFR": 15,
+    "DSBL": 23,
+    "DSBR": 21,
+    "DSFL": 14,
+    "DSFR": 29,
+    "LLB": 2,
+    "LLF": 5,
+    "LSB": 17,
+    "LSF": 66,
+    "TLL": 53,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 33,
+    "NM": 205
+  }
+}

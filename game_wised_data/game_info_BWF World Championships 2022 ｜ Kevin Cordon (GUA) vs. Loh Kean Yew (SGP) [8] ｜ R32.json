@@ -1,0 +1,212 @@
+{
+  "Match": "BWF World Championships 2022 ｜ Kevin Cordon (GUA) vs. Loh Kean Yew (SGP) [8] ｜ R32",
+  "b_r_players": [
+    "Kevin Cordon",
+    "Loh Kean Yew"
+  ],
+  "correct_scores": [
+    [
+      12,
+      21
+    ],
+    [
+      21,
+      11
+    ],
+    [
+      9,
+      21
+    ]
+  ],
+  "games": [
+    {
+      "score count": 33,
+      "blue red score": [
+        15,
+        18
+      ]
+    },
+    {
+      "score count": 32,
+      "blue red score": [
+        22,
+        10
+      ]
+    },
+    {
+      "score count": 33,
+      "blue red score": [
+        12,
+        21
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 25,
+    "切球": 36,
+    "殺球": 46,
+    "挑球": 87,
+    "小球": 28,
+    "平球": 28,
+    "撲球": 25
+  },
+  "blue loss shots": {
+    "長球": 36,
+    "切球": 63,
+    "殺球": 110,
+    "挑球": 67,
+    "小球": 43,
+    "平球": 29,
+    "撲球": 14
+  },
+  "red win shots": {
+    "長球": 43,
+    "切球": 15,
+    "殺球": 42,
+    "挑球": 165,
+    "小球": 21,
+    "平球": 36,
+    "撲球": 36
+  },
+  "red loss shots": {
+    "長球": 24,
+    "切球": 28,
+    "殺球": 59,
+    "挑球": 85,
+    "小球": 40,
+    "平球": 22,
+    "撲球": 18
+  },
+  "blue win moves": {
+    "DLBL": 0,
+    "DLBR": 1,
+    "DLFL": 3,
+    "DLFR": 4,
+    "DSBL": 8,
+    "DSBR": 6,
+    "DSFL": 11,
+    "DSFR": 8,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 8,
+    "LSF": 37,
+    "TLL": 22,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 22,
+    "NM": 146
+  },
+  "blue loss moves": {
+    "DLBL": 1,
+    "DLBR": 1,
+    "DLFL": 5,
+    "DLFR": 2,
+    "DSBL": 12,
+    "DSBR": 9,
+    "DSFL": 15,
+    "DSFR": 15,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 18,
+    "LSF": 29,
+    "TLL": 31,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 36,
+    "NM": 181
+  },
+  "red win moves": {
+    "DLBL": 1,
+    "DLBR": 1,
+    "DLFL": 5,
+    "DLFR": 3,
+    "DSBL": 8,
+    "DSBR": 8,
+    "DSFL": 12,
+    "DSFR": 6,
+    "LLB": 2,
+    "LLF": 0,
+    "LSB": 23,
+    "LSF": 58,
+    "TLL": 37,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 37,
+    "NM": 160
+  },
+  "red loss moves": {
+    "DLBL": 0,
+    "DLBR": 0,
+    "DLFL": 2,
+    "DLFR": 2,
+    "DSBL": 4,
+    "DSBR": 16,
+    "DSFL": 21,
+    "DSFR": 6,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 10,
+    "LSF": 37,
+    "TLL": 20,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 26,
+    "NM": 128
+  },
+  "blue total shots": {
+    "長球": 61,
+    "切球": 99,
+    "殺球": 156,
+    "挑球": 154,
+    "小球": 71,
+    "平球": 57,
+    "撲球": 39
+  },
+  "red total shots": {
+    "長球": 67,
+    "切球": 43,
+    "殺球": 101,
+    "挑球": 250,
+    "小球": 61,
+    "平球": 58,
+    "撲球": 54
+  },
+  "blue total moves": {
+    "DLBL": 1,
+    "DLBR": 2,
+    "DLFL": 8,
+    "DLFR": 6,
+    "DSBL": 20,
+    "DSBR": 15,
+    "DSFL": 26,
+    "DSFR": 23,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 26,
+    "LSF": 66,
+    "TLL": 53,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 58,
+    "NM": 327
+  },
+  "red total moves": {
+    "DLBL": 1,
+    "DLBR": 1,
+    "DLFL": 7,
+    "DLFR": 5,
+    "DSBL": 12,
+    "DSBR": 24,
+    "DSFL": 33,
+    "DSFR": 12,
+    "LLB": 3,
+    "LLF": 0,
+    "LSB": 33,
+    "LSF": 95,
+    "TLL": 57,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 63,
+    "NM": 288
+  }
+}

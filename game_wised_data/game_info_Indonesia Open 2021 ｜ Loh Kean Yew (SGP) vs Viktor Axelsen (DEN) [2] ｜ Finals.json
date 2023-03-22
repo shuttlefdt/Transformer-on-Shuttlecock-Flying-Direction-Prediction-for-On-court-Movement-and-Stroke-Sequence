@@ -1,0 +1,212 @@
+{
+  "Match": "Indonesia Open 2021 ｜ Loh Kean Yew (SGP) vs Viktor Axelsen (DEN) [2] ｜ Finals",
+  "b_r_players": [
+    "Viktor Axelsen",
+    "Loh Kean Yew"
+  ],
+  "correct_scores": [
+    [
+      21,
+      13
+    ],
+    [
+      9,
+      21
+    ],
+    [
+      21,
+      13
+    ]
+  ],
+  "games": [
+    {
+      "score count": 33,
+      "blue red score": [
+        17,
+        16
+      ]
+    },
+    {
+      "score count": 29,
+      "blue red score": [
+        8,
+        21
+      ]
+    },
+    {
+      "score count": 31,
+      "blue red score": [
+        18,
+        13
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 25,
+    "切球": 82,
+    "殺球": 78,
+    "挑球": 81,
+    "小球": 28,
+    "平球": 14,
+    "撲球": 13
+  },
+  "blue loss shots": {
+    "長球": 46,
+    "切球": 56,
+    "殺球": 46,
+    "挑球": 144,
+    "小球": 27,
+    "平球": 8,
+    "撲球": 29
+  },
+  "red win shots": {
+    "長球": 54,
+    "切球": 79,
+    "殺球": 53,
+    "挑球": 92,
+    "小球": 30,
+    "平球": 14,
+    "撲球": 31
+  },
+  "red loss shots": {
+    "長球": 63,
+    "切球": 28,
+    "殺球": 18,
+    "挑球": 128,
+    "小球": 24,
+    "平球": 25,
+    "撲球": 49
+  },
+  "blue win moves": {
+    "DLBL": 2,
+    "DLBR": 1,
+    "DLFL": 8,
+    "DLFR": 8,
+    "DSBL": 5,
+    "DSBR": 3,
+    "DSFL": 24,
+    "DSFR": 32,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 6,
+    "LSF": 31,
+    "TLL": 44,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 31,
+    "NM": 137
+  },
+  "blue loss moves": {
+    "DLBL": 2,
+    "DLBR": 1,
+    "DLFL": 5,
+    "DLFR": 6,
+    "DSBL": 9,
+    "DSBR": 3,
+    "DSFL": 28,
+    "DSFR": 17,
+    "LLB": 2,
+    "LLF": 2,
+    "LSB": 15,
+    "LSF": 36,
+    "TLL": 42,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 39,
+    "NM": 144
+  },
+  "red win moves": {
+    "DLBL": 17,
+    "DLBR": 0,
+    "DLFL": 3,
+    "DLFR": 11,
+    "DSBL": 15,
+    "DSBR": 3,
+    "DSFL": 11,
+    "DSFR": 26,
+    "LLB": 3,
+    "LLF": 0,
+    "LSB": 15,
+    "LSF": 34,
+    "TLL": 55,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 26,
+    "NM": 134
+  },
+  "red loss moves": {
+    "DLBL": 16,
+    "DLBR": 8,
+    "DLFL": 4,
+    "DLFR": 7,
+    "DSBL": 14,
+    "DSBR": 7,
+    "DSFL": 14,
+    "DSFR": 24,
+    "LLB": 3,
+    "LLF": 1,
+    "LSB": 9,
+    "LSF": 35,
+    "TLL": 38,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 23,
+    "NM": 115
+  },
+  "blue total shots": {
+    "長球": 71,
+    "切球": 138,
+    "殺球": 124,
+    "挑球": 225,
+    "小球": 55,
+    "平球": 22,
+    "撲球": 42
+  },
+  "red total shots": {
+    "長球": 117,
+    "切球": 107,
+    "殺球": 71,
+    "挑球": 220,
+    "小球": 54,
+    "平球": 39,
+    "撲球": 80
+  },
+  "blue total moves": {
+    "DLBL": 4,
+    "DLBR": 2,
+    "DLFL": 13,
+    "DLFR": 14,
+    "DSBL": 14,
+    "DSBR": 6,
+    "DSFL": 52,
+    "DSFR": 49,
+    "LLB": 2,
+    "LLF": 3,
+    "LSB": 21,
+    "LSF": 67,
+    "TLL": 86,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 70,
+    "NM": 281
+  },
+  "red total moves": {
+    "DLBL": 33,
+    "DLBR": 8,
+    "DLFL": 7,
+    "DLFR": 18,
+    "DSBL": 29,
+    "DSBR": 10,
+    "DSFL": 25,
+    "DSFR": 50,
+    "LLB": 6,
+    "LLF": 1,
+    "LSB": 24,
+    "LSF": 69,
+    "TLL": 93,
+    "TLR": 6,
+    "TSL": 0,
+    "TSR": 49,
+    "NM": 249
+  }
+}

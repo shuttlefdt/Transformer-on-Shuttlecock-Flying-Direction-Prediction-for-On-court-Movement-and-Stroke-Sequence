@@ -1,0 +1,212 @@
+{
+  "Match": "BWF World Championships 2022 ｜ Jonatan Christie (INA) [7] vs. Kai Schaefer (GER) ｜ R32",
+  "b_r_players": [
+    "Jonatan Christie",
+    "Kai Schaefer"
+  ],
+  "correct_scores": [
+    [
+      21,
+      4
+    ],
+    [
+      21,
+      16
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 25,
+      "blue red score": [
+        20,
+        5
+      ]
+    },
+    {
+      "score count": 37,
+      "blue red score": [
+        19,
+        17
+      ]
+    },
+    {
+      "score count": 0,
+      "blue red score": [
+        0,
+        1
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 10,
+    "切球": 48,
+    "殺球": 40,
+    "挑球": 70,
+    "小球": 24,
+    "平球": 14,
+    "撲球": 12
+  },
+  "blue loss shots": {
+    "長球": 14,
+    "切球": 14,
+    "殺球": 14,
+    "挑球": 82,
+    "小球": 8,
+    "平球": 13,
+    "撲球": 19
+  },
+  "red win shots": {
+    "長球": 7,
+    "切球": 33,
+    "殺球": 57,
+    "挑球": 33,
+    "小球": 24,
+    "平球": 7,
+    "撲球": 1
+  },
+  "red loss shots": {
+    "長球": 8,
+    "切球": 43,
+    "殺球": 35,
+    "挑球": 79,
+    "小球": 21,
+    "平球": 10,
+    "撲球": 17
+  },
+  "blue win moves": {
+    "DLBL": 5,
+    "DLBR": 2,
+    "DLFL": 1,
+    "DLFR": 3,
+    "DSBL": 2,
+    "DSBR": 2,
+    "DSFL": 12,
+    "DSFR": 15,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 2,
+    "LSF": 35,
+    "TLL": 32,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 21,
+    "NM": 79
+  },
+  "blue loss moves": {
+    "DLBL": 0,
+    "DLBR": 2,
+    "DLFL": 1,
+    "DLFR": 1,
+    "DSBL": 2,
+    "DSBR": 9,
+    "DSFL": 5,
+    "DSFR": 8,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 2,
+    "LSF": 22,
+    "TLL": 20,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 12,
+    "NM": 78
+  },
+  "red win moves": {
+    "DLBL": 1,
+    "DLBR": 0,
+    "DLFL": 2,
+    "DLFR": 2,
+    "DSBL": 4,
+    "DSBR": 3,
+    "DSFL": 13,
+    "DSFR": 13,
+    "LLB": 0,
+    "LLF": 2,
+    "LSB": 10,
+    "LSF": 21,
+    "TLL": 24,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 16,
+    "NM": 52
+  },
+  "red loss moves": {
+    "DLBL": 2,
+    "DLBR": 1,
+    "DLFL": 4,
+    "DLFR": 4,
+    "DSBL": 4,
+    "DSBR": 3,
+    "DSFL": 17,
+    "DSFR": 12,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 6,
+    "LSF": 24,
+    "TLL": 37,
+    "TLR": 7,
+    "TSL": 0,
+    "TSR": 20,
+    "NM": 75
+  },
+  "blue total shots": {
+    "長球": 24,
+    "切球": 62,
+    "殺球": 54,
+    "挑球": 152,
+    "小球": 32,
+    "平球": 27,
+    "撲球": 31
+  },
+  "red total shots": {
+    "長球": 15,
+    "切球": 76,
+    "殺球": 92,
+    "挑球": 112,
+    "小球": 45,
+    "平球": 17,
+    "撲球": 18
+  },
+  "blue total moves": {
+    "DLBL": 5,
+    "DLBR": 4,
+    "DLFL": 2,
+    "DLFR": 4,
+    "DSBL": 4,
+    "DSBR": 11,
+    "DSFL": 17,
+    "DSFR": 23,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 4,
+    "LSF": 57,
+    "TLL": 52,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 33,
+    "NM": 157
+  },
+  "red total moves": {
+    "DLBL": 3,
+    "DLBR": 1,
+    "DLFL": 6,
+    "DLFR": 6,
+    "DSBL": 8,
+    "DSBR": 6,
+    "DSFL": 30,
+    "DSFR": 25,
+    "LLB": 1,
+    "LLF": 3,
+    "LSB": 16,
+    "LSF": 45,
+    "TLL": 61,
+    "TLR": 8,
+    "TSL": 0,
+    "TSR": 36,
+    "NM": 127
+  }
+}

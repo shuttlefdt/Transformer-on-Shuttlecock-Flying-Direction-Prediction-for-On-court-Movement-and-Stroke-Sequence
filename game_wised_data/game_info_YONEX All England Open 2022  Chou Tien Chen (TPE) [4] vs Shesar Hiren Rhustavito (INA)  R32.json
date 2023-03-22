@@ -1,0 +1,205 @@
+{
+  "Match": "YONEX All England Open 2022  Chou Tien Chen (TPE) [4] vs Shesar Hiren Rhustavito (INA)  R32",
+  "b_r_players": [
+    "Chou Tien Chen",
+    "Shesar Hiren Rhustavito"
+  ],
+  "correct_scores": [
+    [
+      21,
+      10
+    ],
+    [
+      21,
+      19
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 34,
+      "blue red score": [
+        19,
+        15
+      ]
+    },
+    {
+      "score count": 45,
+      "blue red score": [
+        22,
+        23
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 35,
+    "切球": 38,
+    "殺球": 36,
+    "挑球": 70,
+    "小球": 24,
+    "平球": 9,
+    "撲球": 36
+  },
+  "blue loss shots": {
+    "長球": 20,
+    "切球": 38,
+    "殺球": 32,
+    "挑球": 58,
+    "小球": 33,
+    "平球": 8,
+    "撲球": 19
+  },
+  "red win shots": {
+    "長球": 26,
+    "切球": 36,
+    "殺球": 20,
+    "挑球": 63,
+    "小球": 35,
+    "平球": 12,
+    "撲球": 19
+  },
+  "red loss shots": {
+    "長球": 36,
+    "切球": 41,
+    "殺球": 35,
+    "挑球": 73,
+    "小球": 42,
+    "平球": 8,
+    "撲球": 17
+  },
+  "blue win moves": {
+    "DLBL": 1,
+    "DLBR": 2,
+    "DLFL": 2,
+    "DLFR": 4,
+    "DSBL": 9,
+    "DSBR": 3,
+    "DSFL": 14,
+    "DSFR": 11,
+    "LLB": 2,
+    "LLF": 2,
+    "LSB": 10,
+    "LSF": 28,
+    "TLL": 27,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 19,
+    "NM": 117
+  },
+  "blue loss moves": {
+    "DLBL": 1,
+    "DLBR": 1,
+    "DLFL": 0,
+    "DLFR": 3,
+    "DSBL": 5,
+    "DSBR": 5,
+    "DSFL": 10,
+    "DSFR": 12,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 10,
+    "LSF": 32,
+    "TLL": 23,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 14,
+    "NM": 93
+  },
+  "red win moves": {
+    "DLBL": 3,
+    "DLBR": 2,
+    "DLFL": 2,
+    "DLFR": 5,
+    "DSBL": 6,
+    "DSBR": 4,
+    "DSFL": 15,
+    "DSFR": 13,
+    "LLB": 2,
+    "LLF": 1,
+    "LSB": 11,
+    "LSF": 33,
+    "TLL": 22,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 17,
+    "NM": 71
+  },
+  "red loss moves": {
+    "DLBL": 3,
+    "DLBR": 1,
+    "DLFL": 4,
+    "DLFR": 7,
+    "DSBL": 6,
+    "DSBR": 4,
+    "DSFL": 11,
+    "DSFR": 14,
+    "LLB": 3,
+    "LLF": 4,
+    "LSB": 8,
+    "LSF": 39,
+    "TLL": 27,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 18,
+    "NM": 95
+  },
+  "blue total shots": {
+    "長球": 55,
+    "切球": 76,
+    "殺球": 68,
+    "挑球": 128,
+    "小球": 57,
+    "平球": 17,
+    "撲球": 55
+  },
+  "red total shots": {
+    "長球": 62,
+    "切球": 77,
+    "殺球": 55,
+    "挑球": 136,
+    "小球": 77,
+    "平球": 20,
+    "撲球": 36
+  },
+  "blue total moves": {
+    "DLBL": 2,
+    "DLBR": 3,
+    "DLFL": 2,
+    "DLFR": 7,
+    "DSBL": 14,
+    "DSBR": 8,
+    "DSFL": 24,
+    "DSFR": 23,
+    "LLB": 3,
+    "LLF": 3,
+    "LSB": 20,
+    "LSF": 60,
+    "TLL": 50,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 33,
+    "NM": 210
+  },
+  "red total moves": {
+    "DLBL": 6,
+    "DLBR": 3,
+    "DLFL": 6,
+    "DLFR": 12,
+    "DSBL": 12,
+    "DSBR": 8,
+    "DSFL": 26,
+    "DSFR": 27,
+    "LLB": 5,
+    "LLF": 5,
+    "LSB": 19,
+    "LSF": 72,
+    "TLL": 49,
+    "TLR": 5,
+    "TSL": 0,
+    "TSR": 35,
+    "NM": 166
+  }
+}

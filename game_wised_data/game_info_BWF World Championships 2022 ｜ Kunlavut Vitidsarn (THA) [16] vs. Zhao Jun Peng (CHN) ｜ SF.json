@@ -1,0 +1,205 @@
+{
+  "Match": "BWF World Championships 2022 ｜ Kunlavut Vitidsarn (THA) [16] vs. Zhao Jun Peng (CHN) ｜ SF",
+  "b_r_players": [
+    "Zhao Jun Peng",
+    "Kunlavut Vitidsarn"
+  ],
+  "correct_scores": [
+    [
+      22,
+      20
+    ],
+    [
+      21,
+      6
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 41,
+      "blue red score": [
+        30,
+        11
+      ]
+    },
+    {
+      "score count": 26,
+      "blue red score": [
+        7,
+        19
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 37,
+    "切球": 98,
+    "殺球": 78,
+    "挑球": 63,
+    "小球": 25,
+    "平球": 22,
+    "撲球": 16
+  },
+  "blue loss shots": {
+    "長球": 35,
+    "切球": 47,
+    "殺球": 36,
+    "挑球": 73,
+    "小球": 9,
+    "平球": 14,
+    "撲球": 38
+  },
+  "red win shots": {
+    "長球": 27,
+    "切球": 47,
+    "殺球": 37,
+    "挑球": 84,
+    "小球": 23,
+    "平球": 13,
+    "撲球": 13
+  },
+  "red loss shots": {
+    "長球": 57,
+    "切球": 26,
+    "殺球": 20,
+    "挑球": 150,
+    "小球": 19,
+    "平球": 23,
+    "撲球": 41
+  },
+  "blue win moves": {
+    "DLBL": 0,
+    "DLBR": 2,
+    "DLFL": 4,
+    "DLFR": 0,
+    "DSBL": 2,
+    "DSBR": 7,
+    "DSFL": 14,
+    "DSFR": 17,
+    "LLB": 2,
+    "LLF": 0,
+    "LSB": 10,
+    "LSF": 57,
+    "TLL": 34,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 38,
+    "NM": 146
+  },
+  "blue loss moves": {
+    "DLBL": 2,
+    "DLBR": 3,
+    "DLFL": 4,
+    "DLFR": 1,
+    "DSBL": 11,
+    "DSBR": 6,
+    "DSFL": 12,
+    "DSFR": 4,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 13,
+    "LSF": 41,
+    "TLL": 19,
+    "TLR": 5,
+    "TSL": 0,
+    "TSR": 28,
+    "NM": 95
+  },
+  "red win moves": {
+    "DLBL": 1,
+    "DLBR": 0,
+    "DLFL": 2,
+    "DLFR": 1,
+    "DSBL": 4,
+    "DSBR": 4,
+    "DSFL": 17,
+    "DSFR": 8,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 14,
+    "LSF": 42,
+    "TLL": 27,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 26,
+    "NM": 105
+  },
+  "red loss moves": {
+    "DLBL": 1,
+    "DLBR": 2,
+    "DLFL": 1,
+    "DLFR": 0,
+    "DSBL": 12,
+    "DSBR": 14,
+    "DSFL": 16,
+    "DSFR": 18,
+    "LLB": 3,
+    "LLF": 0,
+    "LSB": 16,
+    "LSF": 41,
+    "TLL": 28,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 28,
+    "NM": 157
+  },
+  "blue total shots": {
+    "長球": 72,
+    "切球": 145,
+    "殺球": 114,
+    "挑球": 136,
+    "小球": 34,
+    "平球": 36,
+    "撲球": 54
+  },
+  "red total shots": {
+    "長球": 84,
+    "切球": 73,
+    "殺球": 57,
+    "挑球": 234,
+    "小球": 42,
+    "平球": 36,
+    "撲球": 54
+  },
+  "blue total moves": {
+    "DLBL": 2,
+    "DLBR": 5,
+    "DLFL": 8,
+    "DLFR": 1,
+    "DSBL": 13,
+    "DSBR": 13,
+    "DSFL": 26,
+    "DSFR": 21,
+    "LLB": 2,
+    "LLF": 0,
+    "LSB": 23,
+    "LSF": 98,
+    "TLL": 53,
+    "TLR": 8,
+    "TSL": 0,
+    "TSR": 66,
+    "NM": 241
+  },
+  "red total moves": {
+    "DLBL": 2,
+    "DLBR": 2,
+    "DLFL": 3,
+    "DLFR": 1,
+    "DSBL": 16,
+    "DSBR": 18,
+    "DSFL": 33,
+    "DSFR": 26,
+    "LLB": 3,
+    "LLF": 0,
+    "LSB": 30,
+    "LSF": 83,
+    "TLL": 55,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 54,
+    "NM": 262
+  }
+}

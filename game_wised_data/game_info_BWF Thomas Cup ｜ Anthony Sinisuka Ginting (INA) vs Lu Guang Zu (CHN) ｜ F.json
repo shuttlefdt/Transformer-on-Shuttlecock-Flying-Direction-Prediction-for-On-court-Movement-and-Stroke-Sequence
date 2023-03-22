@@ -1,0 +1,212 @@
+{
+  "Match": "BWF Thomas Cup ｜ Anthony Sinisuka Ginting (INA) vs Lu Guang Zu (CHN) ｜ F",
+  "b_r_players": [
+    "Lu Guang Zu",
+    "Anthony Sinisuka Ginting"
+  ],
+  "correct_scores": [
+    [
+      21,
+      18
+    ],
+    [
+      14,
+      21
+    ],
+    [
+      16,
+      21
+    ]
+  ],
+  "games": [
+    {
+      "score count": 39,
+      "blue red score": [
+        23,
+        16
+      ]
+    },
+    {
+      "score count": 32,
+      "blue red score": [
+        16,
+        16
+      ]
+    },
+    {
+      "score count": 34,
+      "blue red score": [
+        13,
+        21
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 45,
+    "切球": 79,
+    "殺球": 64,
+    "挑球": 69,
+    "小球": 33,
+    "平球": 14,
+    "撲球": 19
+  },
+  "blue loss shots": {
+    "長球": 39,
+    "切球": 97,
+    "殺球": 50,
+    "挑球": 82,
+    "小球": 17,
+    "平球": 17,
+    "撲球": 19
+  },
+  "red win shots": {
+    "長球": 51,
+    "切球": 41,
+    "殺球": 25,
+    "挑球": 130,
+    "小球": 25,
+    "平球": 6,
+    "撲球": 39
+  },
+  "red loss shots": {
+    "長球": 48,
+    "切球": 41,
+    "殺球": 28,
+    "挑球": 144,
+    "小球": 25,
+    "平球": 15,
+    "撲球": 31
+  },
+  "blue win moves": {
+    "DLBL": 3,
+    "DLBR": 2,
+    "DLFL": 7,
+    "DLFR": 3,
+    "DSBL": 6,
+    "DSBR": 11,
+    "DSFL": 22,
+    "DSFR": 15,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 8,
+    "LSF": 54,
+    "TLL": 34,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 36,
+    "NM": 130
+  },
+  "blue loss moves": {
+    "DLBL": 3,
+    "DLBR": 3,
+    "DLFL": 3,
+    "DLFR": 9,
+    "DSBL": 2,
+    "DSBR": 7,
+    "DSFL": 20,
+    "DSFR": 16,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 7,
+    "LSF": 50,
+    "TLL": 39,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 39,
+    "NM": 115
+  },
+  "red win moves": {
+    "DLBL": 12,
+    "DLBR": 7,
+    "DLFL": 5,
+    "DLFR": 6,
+    "DSBL": 8,
+    "DSBR": 9,
+    "DSFL": 15,
+    "DSFR": 26,
+    "LLB": 2,
+    "LLF": 0,
+    "LSB": 15,
+    "LSF": 61,
+    "TLL": 28,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 26,
+    "NM": 100
+  },
+  "red loss moves": {
+    "DLBL": 4,
+    "DLBR": 2,
+    "DLFL": 4,
+    "DLFR": 4,
+    "DSBL": 4,
+    "DSBR": 10,
+    "DSFL": 17,
+    "DSFR": 28,
+    "LLB": 1,
+    "LLF": 2,
+    "LSB": 14,
+    "LSF": 50,
+    "TLL": 34,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 32,
+    "NM": 116
+  },
+  "blue total shots": {
+    "長球": 84,
+    "切球": 176,
+    "殺球": 114,
+    "挑球": 151,
+    "小球": 50,
+    "平球": 31,
+    "撲球": 38
+  },
+  "red total shots": {
+    "長球": 99,
+    "切球": 82,
+    "殺球": 53,
+    "挑球": 274,
+    "小球": 50,
+    "平球": 21,
+    "撲球": 70
+  },
+  "blue total moves": {
+    "DLBL": 6,
+    "DLBR": 5,
+    "DLFL": 10,
+    "DLFR": 12,
+    "DSBL": 8,
+    "DSBR": 18,
+    "DSFL": 42,
+    "DSFR": 31,
+    "LLB": 1,
+    "LLF": 2,
+    "LSB": 15,
+    "LSF": 104,
+    "TLL": 73,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 75,
+    "NM": 245
+  },
+  "red total moves": {
+    "DLBL": 16,
+    "DLBR": 9,
+    "DLFL": 9,
+    "DLFR": 10,
+    "DSBL": 12,
+    "DSBR": 19,
+    "DSFL": 32,
+    "DSFR": 54,
+    "LLB": 3,
+    "LLF": 2,
+    "LSB": 29,
+    "LSF": 111,
+    "TLL": 62,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 58,
+    "NM": 216
+  }
+}

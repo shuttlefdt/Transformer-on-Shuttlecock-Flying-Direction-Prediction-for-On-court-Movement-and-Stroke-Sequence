@@ -1,0 +1,205 @@
+{
+  "Match": "BWF World Championships 2022 ｜ Zhao Jun Peng (CHN) vs. Kidambi Srikanth (IND) [12] ｜ R32",
+  "b_r_players": [
+    "Zhao Jun Peng",
+    "Kidambi Srikanth"
+  ],
+  "correct_scores": [
+    [
+      21,
+      9
+    ],
+    [
+      21,
+      17
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 27,
+      "blue red score": [
+        18,
+        9
+      ]
+    },
+    {
+      "score count": 35,
+      "blue red score": [
+        21,
+        14
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 32,
+    "切球": 40,
+    "殺球": 23,
+    "挑球": 69,
+    "小球": 19,
+    "平球": 14,
+    "撲球": 32
+  },
+  "blue loss shots": {
+    "長球": 19,
+    "切球": 19,
+    "殺球": 24,
+    "挑球": 59,
+    "小球": 14,
+    "平球": 15,
+    "撲球": 28
+  },
+  "red win shots": {
+    "長球": 15,
+    "切球": 37,
+    "殺球": 28,
+    "挑球": 43,
+    "小球": 25,
+    "平球": 11,
+    "撲球": 15
+  },
+  "red loss shots": {
+    "長球": 27,
+    "切球": 48,
+    "殺球": 28,
+    "挑球": 70,
+    "小球": 31,
+    "平球": 11,
+    "撲球": 17
+  },
+  "blue win moves": {
+    "DLBL": 0,
+    "DLBR": 4,
+    "DLFL": 0,
+    "DLFR": 3,
+    "DSBL": 12,
+    "DSBR": 7,
+    "DSFL": 21,
+    "DSFR": 2,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 14,
+    "LSF": 31,
+    "TLL": 29,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 19,
+    "NM": 89
+  },
+  "blue loss moves": {
+    "DLBL": 2,
+    "DLBR": 1,
+    "DLFL": 0,
+    "DLFR": 0,
+    "DSBL": 10,
+    "DSBR": 6,
+    "DSFL": 11,
+    "DSFR": 5,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 8,
+    "LSF": 30,
+    "TLL": 14,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 16,
+    "NM": 71
+  },
+  "red win moves": {
+    "DLBL": 0,
+    "DLBR": 0,
+    "DLFL": 1,
+    "DLFR": 0,
+    "DSBL": 2,
+    "DSBR": 7,
+    "DSFL": 14,
+    "DSFR": 13,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 9,
+    "LSF": 37,
+    "TLL": 17,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 17,
+    "NM": 60
+  },
+  "red loss moves": {
+    "DLBL": 1,
+    "DLBR": 0,
+    "DLFL": 1,
+    "DLFR": 3,
+    "DSBL": 9,
+    "DSBR": 6,
+    "DSFL": 7,
+    "DSFR": 11,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 13,
+    "LSF": 46,
+    "TLL": 18,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 19,
+    "NM": 95
+  },
+  "blue total shots": {
+    "長球": 51,
+    "切球": 59,
+    "殺球": 47,
+    "挑球": 128,
+    "小球": 33,
+    "平球": 29,
+    "撲球": 60
+  },
+  "red total shots": {
+    "長球": 42,
+    "切球": 85,
+    "殺球": 56,
+    "挑球": 113,
+    "小球": 56,
+    "平球": 22,
+    "撲球": 32
+  },
+  "blue total moves": {
+    "DLBL": 2,
+    "DLBR": 5,
+    "DLFL": 0,
+    "DLFR": 3,
+    "DSBL": 22,
+    "DSBR": 13,
+    "DSFL": 32,
+    "DSFR": 7,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 22,
+    "LSF": 61,
+    "TLL": 43,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 35,
+    "NM": 160
+  },
+  "red total moves": {
+    "DLBL": 1,
+    "DLBR": 0,
+    "DLFL": 2,
+    "DLFR": 3,
+    "DSBL": 11,
+    "DSBR": 13,
+    "DSFL": 21,
+    "DSFR": 24,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 22,
+    "LSF": 83,
+    "TLL": 35,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 36,
+    "NM": 155
+  }
+}

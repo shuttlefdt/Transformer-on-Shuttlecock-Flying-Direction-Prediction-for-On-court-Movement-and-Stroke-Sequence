@@ -1,0 +1,205 @@
+{
+  "Match": "DAIHATSU Indonesia Masters 2021  Kento Momota (JPN) [1] vs Chou Tien Chen (TPE) [4]  SF",
+  "b_r_players": [
+    "Chou Tien Chen",
+    "Kento Momota"
+  ],
+  "correct_scores": [
+    [
+      21,
+      19
+    ],
+    [
+      21,
+      11
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 40,
+      "blue red score": [
+        20,
+        20
+      ]
+    },
+    {
+      "score count": 31,
+      "blue red score": [
+        8,
+        23
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 17,
+    "切球": 47,
+    "殺球": 36,
+    "挑球": 39,
+    "小球": 27,
+    "平球": 8,
+    "撲球": 14
+  },
+  "blue loss shots": {
+    "長球": 31,
+    "切球": 38,
+    "殺球": 45,
+    "挑球": 115,
+    "小球": 31,
+    "平球": 4,
+    "撲球": 27
+  },
+  "red win shots": {
+    "長球": 30,
+    "切球": 79,
+    "殺球": 38,
+    "挑球": 81,
+    "小球": 21,
+    "平球": 13,
+    "撲球": 19
+  },
+  "red loss shots": {
+    "長球": 20,
+    "切球": 30,
+    "殺球": 8,
+    "挑球": 84,
+    "小球": 14,
+    "平球": 7,
+    "撲球": 31
+  },
+  "blue win moves": {
+    "DLBL": 0,
+    "DLBR": 5,
+    "DLFL": 5,
+    "DLFR": 2,
+    "DSBL": 4,
+    "DSBR": 7,
+    "DSFL": 15,
+    "DSFR": 15,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 8,
+    "LSF": 26,
+    "TLL": 22,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 24,
+    "NM": 58
+  },
+  "blue loss moves": {
+    "DLBL": 2,
+    "DLBR": 4,
+    "DLFL": 8,
+    "DLFR": 8,
+    "DSBL": 6,
+    "DSBR": 9,
+    "DSFL": 21,
+    "DSFR": 15,
+    "LLB": 6,
+    "LLF": 3,
+    "LSB": 13,
+    "LSF": 28,
+    "TLL": 23,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 20,
+    "NM": 115
+  },
+  "red win moves": {
+    "DLBL": 1,
+    "DLBR": 0,
+    "DLFL": 6,
+    "DLFR": 1,
+    "DSBL": 8,
+    "DSBR": 2,
+    "DSFL": 16,
+    "DSFR": 12,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 5,
+    "LSF": 47,
+    "TLL": 47,
+    "TLR": 7,
+    "TSL": 0,
+    "TSR": 37,
+    "NM": 101
+  },
+  "red loss moves": {
+    "DLBL": 1,
+    "DLBR": 3,
+    "DLFL": 3,
+    "DLFR": 5,
+    "DSBL": 3,
+    "DSBR": 7,
+    "DSFL": 13,
+    "DSFR": 13,
+    "LLB": 2,
+    "LLF": 3,
+    "LSB": 5,
+    "LSF": 24,
+    "TLL": 23,
+    "TLR": 8,
+    "TSL": 0,
+    "TSR": 19,
+    "NM": 56
+  },
+  "blue total shots": {
+    "長球": 48,
+    "切球": 85,
+    "殺球": 81,
+    "挑球": 154,
+    "小球": 58,
+    "平球": 12,
+    "撲球": 41
+  },
+  "red total shots": {
+    "長球": 50,
+    "切球": 109,
+    "殺球": 46,
+    "挑球": 165,
+    "小球": 35,
+    "平球": 20,
+    "撲球": 50
+  },
+  "blue total moves": {
+    "DLBL": 2,
+    "DLBR": 9,
+    "DLFL": 13,
+    "DLFR": 10,
+    "DSBL": 10,
+    "DSBR": 16,
+    "DSFL": 36,
+    "DSFR": 30,
+    "LLB": 6,
+    "LLF": 3,
+    "LSB": 21,
+    "LSF": 54,
+    "TLL": 45,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 44,
+    "NM": 173
+  },
+  "red total moves": {
+    "DLBL": 2,
+    "DLBR": 3,
+    "DLFL": 9,
+    "DLFR": 6,
+    "DSBL": 11,
+    "DSBR": 9,
+    "DSFL": 29,
+    "DSFR": 25,
+    "LLB": 2,
+    "LLF": 4,
+    "LSB": 10,
+    "LSF": 71,
+    "TLL": 70,
+    "TLR": 15,
+    "TSL": 0,
+    "TSR": 56,
+    "NM": 157
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "Match": "YONEX French Open 2021  Kenta Nishimoto (JPN) vs Chou Tien Chen (TPE) [4]  Quarterfinals",
+  "b_r_players": [
+    "Kenta Nishimoto",
+    "Chou Tien Chen"
+  ],
+  "correct_scores": [
+    [
+      17,
+      21
+    ],
+    [
+      21,
+      19
+    ],
+    [
+      16,
+      21
+    ]
+  ],
+  "games": [
+    {
+      "score count": 38,
+      "blue red score": [
+        20,
+        18
+      ]
+    },
+    {
+      "score count": 39,
+      "blue red score": [
+        23,
+        16
+      ]
+    },
+    {
+      "score count": 43,
+      "blue red score": [
+        24,
+        19
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 68,
+    "切球": 116,
+    "殺球": 94,
+    "挑球": 152,
+    "小球": 68,
+    "平球": 29,
+    "撲球": 48
+  },
+  "blue loss shots": {
+    "長球": 39,
+    "切球": 93,
+    "殺球": 74,
+    "挑球": 104,
+    "小球": 56,
+    "平球": 22,
+    "撲球": 21
+  },
+  "red win shots": {
+    "長球": 59,
+    "切球": 34,
+    "殺球": 46,
+    "挑球": 143,
+    "小球": 45,
+    "平球": 29,
+    "撲球": 52
+  },
+  "red loss shots": {
+    "長球": 88,
+    "切球": 61,
+    "殺球": 73,
+    "挑球": 183,
+    "小球": 68,
+    "平球": 37,
+    "撲球": 65
+  },
+  "blue win moves": {
+    "DLBL": 3,
+    "DLBR": 6,
+    "DLFL": 11,
+    "DLFR": 10,
+    "DSBL": 15,
+    "DSBR": 15,
+    "DSFL": 27,
+    "DSFR": 61,
+    "LLB": 1,
+    "LLF": 2,
+    "LSB": 16,
+    "LSF": 61,
+    "TLL": 76,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 50,
+    "NM": 218
+  },
+  "blue loss moves": {
+    "DLBL": 3,
+    "DLBR": 2,
+    "DLFL": 8,
+    "DLFR": 8,
+    "DSBL": 8,
+    "DSBR": 12,
+    "DSFL": 29,
+    "DSFR": 18,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 16,
+    "LSF": 51,
+    "TLL": 50,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 41,
+    "NM": 156
+  },
+  "red win moves": {
+    "DLBL": 8,
+    "DLBR": 5,
+    "DLFL": 3,
+    "DLFR": 6,
+    "DSBL": 18,
+    "DSBR": 4,
+    "DSFL": 13,
+    "DSFR": 30,
+    "LLB": 3,
+    "LLF": 1,
+    "LSB": 18,
+    "LSF": 53,
+    "TLL": 37,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 38,
+    "NM": 172
+  },
+  "red loss moves": {
+    "DLBL": 17,
+    "DLBR": 6,
+    "DLFL": 2,
+    "DLFR": 11,
+    "DSBL": 23,
+    "DSBR": 11,
+    "DSFL": 31,
+    "DSFR": 40,
+    "LLB": 4,
+    "LLF": 2,
+    "LSB": 16,
+    "LSF": 68,
+    "TLL": 65,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 57,
+    "NM": 220
+  },
+  "blue total shots": {
+    "長球": 107,
+    "切球": 209,
+    "殺球": 168,
+    "挑球": 256,
+    "小球": 124,
+    "平球": 51,
+    "撲球": 69
+  },
+  "red total shots": {
+    "長球": 147,
+    "切球": 95,
+    "殺球": 119,
+    "挑球": 326,
+    "小球": 113,
+    "平球": 66,
+    "撲球": 117
+  },
+  "blue total moves": {
+    "DLBL": 6,
+    "DLBR": 8,
+    "DLFL": 19,
+    "DLFR": 18,
+    "DSBL": 23,
+    "DSBR": 27,
+    "DSFL": 56,
+    "DSFR": 79,
+    "LLB": 2,
+    "LLF": 3,
+    "LSB": 32,
+    "LSF": 112,
+    "TLL": 126,
+    "TLR": 7,
+    "TSL": 0,
+    "TSR": 91,
+    "NM": 374
+  },
+  "red total moves": {
+    "DLBL": 25,
+    "DLBR": 11,
+    "DLFL": 5,
+    "DLFR": 17,
+    "DSBL": 41,
+    "DSBR": 15,
+    "DSFL": 44,
+    "DSFR": 70,
+    "LLB": 7,
+    "LLF": 3,
+    "LSB": 34,
+    "LSF": 121,
+    "TLL": 102,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 95,
+    "NM": 392
+  }
+}

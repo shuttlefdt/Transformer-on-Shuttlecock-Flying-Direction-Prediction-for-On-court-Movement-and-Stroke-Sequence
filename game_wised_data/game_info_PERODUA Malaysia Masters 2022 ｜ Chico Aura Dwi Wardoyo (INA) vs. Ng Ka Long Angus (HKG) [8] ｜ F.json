@@ -1,0 +1,205 @@
+{
+  "Match": "PERODUA Malaysia Masters 2022 ｜ Chico Aura Dwi Wardoyo (INA) vs. Ng Ka Long Angus (HKG) [8] ｜ F",
+  "b_r_players": [
+    "Chico Aura Dwi Wardoyo",
+    "Ng Ka Long Angus"
+  ],
+  "correct_scores": [
+    [
+      22,
+      20
+    ],
+    [
+      21,
+      15
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 41,
+      "blue red score": [
+        21,
+        20
+      ]
+    },
+    {
+      "score count": 34,
+      "blue red score": [
+        20,
+        14
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 15,
+    "切球": 67,
+    "殺球": 45,
+    "挑球": 83,
+    "小球": 28,
+    "平球": 8,
+    "撲球": 30
+  },
+  "blue loss shots": {
+    "長球": 14,
+    "切球": 94,
+    "殺球": 52,
+    "挑球": 62,
+    "小球": 26,
+    "平球": 7,
+    "撲球": 15
+  },
+  "red win shots": {
+    "長球": 19,
+    "切球": 31,
+    "殺球": 27,
+    "挑球": 134,
+    "小球": 18,
+    "平球": 10,
+    "撲球": 25
+  },
+  "red loss shots": {
+    "長球": 21,
+    "切球": 55,
+    "殺球": 23,
+    "挑球": 114,
+    "小球": 32,
+    "平球": 8,
+    "撲球": 28
+  },
+  "blue win moves": {
+    "DLBL": 4,
+    "DLBR": 1,
+    "DLFL": 2,
+    "DLFR": 3,
+    "DSBL": 9,
+    "DSBR": 6,
+    "DSFL": 6,
+    "DSFR": 20,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 9,
+    "LSF": 51,
+    "TLL": 27,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 22,
+    "NM": 118
+  },
+  "blue loss moves": {
+    "DLBL": 3,
+    "DLBR": 2,
+    "DLFL": 1,
+    "DLFR": 2,
+    "DSBL": 7,
+    "DSBR": 7,
+    "DSFL": 5,
+    "DSFR": 20,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 6,
+    "LSF": 40,
+    "TLL": 35,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 35,
+    "NM": 99
+  },
+  "red win moves": {
+    "DLBL": 1,
+    "DLBR": 1,
+    "DLFL": 1,
+    "DLFR": 3,
+    "DSBL": 7,
+    "DSBR": 5,
+    "DSFL": 11,
+    "DSFR": 20,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 10,
+    "LSF": 54,
+    "TLL": 22,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 22,
+    "NM": 112
+  },
+  "red loss moves": {
+    "DLBL": 5,
+    "DLBR": 1,
+    "DLFL": 1,
+    "DLFR": 5,
+    "DSBL": 5,
+    "DSBR": 4,
+    "DSFL": 8,
+    "DSFR": 24,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 13,
+    "LSF": 53,
+    "TLL": 21,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 24,
+    "NM": 108
+  },
+  "blue total shots": {
+    "長球": 29,
+    "切球": 161,
+    "殺球": 97,
+    "挑球": 145,
+    "小球": 54,
+    "平球": 15,
+    "撲球": 45
+  },
+  "red total shots": {
+    "長球": 40,
+    "切球": 86,
+    "殺球": 50,
+    "挑球": 248,
+    "小球": 50,
+    "平球": 18,
+    "撲球": 53
+  },
+  "blue total moves": {
+    "DLBL": 7,
+    "DLBR": 3,
+    "DLFL": 3,
+    "DLFR": 5,
+    "DSBL": 16,
+    "DSBR": 13,
+    "DSFL": 11,
+    "DSFR": 40,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 15,
+    "LSF": 91,
+    "TLL": 62,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 57,
+    "NM": 217
+  },
+  "red total moves": {
+    "DLBL": 6,
+    "DLBR": 2,
+    "DLFL": 2,
+    "DLFR": 8,
+    "DSBL": 12,
+    "DSBR": 9,
+    "DSFL": 19,
+    "DSFR": 44,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 23,
+    "LSF": 107,
+    "TLL": 43,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 46,
+    "NM": 220
+  }
+}

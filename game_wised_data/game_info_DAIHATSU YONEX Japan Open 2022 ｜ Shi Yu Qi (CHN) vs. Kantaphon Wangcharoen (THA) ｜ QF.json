@@ -1,0 +1,205 @@
+{
+  "Match": "DAIHATSU YONEX Japan Open 2022 ｜ Shi Yu Qi (CHN) vs. Kantaphon Wangcharoen (THA) ｜ QF",
+  "b_r_players": [
+    "Shi Yu Qi",
+    "Kantaphon Wangcharoen"
+  ],
+  "correct_scores": [
+    [
+      21,
+      6
+    ],
+    [
+      21,
+      13
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 41,
+      "blue red score": [
+        15,
+        26
+      ]
+    },
+    {
+      "score count": 47,
+      "blue red score": [
+        29,
+        18
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 15,
+    "切球": 18,
+    "殺球": 17,
+    "挑球": 72,
+    "小球": 16,
+    "平球": 17,
+    "撲球": 13
+  },
+  "blue loss shots": {
+    "長球": 23,
+    "切球": 34,
+    "殺球": 26,
+    "挑球": 60,
+    "小球": 19,
+    "平球": 13,
+    "撲球": 8
+  },
+  "red win shots": {
+    "長球": 23,
+    "切球": 25,
+    "殺球": 29,
+    "挑球": 62,
+    "小球": 16,
+    "平球": 8,
+    "撲球": 16
+  },
+  "red loss shots": {
+    "長球": 19,
+    "切球": 28,
+    "殺球": 42,
+    "挑球": 35,
+    "小球": 23,
+    "平球": 5,
+    "撲球": 15
+  },
+  "blue win moves": {
+    "DLBL": 1,
+    "DLBR": 0,
+    "DLFL": 1,
+    "DLFR": 3,
+    "DSBL": 5,
+    "DSBR": 4,
+    "DSFL": 7,
+    "DSFR": 11,
+    "LLB": 0,
+    "LLF": 4,
+    "LSB": 6,
+    "LSF": 34,
+    "TLL": 13,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 8,
+    "NM": 70
+  },
+  "blue loss moves": {
+    "DLBL": 3,
+    "DLBR": 1,
+    "DLFL": 1,
+    "DLFR": 6,
+    "DSBL": 7,
+    "DSBR": 4,
+    "DSFL": 8,
+    "DSFR": 12,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 7,
+    "LSF": 26,
+    "TLL": 17,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 13,
+    "NM": 73
+  },
+  "red win moves": {
+    "DLBL": 2,
+    "DLBR": 1,
+    "DLFL": 3,
+    "DLFR": 2,
+    "DSBL": 7,
+    "DSBR": 5,
+    "DSFL": 8,
+    "DSFR": 10,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 11,
+    "LSF": 28,
+    "TLL": 24,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 24,
+    "NM": 58
+  },
+  "red loss moves": {
+    "DLBL": 0,
+    "DLBR": 2,
+    "DLFL": 1,
+    "DLFR": 3,
+    "DSBL": 4,
+    "DSBR": 2,
+    "DSFL": 9,
+    "DSFR": 9,
+    "LLB": 0,
+    "LLF": 5,
+    "LSB": 6,
+    "LSF": 15,
+    "TLL": 20,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 16,
+    "NM": 76
+  },
+  "blue total shots": {
+    "長球": 38,
+    "切球": 52,
+    "殺球": 43,
+    "挑球": 132,
+    "小球": 35,
+    "平球": 30,
+    "撲球": 21
+  },
+  "red total shots": {
+    "長球": 42,
+    "切球": 53,
+    "殺球": 71,
+    "挑球": 97,
+    "小球": 39,
+    "平球": 13,
+    "撲球": 31
+  },
+  "blue total moves": {
+    "DLBL": 4,
+    "DLBR": 1,
+    "DLFL": 2,
+    "DLFR": 9,
+    "DSBL": 12,
+    "DSBR": 8,
+    "DSFL": 15,
+    "DSFR": 23,
+    "LLB": 1,
+    "LLF": 4,
+    "LSB": 13,
+    "LSF": 60,
+    "TLL": 30,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 21,
+    "NM": 143
+  },
+  "red total moves": {
+    "DLBL": 2,
+    "DLBR": 3,
+    "DLFL": 4,
+    "DLFR": 5,
+    "DSBL": 11,
+    "DSBR": 7,
+    "DSFL": 17,
+    "DSFR": 19,
+    "LLB": 0,
+    "LLF": 5,
+    "LSB": 17,
+    "LSF": 43,
+    "TLL": 44,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 40,
+    "NM": 134
+  }
+}

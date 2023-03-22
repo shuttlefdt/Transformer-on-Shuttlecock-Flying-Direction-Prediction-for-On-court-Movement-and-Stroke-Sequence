@@ -1,0 +1,205 @@
+{
+  "Match": "YONEX-SUNRISE India Open 2022 ｜ Loh Kean Yew (SGP) [5] vs Lakshya Sen (IND) [3] ｜ F",
+  "b_r_players": [
+    "Lakshya Sen",
+    "Loh Kean Yew"
+  ],
+  "correct_scores": [
+    [
+      24,
+      22
+    ],
+    [
+      21,
+      17
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 75,
+      "blue red score": [
+        38,
+        37
+      ]
+    },
+    {
+      "score count": 7,
+      "blue red score": [
+        3,
+        4
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 36,
+    "切球": 93,
+    "殺球": 69,
+    "挑球": 50,
+    "小球": 58,
+    "平球": 12,
+    "撲球": 7
+  },
+  "blue loss shots": {
+    "長球": 25,
+    "切球": 133,
+    "殺球": 90,
+    "挑球": 49,
+    "小球": 57,
+    "平球": 11,
+    "撲球": 9
+  },
+  "red win shots": {
+    "長球": 55,
+    "切球": 12,
+    "殺球": 2,
+    "挑球": 183,
+    "小球": 17,
+    "平球": 19,
+    "撲球": 75
+  },
+  "red loss shots": {
+    "長球": 61,
+    "切球": 12,
+    "殺球": 11,
+    "挑球": 140,
+    "小球": 26,
+    "平球": 17,
+    "撲球": 67
+  },
+  "blue win moves": {
+    "DLBL": 1,
+    "DLBR": 1,
+    "DLFL": 10,
+    "DLFR": 2,
+    "DSBL": 13,
+    "DSBR": 8,
+    "DSFL": 28,
+    "DSFR": 13,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 7,
+    "LSF": 51,
+    "TLL": 32,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 36,
+    "NM": 130
+  },
+  "blue loss moves": {
+    "DLBL": 4,
+    "DLBR": 2,
+    "DLFL": 4,
+    "DLFR": 6,
+    "DSBL": 8,
+    "DSBR": 4,
+    "DSFL": 28,
+    "DSFR": 21,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 13,
+    "LSF": 40,
+    "TLL": 53,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 30,
+    "NM": 149
+  },
+  "red win moves": {
+    "DLBL": 10,
+    "DLBR": 8,
+    "DLFL": 5,
+    "DLFR": 4,
+    "DSBL": 10,
+    "DSBR": 7,
+    "DSFL": 22,
+    "DSFR": 18,
+    "LLB": 5,
+    "LLF": 2,
+    "LSB": 19,
+    "LSF": 55,
+    "TLL": 37,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 28,
+    "NM": 140
+  },
+  "red loss moves": {
+    "DLBL": 13,
+    "DLBR": 4,
+    "DLFL": 2,
+    "DLFR": 7,
+    "DSBL": 17,
+    "DSBR": 7,
+    "DSFL": 14,
+    "DSFR": 20,
+    "LLB": 4,
+    "LLF": 1,
+    "LSB": 12,
+    "LSF": 35,
+    "TLL": 31,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 29,
+    "NM": 129
+  },
+  "blue total shots": {
+    "長球": 61,
+    "切球": 226,
+    "殺球": 159,
+    "挑球": 99,
+    "小球": 115,
+    "平球": 23,
+    "撲球": 16
+  },
+  "red total shots": {
+    "長球": 116,
+    "切球": 24,
+    "殺球": 13,
+    "挑球": 323,
+    "小球": 43,
+    "平球": 36,
+    "撲球": 142
+  },
+  "blue total moves": {
+    "DLBL": 5,
+    "DLBR": 3,
+    "DLFL": 14,
+    "DLFR": 8,
+    "DSBL": 21,
+    "DSBR": 12,
+    "DSFL": 56,
+    "DSFR": 34,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 20,
+    "LSF": 91,
+    "TLL": 85,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 66,
+    "NM": 279
+  },
+  "red total moves": {
+    "DLBL": 23,
+    "DLBR": 12,
+    "DLFL": 7,
+    "DLFR": 11,
+    "DSBL": 27,
+    "DSBR": 14,
+    "DSFL": 36,
+    "DSFR": 38,
+    "LLB": 9,
+    "LLF": 3,
+    "LSB": 31,
+    "LSF": 90,
+    "TLL": 68,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 57,
+    "NM": 269
+  }
+}

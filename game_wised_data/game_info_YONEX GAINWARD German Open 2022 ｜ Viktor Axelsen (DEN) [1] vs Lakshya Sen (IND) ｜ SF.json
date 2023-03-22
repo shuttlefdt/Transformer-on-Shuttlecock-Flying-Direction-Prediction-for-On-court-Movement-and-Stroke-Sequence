@@ -1,0 +1,212 @@
+{
+  "Match": "YONEX GAINWARD German Open 2022 ｜ Viktor Axelsen (DEN) [1] vs Lakshya Sen (IND) ｜ SF",
+  "b_r_players": [
+    "Lakshya Sen",
+    "Viktor Axelsen"
+  ],
+  "correct_scores": [
+    [
+      21,
+      13
+    ],
+    [
+      12,
+      21
+    ],
+    [
+      22,
+      20
+    ]
+  ],
+  "games": [
+    {
+      "score count": 31,
+      "blue red score": [
+        15,
+        16
+      ]
+    },
+    {
+      "score count": 31,
+      "blue red score": [
+        13,
+        18
+      ]
+    },
+    {
+      "score count": 43,
+      "blue red score": [
+        21,
+        22
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 65,
+    "切球": 84,
+    "殺球": 81,
+    "挑球": 136,
+    "小球": 32,
+    "平球": 18,
+    "撲球": 43
+  },
+  "blue loss shots": {
+    "長球": 72,
+    "切球": 112,
+    "殺球": 98,
+    "挑球": 137,
+    "小球": 40,
+    "平球": 16,
+    "撲球": 46
+  },
+  "red win shots": {
+    "長球": 70,
+    "切球": 69,
+    "殺球": 63,
+    "挑球": 214,
+    "小球": 32,
+    "平球": 24,
+    "撲球": 47
+  },
+  "red loss shots": {
+    "長球": 48,
+    "切球": 82,
+    "殺球": 69,
+    "挑球": 190,
+    "小球": 24,
+    "平球": 21,
+    "撲球": 27
+  },
+  "blue win moves": {
+    "DLBL": 16,
+    "DLBR": 5,
+    "DLFL": 6,
+    "DLFR": 12,
+    "DSBL": 19,
+    "DSBR": 12,
+    "DSFL": 24,
+    "DSFR": 31,
+    "LLB": 4,
+    "LLF": 2,
+    "LSB": 10,
+    "LSF": 45,
+    "TLL": 59,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 45,
+    "NM": 167
+  },
+  "blue loss moves": {
+    "DLBL": 7,
+    "DLBR": 3,
+    "DLFL": 8,
+    "DLFR": 11,
+    "DSBL": 21,
+    "DSBR": 9,
+    "DSFL": 24,
+    "DSFR": 40,
+    "LLB": 6,
+    "LLF": 1,
+    "LSB": 17,
+    "LSF": 61,
+    "TLL": 59,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 48,
+    "NM": 201
+  },
+  "red win moves": {
+    "DLBL": 3,
+    "DLBR": 4,
+    "DLFL": 10,
+    "DLFR": 5,
+    "DSBL": 16,
+    "DSBR": 16,
+    "DSFL": 28,
+    "DSFR": 23,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 17,
+    "LSF": 89,
+    "TLL": 47,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 50,
+    "NM": 207
+  },
+  "red loss moves": {
+    "DLBL": 1,
+    "DLBR": 1,
+    "DLFL": 8,
+    "DLFR": 6,
+    "DSBL": 6,
+    "DSBR": 9,
+    "DSFL": 23,
+    "DSFR": 33,
+    "LLB": 0,
+    "LLF": 4,
+    "LSB": 12,
+    "LSF": 58,
+    "TLL": 57,
+    "TLR": 7,
+    "TSL": 0,
+    "TSR": 48,
+    "NM": 186
+  },
+  "blue total shots": {
+    "長球": 137,
+    "切球": 196,
+    "殺球": 179,
+    "挑球": 273,
+    "小球": 72,
+    "平球": 34,
+    "撲球": 89
+  },
+  "red total shots": {
+    "長球": 118,
+    "切球": 151,
+    "殺球": 132,
+    "挑球": 404,
+    "小球": 56,
+    "平球": 45,
+    "撲球": 74
+  },
+  "blue total moves": {
+    "DLBL": 23,
+    "DLBR": 8,
+    "DLFL": 14,
+    "DLFR": 23,
+    "DSBL": 40,
+    "DSBR": 21,
+    "DSFL": 48,
+    "DSFR": 71,
+    "LLB": 10,
+    "LLF": 3,
+    "LSB": 27,
+    "LSF": 106,
+    "TLL": 118,
+    "TLR": 7,
+    "TSL": 0,
+    "TSR": 93,
+    "NM": 368
+  },
+  "red total moves": {
+    "DLBL": 4,
+    "DLBR": 5,
+    "DLFL": 18,
+    "DLFR": 11,
+    "DSBL": 22,
+    "DSBR": 25,
+    "DSFL": 51,
+    "DSFR": 56,
+    "LLB": 1,
+    "LLF": 5,
+    "LSB": 29,
+    "LSF": 147,
+    "TLL": 104,
+    "TLR": 11,
+    "TSL": 0,
+    "TSR": 98,
+    "NM": 393
+  }
+}

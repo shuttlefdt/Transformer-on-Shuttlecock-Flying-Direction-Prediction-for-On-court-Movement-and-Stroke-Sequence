@@ -1,0 +1,205 @@
+{
+  "Match": "PERODUA Malaysia Masters 2022 ｜ Prannoy H. S. (IND) vs. Kanta Tsuneyama (JPN) ｜ QF",
+  "b_r_players": [
+    "Kanta Tsuneyama",
+    "Prannoy H. S."
+  ],
+  "correct_scores": [
+    [
+      23,
+      25
+    ],
+    [
+      20,
+      22
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 47,
+      "blue red score": [
+        23,
+        24
+      ]
+    },
+    {
+      "score count": 42,
+      "blue red score": [
+        23,
+        19
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 29,
+    "切球": 89,
+    "殺球": 52,
+    "挑球": 131,
+    "小球": 26,
+    "平球": 10,
+    "撲球": 26
+  },
+  "blue loss shots": {
+    "長球": 37,
+    "切球": 69,
+    "殺球": 64,
+    "挑球": 138,
+    "小球": 27,
+    "平球": 12,
+    "撲球": 21
+  },
+  "red win shots": {
+    "長球": 31,
+    "切球": 80,
+    "殺球": 57,
+    "挑球": 134,
+    "小球": 22,
+    "平球": 12,
+    "撲球": 23
+  },
+  "red loss shots": {
+    "長球": 23,
+    "切球": 73,
+    "殺球": 69,
+    "挑球": 158,
+    "小球": 20,
+    "平球": 12,
+    "撲球": 21
+  },
+  "blue win moves": {
+    "DLBL": 0,
+    "DLBR": 0,
+    "DLFL": 3,
+    "DLFR": 6,
+    "DSBL": 11,
+    "DSBR": 10,
+    "DSFL": 9,
+    "DSFR": 11,
+    "LLB": 0,
+    "LLF": 2,
+    "LSB": 11,
+    "LSF": 34,
+    "TLL": 57,
+    "TLR": 5,
+    "TSL": 0,
+    "TSR": 38,
+    "NM": 179
+  },
+  "blue loss moves": {
+    "DLBL": 4,
+    "DLBR": 3,
+    "DLFL": 3,
+    "DLFR": 4,
+    "DSBL": 6,
+    "DSBR": 5,
+    "DSFL": 11,
+    "DSFR": 25,
+    "LLB": 1,
+    "LLF": 2,
+    "LSB": 4,
+    "LSF": 41,
+    "TLL": 53,
+    "TLR": 5,
+    "TSL": 0,
+    "TSR": 29,
+    "NM": 163
+  },
+  "red win moves": {
+    "DLBL": 3,
+    "DLBR": 1,
+    "DLFL": 3,
+    "DLFR": 1,
+    "DSBL": 9,
+    "DSBR": 4,
+    "DSFL": 17,
+    "DSFR": 31,
+    "LLB": 2,
+    "LLF": 1,
+    "LSB": 10,
+    "LSF": 35,
+    "TLL": 36,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 47,
+    "NM": 164
+  },
+  "red loss moves": {
+    "DLBL": 4,
+    "DLBR": 0,
+    "DLFL": 1,
+    "DLFR": 2,
+    "DSBL": 8,
+    "DSBR": 1,
+    "DSFL": 12,
+    "DSFR": 27,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 6,
+    "LSF": 47,
+    "TLL": 42,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 44,
+    "NM": 165
+  },
+  "blue total shots": {
+    "長球": 66,
+    "切球": 158,
+    "殺球": 116,
+    "挑球": 269,
+    "小球": 53,
+    "平球": 22,
+    "撲球": 47
+  },
+  "red total shots": {
+    "長球": 54,
+    "切球": 153,
+    "殺球": 126,
+    "挑球": 292,
+    "小球": 42,
+    "平球": 24,
+    "撲球": 44
+  },
+  "blue total moves": {
+    "DLBL": 4,
+    "DLBR": 3,
+    "DLFL": 6,
+    "DLFR": 10,
+    "DSBL": 17,
+    "DSBR": 15,
+    "DSFL": 20,
+    "DSFR": 36,
+    "LLB": 1,
+    "LLF": 4,
+    "LSB": 15,
+    "LSF": 75,
+    "TLL": 110,
+    "TLR": 10,
+    "TSL": 0,
+    "TSR": 67,
+    "NM": 342
+  },
+  "red total moves": {
+    "DLBL": 7,
+    "DLBR": 1,
+    "DLFL": 4,
+    "DLFR": 3,
+    "DSBL": 17,
+    "DSBR": 5,
+    "DSFL": 29,
+    "DSFR": 58,
+    "LLB": 2,
+    "LLF": 2,
+    "LSB": 16,
+    "LSF": 82,
+    "TLL": 78,
+    "TLR": 7,
+    "TSL": 0,
+    "TSR": 91,
+    "NM": 329
+  }
+}

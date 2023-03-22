@@ -1,0 +1,205 @@
+{
+  "Match": "BWF World Championships 2022 ｜ Viktor Axelsen (DEN) [1] vs. Mark Caljouw (NED) ｜ R32",
+  "b_r_players": [
+    "Viktor Axelsen",
+    "Mark Caljouw"
+  ],
+  "correct_scores": [
+    [
+      21,
+      19
+    ],
+    [
+      21,
+      10
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 40,
+      "blue red score": [
+        21,
+        19
+      ]
+    },
+    {
+      "score count": 30,
+      "blue red score": [
+        20,
+        10
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 28,
+    "切球": 44,
+    "殺球": 60,
+    "挑球": 123,
+    "小球": 17,
+    "平球": 21,
+    "撲球": 16
+  },
+  "blue loss shots": {
+    "長球": 13,
+    "切球": 40,
+    "殺球": 68,
+    "挑球": 59,
+    "小球": 7,
+    "平球": 11,
+    "撲球": 7
+  },
+  "red win shots": {
+    "長球": 14,
+    "切球": 24,
+    "殺球": 32,
+    "挑球": 104,
+    "小球": 10,
+    "平球": 9,
+    "撲球": 10
+  },
+  "red loss shots": {
+    "長球": 37,
+    "切球": 38,
+    "殺球": 73,
+    "挑球": 101,
+    "小球": 24,
+    "平球": 18,
+    "撲球": 20
+  },
+  "blue win moves": {
+    "DLBL": 0,
+    "DLBR": 0,
+    "DLFL": 6,
+    "DLFR": 3,
+    "DSBL": 7,
+    "DSBR": 1,
+    "DSFL": 26,
+    "DSFR": 13,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 5,
+    "LSF": 32,
+    "TLL": 43,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 34,
+    "NM": 138
+  },
+  "blue loss moves": {
+    "DLBL": 0,
+    "DLBR": 0,
+    "DLFL": 0,
+    "DLFR": 1,
+    "DSBL": 1,
+    "DSBR": 2,
+    "DSFL": 4,
+    "DSFR": 12,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 8,
+    "LSF": 26,
+    "TLL": 38,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 31,
+    "NM": 80
+  },
+  "red win moves": {
+    "DLBL": 0,
+    "DLBR": 0,
+    "DLFL": 4,
+    "DLFR": 2,
+    "DSBL": 6,
+    "DSBR": 3,
+    "DSFL": 6,
+    "DSFR": 7,
+    "LLB": 0,
+    "LLF": 2,
+    "LSB": 5,
+    "LSF": 22,
+    "TLL": 32,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 16,
+    "NM": 99
+  },
+  "red loss moves": {
+    "DLBL": 4,
+    "DLBR": 1,
+    "DLFL": 2,
+    "DLFR": 3,
+    "DSBL": 7,
+    "DSBR": 2,
+    "DSFL": 10,
+    "DSFR": 11,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 11,
+    "LSF": 40,
+    "TLL": 40,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 34,
+    "NM": 142
+  },
+  "blue total shots": {
+    "長球": 41,
+    "切球": 84,
+    "殺球": 128,
+    "挑球": 182,
+    "小球": 24,
+    "平球": 32,
+    "撲球": 23
+  },
+  "red total shots": {
+    "長球": 51,
+    "切球": 62,
+    "殺球": 105,
+    "挑球": 205,
+    "小球": 34,
+    "平球": 27,
+    "撲球": 30
+  },
+  "blue total moves": {
+    "DLBL": 0,
+    "DLBR": 0,
+    "DLFL": 6,
+    "DLFR": 4,
+    "DSBL": 8,
+    "DSBR": 3,
+    "DSFL": 30,
+    "DSFR": 25,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 13,
+    "LSF": 58,
+    "TLL": 81,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 65,
+    "NM": 218
+  },
+  "red total moves": {
+    "DLBL": 4,
+    "DLBR": 1,
+    "DLFL": 6,
+    "DLFR": 5,
+    "DSBL": 13,
+    "DSBR": 5,
+    "DSFL": 16,
+    "DSFR": 18,
+    "LLB": 1,
+    "LLF": 2,
+    "LSB": 16,
+    "LSF": 62,
+    "TLL": 72,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 50,
+    "NM": 241
+  }
+}

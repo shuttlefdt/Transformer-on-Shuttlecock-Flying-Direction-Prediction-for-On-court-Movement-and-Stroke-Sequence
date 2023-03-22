@@ -1,0 +1,205 @@
+{
+  "Match": "SF ｜ MS ｜ LEE Zii Jia (MAS) vs. Viktor AXELSEN (DEN) [2] ｜ BWF 2020",
+  "b_r_players": [
+    "Viktor AXELSEN",
+    "LEE Zii Jia"
+  ],
+  "correct_scores": [
+    [
+      17,
+      21
+    ],
+    [
+      21,
+      13
+    ],
+    [
+      21,
+      19
+    ]
+  ],
+  "games": [
+    {
+      "score count": 59,
+      "blue red score": [
+        26,
+        33
+      ]
+    },
+    {
+      "score count": 116,
+      "blue red score": [
+        47,
+        69
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 22,
+    "切球": 41,
+    "殺球": 49,
+    "挑球": 157,
+    "小球": 12,
+    "平球": 27,
+    "撲球": 24
+  },
+  "blue loss shots": {
+    "長球": 48,
+    "切球": 59,
+    "殺球": 57,
+    "挑球": 218,
+    "小球": 38,
+    "平球": 27,
+    "撲球": 49
+  },
+  "red win shots": {
+    "長球": 48,
+    "切球": 113,
+    "殺球": 119,
+    "挑球": 117,
+    "小球": 63,
+    "平球": 23,
+    "撲球": 30
+  },
+  "red loss shots": {
+    "長球": 31,
+    "切球": 68,
+    "殺球": 88,
+    "挑球": 80,
+    "小球": 27,
+    "平球": 18,
+    "撲球": 21
+  },
+  "blue win moves": {
+    "DLBL": 4,
+    "DLBR": 0,
+    "DLFL": 2,
+    "DLFR": 5,
+    "DSBL": 6,
+    "DSBR": 1,
+    "DSFL": 23,
+    "DSFR": 22,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 11,
+    "LSF": 36,
+    "TLL": 35,
+    "TLR": 5,
+    "TSL": 0,
+    "TSR": 29,
+    "NM": 153
+  },
+  "blue loss moves": {
+    "DLBL": 2,
+    "DLBR": 4,
+    "DLFL": 3,
+    "DLFR": 12,
+    "DSBL": 11,
+    "DSBR": 3,
+    "DSFL": 32,
+    "DSFR": 26,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 16,
+    "LSF": 72,
+    "TLL": 65,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 53,
+    "NM": 209
+  },
+  "red win moves": {
+    "DLBL": 1,
+    "DLBR": 2,
+    "DLFL": 8,
+    "DLFR": 17,
+    "DSBL": 15,
+    "DSBR": 7,
+    "DSFL": 22,
+    "DSFR": 44,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 25,
+    "LSF": 50,
+    "TLL": 49,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 43,
+    "NM": 211
+  },
+  "red loss moves": {
+    "DLBL": 0,
+    "DLBR": 1,
+    "DLFL": 3,
+    "DLFR": 8,
+    "DSBL": 13,
+    "DSBR": 3,
+    "DSFL": 13,
+    "DSFR": 19,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 17,
+    "LSF": 33,
+    "TLL": 35,
+    "TLR": 5,
+    "TSL": 0,
+    "TSR": 27,
+    "NM": 155
+  },
+  "blue total shots": {
+    "長球": 70,
+    "切球": 100,
+    "殺球": 106,
+    "挑球": 375,
+    "小球": 50,
+    "平球": 54,
+    "撲球": 73
+  },
+  "red total shots": {
+    "長球": 79,
+    "切球": 181,
+    "殺球": 207,
+    "挑球": 197,
+    "小球": 90,
+    "平球": 41,
+    "撲球": 51
+  },
+  "blue total moves": {
+    "DLBL": 6,
+    "DLBR": 4,
+    "DLFL": 5,
+    "DLFR": 17,
+    "DSBL": 17,
+    "DSBR": 4,
+    "DSFL": 55,
+    "DSFR": 48,
+    "LLB": 2,
+    "LLF": 0,
+    "LSB": 27,
+    "LSF": 108,
+    "TLL": 100,
+    "TLR": 9,
+    "TSL": 0,
+    "TSR": 82,
+    "NM": 362
+  },
+  "red total moves": {
+    "DLBL": 1,
+    "DLBR": 3,
+    "DLFL": 11,
+    "DLFR": 25,
+    "DSBL": 28,
+    "DSBR": 10,
+    "DSFL": 35,
+    "DSFR": 63,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 42,
+    "LSF": 83,
+    "TLL": 84,
+    "TLR": 6,
+    "TSL": 0,
+    "TSR": 70,
+    "NM": 366
+  }
+}

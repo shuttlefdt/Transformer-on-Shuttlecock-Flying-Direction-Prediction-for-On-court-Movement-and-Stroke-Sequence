@@ -1,0 +1,212 @@
+{
+  "Match": "VICTOR Denmark Open 2021  Lee Cheuk Yiu (HKG) vs Chou Tien Chen (TPE) [4]  Quarter Finals",
+  "b_r_players": [
+    "Lee Cheuk Yiu",
+    "Chou Tien Chen"
+  ],
+  "correct_scores": [
+    [
+      21,
+      16
+    ],
+    [
+      19,
+      21
+    ],
+    [
+      21,
+      19
+    ]
+  ],
+  "games": [
+    {
+      "score count": 32,
+      "blue red score": [
+        21,
+        11
+      ]
+    },
+    {
+      "score count": 34,
+      "blue red score": [
+        14,
+        20
+      ]
+    },
+    {
+      "score count": 36,
+      "blue red score": [
+        21,
+        15
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 29,
+    "切球": 91,
+    "殺球": 63,
+    "挑球": 97,
+    "小球": 81,
+    "平球": 22,
+    "撲球": 48
+  },
+  "blue loss shots": {
+    "長球": 37,
+    "切球": 60,
+    "殺球": 33,
+    "挑球": 120,
+    "小球": 49,
+    "平球": 32,
+    "撲球": 48
+  },
+  "red win shots": {
+    "長球": 30,
+    "切球": 70,
+    "殺球": 57,
+    "挑球": 99,
+    "小球": 56,
+    "平球": 26,
+    "撲球": 38
+  },
+  "red loss shots": {
+    "長球": 29,
+    "切球": 65,
+    "殺球": 35,
+    "挑球": 150,
+    "小球": 58,
+    "平球": 28,
+    "撲球": 69
+  },
+  "blue win moves": {
+    "DLBL": 2,
+    "DLBR": 6,
+    "DLFL": 3,
+    "DLFR": 4,
+    "DSBL": 12,
+    "DSBR": 11,
+    "DSFL": 21,
+    "DSFR": 29,
+    "LLB": 1,
+    "LLF": 2,
+    "LSB": 16,
+    "LSF": 72,
+    "TLL": 48,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 30,
+    "NM": 177
+  },
+  "blue loss moves": {
+    "DLBL": 9,
+    "DLBR": 3,
+    "DLFL": 3,
+    "DLFR": 5,
+    "DSBL": 11,
+    "DSBR": 5,
+    "DSFL": 18,
+    "DSFR": 26,
+    "LLB": 1,
+    "LLF": 3,
+    "LSB": 17,
+    "LSF": 58,
+    "TLL": 15,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 29,
+    "NM": 173
+  },
+  "red win moves": {
+    "DLBL": 6,
+    "DLBR": 2,
+    "DLFL": 3,
+    "DLFR": 3,
+    "DSBL": 5,
+    "DSBR": 8,
+    "DSFL": 23,
+    "DSFR": 13,
+    "LLB": 0,
+    "LLF": 3,
+    "LSB": 18,
+    "LSF": 58,
+    "TLL": 31,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 41,
+    "NM": 164
+  },
+  "red loss moves": {
+    "DLBL": 2,
+    "DLBR": 2,
+    "DLFL": 2,
+    "DLFR": 2,
+    "DSBL": 11,
+    "DSBR": 13,
+    "DSFL": 18,
+    "DSFR": 35,
+    "LLB": 2,
+    "LLF": 0,
+    "LSB": 19,
+    "LSF": 64,
+    "TLL": 40,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 30,
+    "NM": 188
+  },
+  "blue total shots": {
+    "長球": 66,
+    "切球": 151,
+    "殺球": 96,
+    "挑球": 217,
+    "小球": 130,
+    "平球": 54,
+    "撲球": 96
+  },
+  "red total shots": {
+    "長球": 59,
+    "切球": 135,
+    "殺球": 92,
+    "挑球": 249,
+    "小球": 114,
+    "平球": 54,
+    "撲球": 107
+  },
+  "blue total moves": {
+    "DLBL": 11,
+    "DLBR": 9,
+    "DLFL": 6,
+    "DLFR": 9,
+    "DSBL": 23,
+    "DSBR": 16,
+    "DSFL": 39,
+    "DSFR": 55,
+    "LLB": 2,
+    "LLF": 5,
+    "LSB": 33,
+    "LSF": 130,
+    "TLL": 63,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 59,
+    "NM": 350
+  },
+  "red total moves": {
+    "DLBL": 8,
+    "DLBR": 4,
+    "DLFL": 5,
+    "DLFR": 5,
+    "DSBL": 16,
+    "DSBR": 21,
+    "DSFL": 41,
+    "DSFR": 48,
+    "LLB": 2,
+    "LLF": 3,
+    "LSB": 37,
+    "LSF": 122,
+    "TLL": 71,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 71,
+    "NM": 352
+  }
+}

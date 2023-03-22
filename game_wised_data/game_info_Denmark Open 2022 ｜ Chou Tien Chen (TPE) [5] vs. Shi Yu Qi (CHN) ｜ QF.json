@@ -1,0 +1,205 @@
+{
+  "Match": "Denmark Open 2022 ｜ Chou Tien Chen (TPE) [5] vs. Shi Yu Qi (CHN) ｜ QF",
+  "b_r_players": [
+    "Chou Tien Chen",
+    "Shi Yu Qi"
+  ],
+  "correct_scores": [
+    [
+      23,
+      25
+    ],
+    [
+      12,
+      21
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 47,
+      "blue red score": [
+        20,
+        27
+      ]
+    },
+    {
+      "score count": 32,
+      "blue red score": [
+        12,
+        20
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 41,
+    "切球": 60,
+    "殺球": 34,
+    "挑球": 63,
+    "小球": 32,
+    "平球": 17,
+    "撲球": 18
+  },
+  "blue loss shots": {
+    "長球": 32,
+    "切球": 53,
+    "殺球": 39,
+    "挑球": 57,
+    "小球": 40,
+    "平球": 16,
+    "撲球": 28
+  },
+  "red win shots": {
+    "長球": 23,
+    "切球": 42,
+    "殺球": 20,
+    "挑球": 99,
+    "小球": 23,
+    "平球": 10,
+    "撲球": 41
+  },
+  "red loss shots": {
+    "長球": 37,
+    "切球": 39,
+    "殺球": 27,
+    "挑球": 103,
+    "小球": 19,
+    "平球": 16,
+    "撲球": 33
+  },
+  "blue win moves": {
+    "DLBL": 6,
+    "DLBR": 1,
+    "DLFL": 3,
+    "DLFR": 2,
+    "DSBL": 6,
+    "DSBR": 7,
+    "DSFL": 15,
+    "DSFR": 26,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 13,
+    "LSF": 35,
+    "TLL": 24,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 22,
+    "NM": 112
+  },
+  "blue loss moves": {
+    "DLBL": 5,
+    "DLBR": 0,
+    "DLFL": 3,
+    "DLFR": 6,
+    "DSBL": 13,
+    "DSBR": 5,
+    "DSFL": 17,
+    "DSFR": 8,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 13,
+    "LSF": 52,
+    "TLL": 18,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 21,
+    "NM": 94
+  },
+  "red win moves": {
+    "DLBL": 4,
+    "DLBR": 2,
+    "DLFL": 2,
+    "DLFR": 0,
+    "DSBL": 8,
+    "DSBR": 4,
+    "DSFL": 19,
+    "DSFR": 18,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 6,
+    "LSF": 49,
+    "TLL": 22,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 24,
+    "NM": 106
+  },
+  "red loss moves": {
+    "DLBL": 1,
+    "DLBR": 3,
+    "DLFL": 6,
+    "DLFR": 5,
+    "DSBL": 7,
+    "DSBR": 6,
+    "DSFL": 11,
+    "DSFR": 10,
+    "LLB": 2,
+    "LLF": 2,
+    "LSB": 10,
+    "LSF": 38,
+    "TLL": 23,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 17,
+    "NM": 124
+  },
+  "blue total shots": {
+    "長球": 73,
+    "切球": 113,
+    "殺球": 73,
+    "挑球": 120,
+    "小球": 72,
+    "平球": 33,
+    "撲球": 46
+  },
+  "red total shots": {
+    "長球": 60,
+    "切球": 81,
+    "殺球": 47,
+    "挑球": 202,
+    "小球": 42,
+    "平球": 26,
+    "撲球": 74
+  },
+  "blue total moves": {
+    "DLBL": 11,
+    "DLBR": 1,
+    "DLFL": 6,
+    "DLFR": 8,
+    "DSBL": 19,
+    "DSBR": 12,
+    "DSFL": 32,
+    "DSFR": 34,
+    "LLB": 1,
+    "LLF": 2,
+    "LSB": 26,
+    "LSF": 87,
+    "TLL": 42,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 43,
+    "NM": 206
+  },
+  "red total moves": {
+    "DLBL": 5,
+    "DLBR": 5,
+    "DLFL": 8,
+    "DLFR": 5,
+    "DSBL": 15,
+    "DSBR": 10,
+    "DSFL": 30,
+    "DSFR": 28,
+    "LLB": 2,
+    "LLF": 3,
+    "LSB": 16,
+    "LSF": 87,
+    "TLL": 45,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 41,
+    "NM": 230
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "Match": "YONEX French Open 2022 ｜ Viktor Axelsen (DEN) [1] vs. Kodai Naraoka (JPN) ｜ SF",
+  "b_r_players": [
+    "Viktor Axelsen",
+    "Kodai Naraoka"
+  ],
+  "correct_scores": [
+    [
+      21,
+      12
+    ],
+    [
+      21,
+      8
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 33,
+      "blue red score": [
+        23,
+        10
+      ]
+    },
+    {
+      "score count": 29,
+      "blue red score": [
+        22,
+        7
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 63,
+    "切球": 55,
+    "殺球": 56,
+    "挑球": 194,
+    "小球": 13,
+    "平球": 25,
+    "撲球": 25
+  },
+  "blue loss shots": {
+    "長球": 26,
+    "切球": 17,
+    "殺球": 25,
+    "挑球": 47,
+    "小球": 2,
+    "平球": 12,
+    "撲球": 8
+  },
+  "red win shots": {
+    "長球": 30,
+    "切球": 14,
+    "殺球": 24,
+    "挑球": 36,
+    "小球": 4,
+    "平球": 13,
+    "撲球": 7
+  },
+  "red loss shots": {
+    "長球": 71,
+    "切球": 56,
+    "殺球": 128,
+    "挑球": 102,
+    "小球": 25,
+    "平球": 19,
+    "撲球": 25
+  },
+  "blue win moves": {
+    "DLBL": 5,
+    "DLBR": 0,
+    "DLFL": 4,
+    "DLFR": 5,
+    "DSBL": 7,
+    "DSBR": 5,
+    "DSFL": 21,
+    "DSFR": 24,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 12,
+    "LSF": 41,
+    "TLL": 62,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 48,
+    "NM": 190
+  },
+  "blue loss moves": {
+    "DLBL": 2,
+    "DLBR": 0,
+    "DLFL": 0,
+    "DLFR": 6,
+    "DSBL": 6,
+    "DSBR": 3,
+    "DSFL": 10,
+    "DSFR": 7,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 3,
+    "LSF": 8,
+    "TLL": 24,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 6,
+    "NM": 51
+  },
+  "red win moves": {
+    "DLBL": 5,
+    "DLBR": 1,
+    "DLFL": 1,
+    "DLFR": 3,
+    "DSBL": 7,
+    "DSBR": 6,
+    "DSFL": 8,
+    "DSFR": 7,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 4,
+    "LSF": 18,
+    "TLL": 14,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 9,
+    "NM": 53
+  },
+  "red loss moves": {
+    "DLBL": 15,
+    "DLBR": 0,
+    "DLFL": 5,
+    "DLFR": 12,
+    "DSBL": 14,
+    "DSBR": 13,
+    "DSFL": 16,
+    "DSFR": 19,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 15,
+    "LSF": 45,
+    "TLL": 52,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 41,
+    "NM": 181
+  },
+  "blue total shots": {
+    "長球": 89,
+    "切球": 72,
+    "殺球": 81,
+    "挑球": 241,
+    "小球": 15,
+    "平球": 37,
+    "撲球": 33
+  },
+  "red total shots": {
+    "長球": 101,
+    "切球": 70,
+    "殺球": 152,
+    "挑球": 138,
+    "小球": 29,
+    "平球": 32,
+    "撲球": 32
+  },
+  "blue total moves": {
+    "DLBL": 7,
+    "DLBR": 0,
+    "DLFL": 4,
+    "DLFR": 11,
+    "DSBL": 13,
+    "DSBR": 8,
+    "DSFL": 31,
+    "DSFR": 31,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 15,
+    "LSF": 49,
+    "TLL": 86,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 54,
+    "NM": 241
+  },
+  "red total moves": {
+    "DLBL": 20,
+    "DLBR": 1,
+    "DLFL": 6,
+    "DLFR": 15,
+    "DSBL": 21,
+    "DSBR": 19,
+    "DSFL": 24,
+    "DSFR": 26,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 19,
+    "LSF": 63,
+    "TLL": 66,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 50,
+    "NM": 234
+  }
+}

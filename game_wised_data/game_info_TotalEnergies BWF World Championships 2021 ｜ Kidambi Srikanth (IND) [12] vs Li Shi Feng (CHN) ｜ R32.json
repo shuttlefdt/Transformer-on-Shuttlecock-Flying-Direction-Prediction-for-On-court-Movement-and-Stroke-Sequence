@@ -1,0 +1,212 @@
+{
+  "Match": "TotalEnergies BWF World Championships 2021 ｜ Kidambi Srikanth (IND) [12] vs Li Shi Feng (CHN) ｜ R32",
+  "b_r_players": [
+    "Li Shi Feng",
+    "Kidambi Srikanth"
+  ],
+  "correct_scores": [
+    [
+      21,
+      15
+    ],
+    [
+      18,
+      21
+    ],
+    [
+      17,
+      21
+    ]
+  ],
+  "games": [
+    {
+      "score count": 36,
+      "blue red score": [
+        21,
+        15
+      ]
+    },
+    {
+      "score count": 32,
+      "blue red score": [
+        16,
+        16
+      ]
+    },
+    {
+      "score count": 38,
+      "blue red score": [
+        17,
+        21
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 58,
+    "切球": 63,
+    "殺球": 60,
+    "挑球": 118,
+    "小球": 17,
+    "平球": 10,
+    "撲球": 20
+  },
+  "blue loss shots": {
+    "長球": 46,
+    "切球": 67,
+    "殺球": 50,
+    "挑球": 132,
+    "小球": 17,
+    "平球": 18,
+    "撲球": 29
+  },
+  "red win shots": {
+    "長球": 59,
+    "切球": 51,
+    "殺球": 66,
+    "挑球": 106,
+    "小球": 26,
+    "平球": 17,
+    "撲球": 27
+  },
+  "red loss shots": {
+    "長球": 60,
+    "切球": 51,
+    "殺球": 64,
+    "挑球": 126,
+    "小球": 21,
+    "平球": 13,
+    "撲球": 22
+  },
+  "blue win moves": {
+    "DLBL": 2,
+    "DLBR": 2,
+    "DLFL": 2,
+    "DLFR": 5,
+    "DSBL": 8,
+    "DSBR": 8,
+    "DSFL": 19,
+    "DSFR": 23,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 10,
+    "LSF": 50,
+    "TLL": 38,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 40,
+    "NM": 146
+  },
+  "blue loss moves": {
+    "DLBL": 4,
+    "DLBR": 3,
+    "DLFL": 1,
+    "DLFR": 7,
+    "DSBL": 3,
+    "DSBR": 5,
+    "DSFL": 12,
+    "DSFR": 18,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 7,
+    "LSF": 47,
+    "TLL": 39,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 31,
+    "NM": 173
+  },
+  "red win moves": {
+    "DLBL": 9,
+    "DLBR": 5,
+    "DLFL": 1,
+    "DLFR": 5,
+    "DSBL": 12,
+    "DSBR": 7,
+    "DSFL": 20,
+    "DSFR": 25,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 12,
+    "LSF": 66,
+    "TLL": 27,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 30,
+    "NM": 138
+  },
+  "red loss moves": {
+    "DLBL": 10,
+    "DLBR": 3,
+    "DLFL": 4,
+    "DLFR": 3,
+    "DSBL": 9,
+    "DSBR": 9,
+    "DSFL": 21,
+    "DSFR": 18,
+    "LLB": 1,
+    "LLF": 4,
+    "LSB": 10,
+    "LSF": 54,
+    "TLL": 32,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 30,
+    "NM": 136
+  },
+  "blue total shots": {
+    "長球": 104,
+    "切球": 130,
+    "殺球": 110,
+    "挑球": 250,
+    "小球": 34,
+    "平球": 28,
+    "撲球": 49
+  },
+  "red total shots": {
+    "長球": 119,
+    "切球": 102,
+    "殺球": 130,
+    "挑球": 232,
+    "小球": 47,
+    "平球": 30,
+    "撲球": 49
+  },
+  "blue total moves": {
+    "DLBL": 6,
+    "DLBR": 5,
+    "DLFL": 3,
+    "DLFR": 12,
+    "DSBL": 11,
+    "DSBR": 13,
+    "DSFL": 31,
+    "DSFR": 41,
+    "LLB": 1,
+    "LLF": 2,
+    "LSB": 17,
+    "LSF": 97,
+    "TLL": 77,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 71,
+    "NM": 319
+  },
+  "red total moves": {
+    "DLBL": 19,
+    "DLBR": 8,
+    "DLFL": 5,
+    "DLFR": 8,
+    "DSBL": 21,
+    "DSBR": 16,
+    "DSFL": 41,
+    "DSFR": 43,
+    "LLB": 2,
+    "LLF": 5,
+    "LSB": 22,
+    "LSF": 120,
+    "TLL": 59,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 60,
+    "NM": 274
+  }
+}

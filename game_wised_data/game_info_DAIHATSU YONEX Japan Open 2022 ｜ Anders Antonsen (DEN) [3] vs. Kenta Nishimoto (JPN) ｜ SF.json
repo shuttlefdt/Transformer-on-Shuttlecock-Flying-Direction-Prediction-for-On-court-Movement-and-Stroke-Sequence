@@ -1,0 +1,205 @@
+{
+  "Match": "DAIHATSU YONEX Japan Open 2022 ｜ Anders Antonsen (DEN) [3] vs. Kenta Nishimoto (JPN) ｜ SF",
+  "b_r_players": [
+    "Kenta Nishimoto",
+    "Anders Antonsen"
+  ],
+  "correct_scores": [
+    [
+      22,
+      20
+    ],
+    [
+      21,
+      19
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 49,
+      "blue red score": [
+        25,
+        24
+      ]
+    },
+    {
+      "score count": 44,
+      "blue red score": [
+        20,
+        24
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 70,
+    "切球": 60,
+    "殺球": 69,
+    "挑球": 102,
+    "小球": 27,
+    "平球": 26,
+    "撲球": 20
+  },
+  "blue loss shots": {
+    "長球": 59,
+    "切球": 64,
+    "殺球": 71,
+    "挑球": 88,
+    "小球": 27,
+    "平球": 27,
+    "撲球": 21
+  },
+  "red win shots": {
+    "長球": 61,
+    "切球": 37,
+    "殺球": 50,
+    "挑球": 133,
+    "小球": 28,
+    "平球": 21,
+    "撲球": 31
+  },
+  "red loss shots": {
+    "長球": 65,
+    "切球": 40,
+    "殺球": 70,
+    "挑球": 132,
+    "小球": 25,
+    "平球": 22,
+    "撲球": 22
+  },
+  "blue win moves": {
+    "DLBL": 2,
+    "DLBR": 1,
+    "DLFL": 2,
+    "DLFR": 10,
+    "DSBL": 7,
+    "DSBR": 11,
+    "DSFL": 16,
+    "DSFR": 23,
+    "LLB": 2,
+    "LLF": 0,
+    "LSB": 13,
+    "LSF": 32,
+    "TLL": 67,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 42,
+    "NM": 146
+  },
+  "blue loss moves": {
+    "DLBL": 1,
+    "DLBR": 5,
+    "DLFL": 1,
+    "DLFR": 9,
+    "DSBL": 9,
+    "DSBR": 12,
+    "DSFL": 17,
+    "DSFR": 17,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 13,
+    "LSF": 45,
+    "TLL": 48,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 25,
+    "NM": 156
+  },
+  "red win moves": {
+    "DLBL": 5,
+    "DLBR": 3,
+    "DLFL": 4,
+    "DLFR": 7,
+    "DSBL": 21,
+    "DSBR": 8,
+    "DSFL": 18,
+    "DSFR": 12,
+    "LLB": 1,
+    "LLF": 2,
+    "LSB": 14,
+    "LSF": 47,
+    "TLL": 33,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 23,
+    "NM": 157
+  },
+  "red loss moves": {
+    "DLBL": 3,
+    "DLBR": 2,
+    "DLFL": 3,
+    "DLFR": 6,
+    "DSBL": 13,
+    "DSBR": 12,
+    "DSFL": 18,
+    "DSFR": 18,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 19,
+    "LSF": 46,
+    "TLL": 43,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 31,
+    "NM": 160
+  },
+  "blue total shots": {
+    "長球": 129,
+    "切球": 124,
+    "殺球": 140,
+    "挑球": 190,
+    "小球": 54,
+    "平球": 53,
+    "撲球": 41
+  },
+  "red total shots": {
+    "長球": 126,
+    "切球": 77,
+    "殺球": 120,
+    "挑球": 265,
+    "小球": 53,
+    "平球": 43,
+    "撲球": 53
+  },
+  "blue total moves": {
+    "DLBL": 3,
+    "DLBR": 6,
+    "DLFL": 3,
+    "DLFR": 19,
+    "DSBL": 16,
+    "DSBR": 23,
+    "DSFL": 33,
+    "DSFR": 40,
+    "LLB": 2,
+    "LLF": 1,
+    "LSB": 26,
+    "LSF": 77,
+    "TLL": 115,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 67,
+    "NM": 302
+  },
+  "red total moves": {
+    "DLBL": 8,
+    "DLBR": 5,
+    "DLFL": 7,
+    "DLFR": 13,
+    "DSBL": 34,
+    "DSBR": 20,
+    "DSFL": 36,
+    "DSFR": 30,
+    "LLB": 1,
+    "LLF": 2,
+    "LSB": 33,
+    "LSF": 93,
+    "TLL": 76,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 54,
+    "NM": 317
+  }
+}

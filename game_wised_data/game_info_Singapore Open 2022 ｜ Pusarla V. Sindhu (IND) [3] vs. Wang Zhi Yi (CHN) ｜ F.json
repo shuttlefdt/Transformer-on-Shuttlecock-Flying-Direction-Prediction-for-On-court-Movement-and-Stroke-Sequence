@@ -1,0 +1,205 @@
+{
+  "Match": "Singapore Open 2022 ｜ Pusarla V. Sindhu (IND) [3] vs. Wang Zhi Yi (CHN) ｜ F",
+  "b_r_players": [
+    "Pusarla V. Sindhu",
+    "Wang Zhi Yi"
+  ],
+  "correct_scores": [
+    [
+      21,
+      9
+    ],
+    [
+      11,
+      21
+    ],
+    [
+      21,
+      15
+    ]
+  ],
+  "games": [
+    {
+      "score count": 48,
+      "blue red score": [
+        25,
+        23
+      ]
+    },
+    {
+      "score count": 35,
+      "blue red score": [
+        16,
+        19
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 34,
+    "切球": 42,
+    "殺球": 41,
+    "挑球": 60,
+    "小球": 23,
+    "平球": 6,
+    "撲球": 13
+  },
+  "blue loss shots": {
+    "長球": 47,
+    "切球": 19,
+    "殺球": 37,
+    "挑球": 73,
+    "小球": 23,
+    "平球": 22,
+    "撲球": 20
+  },
+  "red win shots": {
+    "長球": 30,
+    "切球": 42,
+    "殺球": 45,
+    "挑球": 78,
+    "小球": 16,
+    "平球": 16,
+    "撲球": 13
+  },
+  "red loss shots": {
+    "長球": 40,
+    "切球": 31,
+    "殺球": 20,
+    "挑球": 82,
+    "小球": 13,
+    "平球": 15,
+    "撲球": 23
+  },
+  "blue win moves": {
+    "DLBL": 1,
+    "DLBR": 5,
+    "DLFL": 5,
+    "DLFR": 3,
+    "DSBL": 4,
+    "DSBR": 3,
+    "DSFL": 17,
+    "DSFR": 14,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 11,
+    "LSF": 30,
+    "TLL": 27,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 18,
+    "NM": 84
+  },
+  "blue loss moves": {
+    "DLBL": 3,
+    "DLBR": 3,
+    "DLFL": 1,
+    "DLFR": 4,
+    "DSBL": 6,
+    "DSBR": 6,
+    "DSFL": 11,
+    "DSFR": 6,
+    "LLB": 5,
+    "LLF": 2,
+    "LSB": 10,
+    "LSF": 28,
+    "TLL": 23,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 32,
+    "NM": 100
+  },
+  "red win moves": {
+    "DLBL": 1,
+    "DLBR": 0,
+    "DLFL": 3,
+    "DLFR": 2,
+    "DSBL": 6,
+    "DSBR": 9,
+    "DSFL": 16,
+    "DSFR": 15,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 6,
+    "LSF": 34,
+    "TLL": 23,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 20,
+    "NM": 103
+  },
+  "red loss moves": {
+    "DLBL": 2,
+    "DLBR": 3,
+    "DLFL": 2,
+    "DLFR": 1,
+    "DSBL": 4,
+    "DSBR": 7,
+    "DSFL": 7,
+    "DSFR": 16,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 11,
+    "LSF": 34,
+    "TLL": 31,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 13,
+    "NM": 87
+  },
+  "blue total shots": {
+    "長球": 81,
+    "切球": 61,
+    "殺球": 78,
+    "挑球": 133,
+    "小球": 46,
+    "平球": 28,
+    "撲球": 33
+  },
+  "red total shots": {
+    "長球": 70,
+    "切球": 73,
+    "殺球": 65,
+    "挑球": 160,
+    "小球": 29,
+    "平球": 31,
+    "撲球": 36
+  },
+  "blue total moves": {
+    "DLBL": 4,
+    "DLBR": 8,
+    "DLFL": 6,
+    "DLFR": 7,
+    "DSBL": 10,
+    "DSBR": 9,
+    "DSFL": 28,
+    "DSFR": 20,
+    "LLB": 5,
+    "LLF": 2,
+    "LSB": 21,
+    "LSF": 58,
+    "TLL": 50,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 50,
+    "NM": 184
+  },
+  "red total moves": {
+    "DLBL": 3,
+    "DLBR": 3,
+    "DLFL": 5,
+    "DLFR": 3,
+    "DSBL": 10,
+    "DSBR": 16,
+    "DSFL": 23,
+    "DSFR": 31,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 17,
+    "LSF": 68,
+    "TLL": 54,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 33,
+    "NM": 190
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "Match": "YONEX GAINWARD German Open 2022 ｜ Lakshya Sen (IND) vs Kunlavut Vitidsarn (THA) ｜ F",
+  "b_r_players": [
+    "Lakshya Sen",
+    "Kunlavut Vitidsarn"
+  ],
+  "correct_scores": [
+    [
+      15,
+      21
+    ],
+    [
+      15,
+      21
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 66,
+      "blue red score": [
+        33,
+        33
+      ]
+    },
+    {
+      "score count": 8,
+      "blue red score": [
+        6,
+        2
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 49,
+    "切球": 134,
+    "殺球": 125,
+    "挑球": 62,
+    "小球": 60,
+    "平球": 17,
+    "撲球": 8
+  },
+  "blue loss shots": {
+    "長球": 45,
+    "切球": 115,
+    "殺球": 90,
+    "挑球": 35,
+    "小球": 46,
+    "平球": 15,
+    "撲球": 2
+  },
+  "red win shots": {
+    "長球": 57,
+    "切球": 4,
+    "殺球": 12,
+    "挑球": 192,
+    "小球": 8,
+    "平球": 16,
+    "撲球": 60
+  },
+  "red loss shots": {
+    "長球": 72,
+    "切球": 22,
+    "殺球": 18,
+    "挑球": 236,
+    "小球": 11,
+    "平球": 31,
+    "撲球": 70
+  },
+  "blue win moves": {
+    "DLBL": 2,
+    "DLBR": 1,
+    "DLFL": 5,
+    "DLFR": 10,
+    "DSBL": 18,
+    "DSBR": 6,
+    "DSFL": 22,
+    "DSFR": 40,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 17,
+    "LSF": 54,
+    "TLL": 67,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 57,
+    "NM": 157
+  },
+  "blue loss moves": {
+    "DLBL": 5,
+    "DLBR": 0,
+    "DLFL": 7,
+    "DLFR": 2,
+    "DSBL": 16,
+    "DSBR": 4,
+    "DSFL": 19,
+    "DSFR": 15,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 9,
+    "LSF": 39,
+    "TLL": 46,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 41,
+    "NM": 144
+  },
+  "red win moves": {
+    "DLBL": 2,
+    "DLBR": 5,
+    "DLFL": 4,
+    "DLFR": 6,
+    "DSBL": 10,
+    "DSBR": 12,
+    "DSFL": 14,
+    "DSFR": 16,
+    "LLB": 2,
+    "LLF": 0,
+    "LSB": 13,
+    "LSF": 51,
+    "TLL": 40,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 29,
+    "NM": 143
+  },
+  "red loss moves": {
+    "DLBL": 10,
+    "DLBR": 6,
+    "DLFL": 4,
+    "DLFR": 5,
+    "DSBL": 15,
+    "DSBR": 9,
+    "DSFL": 13,
+    "DSFR": 28,
+    "LLB": 5,
+    "LLF": 0,
+    "LSB": 15,
+    "LSF": 56,
+    "TLL": 59,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 38,
+    "NM": 189
+  },
+  "blue total shots": {
+    "長球": 94,
+    "切球": 249,
+    "殺球": 215,
+    "挑球": 97,
+    "小球": 106,
+    "平球": 32,
+    "撲球": 10
+  },
+  "red total shots": {
+    "長球": 129,
+    "切球": 26,
+    "殺球": 30,
+    "挑球": 428,
+    "小球": 19,
+    "平球": 47,
+    "撲球": 130
+  },
+  "blue total moves": {
+    "DLBL": 7,
+    "DLBR": 1,
+    "DLFL": 12,
+    "DLFR": 12,
+    "DSBL": 34,
+    "DSBR": 10,
+    "DSFL": 41,
+    "DSFR": 55,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 26,
+    "LSF": 93,
+    "TLL": 113,
+    "TLR": 5,
+    "TSL": 0,
+    "TSR": 98,
+    "NM": 301
+  },
+  "red total moves": {
+    "DLBL": 12,
+    "DLBR": 11,
+    "DLFL": 8,
+    "DLFR": 11,
+    "DSBL": 25,
+    "DSBR": 21,
+    "DSFL": 27,
+    "DSFR": 44,
+    "LLB": 7,
+    "LLF": 0,
+    "LSB": 28,
+    "LSF": 107,
+    "TLL": 99,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 67,
+    "NM": 332
+  }
+}

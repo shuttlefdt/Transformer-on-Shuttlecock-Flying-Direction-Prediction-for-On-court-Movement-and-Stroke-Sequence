@@ -1,0 +1,212 @@
+{
+  "Match": "HYLO Open 2022 ｜ Anthony Sinisuka Ginting (INA) [5] vs. Kidambi Srikanth (IND) ｜ SF",
+  "b_r_players": [
+    "Anthony Sinisuka Ginting",
+    "Kidambi Srikanth"
+  ],
+  "correct_scores": [
+    [
+      21,
+      18
+    ],
+    [
+      21,
+      15
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 37,
+      "blue red score": [
+        24,
+        13
+      ]
+    },
+    {
+      "score count": 33,
+      "blue red score": [
+        15,
+        17
+      ]
+    },
+    {
+      "score count": 0,
+      "blue red score": [
+        0,
+        1
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 19,
+    "切球": 30,
+    "殺球": 33,
+    "挑球": 41,
+    "小球": 25,
+    "平球": 20,
+    "撲球": 13
+  },
+  "blue loss shots": {
+    "長球": 20,
+    "切球": 15,
+    "殺球": 22,
+    "挑球": 54,
+    "小球": 16,
+    "平球": 4,
+    "撲球": 16
+  },
+  "red win shots": {
+    "長球": 18,
+    "切球": 37,
+    "殺球": 23,
+    "挑球": 35,
+    "小球": 14,
+    "平球": 6,
+    "撲球": 11
+  },
+  "red loss shots": {
+    "長球": 21,
+    "切球": 17,
+    "殺球": 20,
+    "挑球": 64,
+    "小球": 17,
+    "平球": 16,
+    "撲球": 25
+  },
+  "blue win moves": {
+    "DLBL": 2,
+    "DLBR": 1,
+    "DLFL": 4,
+    "DLFR": 1,
+    "DSBL": 5,
+    "DSBR": 5,
+    "DSFL": 5,
+    "DSFR": 13,
+    "LLB": 3,
+    "LLF": 0,
+    "LSB": 10,
+    "LSF": 37,
+    "TLL": 23,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 6,
+    "NM": 64
+  },
+  "blue loss moves": {
+    "DLBL": 1,
+    "DLBR": 2,
+    "DLFL": 1,
+    "DLFR": 3,
+    "DSBL": 7,
+    "DSBR": 2,
+    "DSFL": 5,
+    "DSFR": 4,
+    "LLB": 2,
+    "LLF": 0,
+    "LSB": 7,
+    "LSF": 27,
+    "TLL": 9,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 11,
+    "NM": 62
+  },
+  "red win moves": {
+    "DLBL": 0,
+    "DLBR": 0,
+    "DLFL": 1,
+    "DLFR": 1,
+    "DSBL": 2,
+    "DSBR": 1,
+    "DSFL": 6,
+    "DSFR": 9,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 4,
+    "LSF": 22,
+    "TLL": 18,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 15,
+    "NM": 65
+  },
+  "red loss moves": {
+    "DLBL": 1,
+    "DLBR": 1,
+    "DLFL": 1,
+    "DLFR": 1,
+    "DSBL": 3,
+    "DSBR": 2,
+    "DSFL": 10,
+    "DSFR": 6,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 5,
+    "LSF": 34,
+    "TLL": 17,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 21,
+    "NM": 76
+  },
+  "blue total shots": {
+    "長球": 39,
+    "切球": 45,
+    "殺球": 55,
+    "挑球": 95,
+    "小球": 41,
+    "平球": 24,
+    "撲球": 29
+  },
+  "red total shots": {
+    "長球": 39,
+    "切球": 54,
+    "殺球": 43,
+    "挑球": 99,
+    "小球": 31,
+    "平球": 22,
+    "撲球": 36
+  },
+  "blue total moves": {
+    "DLBL": 3,
+    "DLBR": 3,
+    "DLFL": 5,
+    "DLFR": 4,
+    "DSBL": 12,
+    "DSBR": 7,
+    "DSFL": 10,
+    "DSFR": 17,
+    "LLB": 5,
+    "LLF": 0,
+    "LSB": 17,
+    "LSF": 64,
+    "TLL": 32,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 17,
+    "NM": 126
+  },
+  "red total moves": {
+    "DLBL": 1,
+    "DLBR": 1,
+    "DLFL": 2,
+    "DLFR": 2,
+    "DSBL": 5,
+    "DSBR": 3,
+    "DSFL": 16,
+    "DSFR": 15,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 9,
+    "LSF": 56,
+    "TLL": 35,
+    "TLR": 6,
+    "TSL": 0,
+    "TSR": 36,
+    "NM": 141
+  }
+}

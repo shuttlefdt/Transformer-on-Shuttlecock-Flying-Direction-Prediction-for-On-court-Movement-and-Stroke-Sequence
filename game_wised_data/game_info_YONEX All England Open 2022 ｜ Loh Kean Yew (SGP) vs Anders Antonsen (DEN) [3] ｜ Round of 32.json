@@ -1,0 +1,212 @@
+{
+  "Match": "YONEX All England Open 2022 ｜ Loh Kean Yew (SGP) vs Anders Antonsen (DEN) [3] ｜ Round of 32",
+  "b_r_players": [
+    "Anders Antonsen",
+    "Loh Kean Yew"
+  ],
+  "correct_scores": [
+    [
+      21,
+      15
+    ],
+    [
+      18,
+      21
+    ],
+    [
+      21,
+      13
+    ]
+  ],
+  "games": [
+    {
+      "score count": 38,
+      "blue red score": [
+        26,
+        12
+      ]
+    },
+    {
+      "score count": 43,
+      "blue red score": [
+        21,
+        22
+      ]
+    },
+    {
+      "score count": 36,
+      "blue red score": [
+        22,
+        14
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 48,
+    "切球": 95,
+    "殺球": 109,
+    "挑球": 133,
+    "小球": 33,
+    "平球": 17,
+    "撲球": 13
+  },
+  "blue loss shots": {
+    "長球": 45,
+    "切球": 37,
+    "殺球": 44,
+    "挑球": 179,
+    "小球": 15,
+    "平球": 17,
+    "撲球": 27
+  },
+  "red win shots": {
+    "長球": 46,
+    "切球": 88,
+    "殺球": 89,
+    "挑球": 74,
+    "小球": 32,
+    "平球": 16,
+    "撲球": 13
+  },
+  "red loss shots": {
+    "長球": 56,
+    "切球": 71,
+    "殺球": 63,
+    "挑球": 188,
+    "小球": 24,
+    "平球": 13,
+    "撲球": 35
+  },
+  "blue win moves": {
+    "DLBL": 5,
+    "DLBR": 2,
+    "DLFL": 3,
+    "DLFR": 3,
+    "DSBL": 7,
+    "DSBR": 11,
+    "DSFL": 20,
+    "DSFR": 29,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 11,
+    "LSF": 52,
+    "TLL": 56,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 44,
+    "NM": 204
+  },
+  "blue loss moves": {
+    "DLBL": 3,
+    "DLBR": 0,
+    "DLFL": 2,
+    "DLFR": 5,
+    "DSBL": 3,
+    "DSBR": 8,
+    "DSFL": 12,
+    "DSFR": 19,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 19,
+    "LSF": 42,
+    "TLL": 50,
+    "TLR": 6,
+    "TSL": 0,
+    "TSR": 21,
+    "NM": 168
+  },
+  "red win moves": {
+    "DLBL": 2,
+    "DLBR": 1,
+    "DLFL": 2,
+    "DLFR": 3,
+    "DSBL": 4,
+    "DSBR": 6,
+    "DSFL": 12,
+    "DSFR": 15,
+    "LLB": 1,
+    "LLF": 2,
+    "LSB": 13,
+    "LSF": 43,
+    "TLL": 59,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 38,
+    "NM": 161
+  },
+  "red loss moves": {
+    "DLBL": 2,
+    "DLBR": 4,
+    "DLFL": 1,
+    "DLFR": 8,
+    "DSBL": 9,
+    "DSBR": 7,
+    "DSFL": 16,
+    "DSFR": 31,
+    "LLB": 4,
+    "LLF": 1,
+    "LSB": 14,
+    "LSF": 61,
+    "TLL": 61,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 42,
+    "NM": 185
+  },
+  "blue total shots": {
+    "長球": 93,
+    "切球": 132,
+    "殺球": 153,
+    "挑球": 312,
+    "小球": 48,
+    "平球": 34,
+    "撲球": 40
+  },
+  "red total shots": {
+    "長球": 102,
+    "切球": 159,
+    "殺球": 152,
+    "挑球": 262,
+    "小球": 56,
+    "平球": 29,
+    "撲球": 48
+  },
+  "blue total moves": {
+    "DLBL": 8,
+    "DLBR": 2,
+    "DLFL": 5,
+    "DLFR": 8,
+    "DSBL": 10,
+    "DSBR": 19,
+    "DSFL": 32,
+    "DSFR": 48,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 30,
+    "LSF": 94,
+    "TLL": 106,
+    "TLR": 9,
+    "TSL": 0,
+    "TSR": 65,
+    "NM": 372
+  },
+  "red total moves": {
+    "DLBL": 4,
+    "DLBR": 5,
+    "DLFL": 3,
+    "DLFR": 11,
+    "DSBL": 13,
+    "DSBR": 13,
+    "DSFL": 28,
+    "DSFR": 46,
+    "LLB": 5,
+    "LLF": 3,
+    "LSB": 27,
+    "LSF": 104,
+    "TLL": 120,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 80,
+    "NM": 346
+  }
+}

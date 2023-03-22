@@ -1,0 +1,205 @@
+{
+  "Match": "BWF World Championships 2022 ｜ Heo Kwang Hee (KOR) vs. Ng Ka Long Angus (HKG) [10] ｜ R64",
+  "b_r_players": [
+    "Heo Kwang Hee",
+    "Ng Ka Long Angus"
+  ],
+  "correct_scores": [
+    [
+      15,
+      21
+    ],
+    [
+      21,
+      23
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 36,
+      "blue red score": [
+        15,
+        21
+      ]
+    },
+    {
+      "score count": 44,
+      "blue red score": [
+        20,
+        24
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 27,
+    "切球": 27,
+    "殺球": 28,
+    "挑球": 91,
+    "小球": 23,
+    "平球": 12,
+    "撲球": 12
+  },
+  "blue loss shots": {
+    "長球": 29,
+    "切球": 35,
+    "殺球": 28,
+    "挑球": 88,
+    "小球": 25,
+    "平球": 19,
+    "撲球": 23
+  },
+  "red win shots": {
+    "長球": 32,
+    "切球": 35,
+    "殺球": 51,
+    "挑球": 62,
+    "小球": 35,
+    "平球": 13,
+    "撲球": 19
+  },
+  "red loss shots": {
+    "長球": 22,
+    "切球": 48,
+    "殺球": 54,
+    "挑球": 65,
+    "小球": 22,
+    "平球": 5,
+    "撲球": 11
+  },
+  "blue win moves": {
+    "DLBL": 2,
+    "DLBR": 2,
+    "DLFL": 4,
+    "DLFR": 3,
+    "DSBL": 8,
+    "DSBR": 6,
+    "DSFL": 10,
+    "DSFR": 12,
+    "LLB": 2,
+    "LLF": 1,
+    "LSB": 6,
+    "LSF": 31,
+    "TLL": 27,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 25,
+    "NM": 88
+  },
+  "blue loss moves": {
+    "DLBL": 0,
+    "DLBR": 0,
+    "DLFL": 7,
+    "DLFR": 2,
+    "DSBL": 9,
+    "DSBR": 8,
+    "DSFL": 17,
+    "DSFR": 22,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 10,
+    "LSF": 37,
+    "TLL": 21,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 17,
+    "NM": 97
+  },
+  "red win moves": {
+    "DLBL": 5,
+    "DLBR": 3,
+    "DLFL": 1,
+    "DLFR": 3,
+    "DSBL": 8,
+    "DSBR": 11,
+    "DSFL": 16,
+    "DSFR": 16,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 11,
+    "LSF": 41,
+    "TLL": 24,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 26,
+    "NM": 80
+  },
+  "red loss moves": {
+    "DLBL": 0,
+    "DLBR": 1,
+    "DLFL": 5,
+    "DLFR": 4,
+    "DSBL": 10,
+    "DSBR": 6,
+    "DSFL": 12,
+    "DSFR": 19,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 8,
+    "LSF": 27,
+    "TLL": 22,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 22,
+    "NM": 83
+  },
+  "blue total shots": {
+    "長球": 56,
+    "切球": 62,
+    "殺球": 56,
+    "挑球": 179,
+    "小球": 48,
+    "平球": 31,
+    "撲球": 35
+  },
+  "red total shots": {
+    "長球": 54,
+    "切球": 83,
+    "殺球": 105,
+    "挑球": 127,
+    "小球": 57,
+    "平球": 18,
+    "撲球": 30
+  },
+  "blue total moves": {
+    "DLBL": 2,
+    "DLBR": 2,
+    "DLFL": 11,
+    "DLFR": 5,
+    "DSBL": 17,
+    "DSBR": 14,
+    "DSFL": 27,
+    "DSFR": 34,
+    "LLB": 2,
+    "LLF": 1,
+    "LSB": 16,
+    "LSF": 68,
+    "TLL": 48,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 42,
+    "NM": 185
+  },
+  "red total moves": {
+    "DLBL": 5,
+    "DLBR": 4,
+    "DLFL": 6,
+    "DLFR": 7,
+    "DSBL": 18,
+    "DSBR": 17,
+    "DSFL": 28,
+    "DSFR": 35,
+    "LLB": 2,
+    "LLF": 0,
+    "LSB": 19,
+    "LSF": 68,
+    "TLL": 46,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 48,
+    "NM": 163
+  }
+}

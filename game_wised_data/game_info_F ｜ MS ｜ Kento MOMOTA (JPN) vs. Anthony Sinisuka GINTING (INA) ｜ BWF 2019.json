@@ -1,0 +1,212 @@
+{
+  "Match": "F ｜ MS ｜ Kento MOMOTA (JPN) vs. Anthony Sinisuka GINTING (INA) ｜ BWF 2019",
+  "b_r_players": [
+    "Anthony Sinisuka GINTING",
+    "Kento MOMOTA"
+  ],
+  "correct_scores": [
+    [
+      21,
+      17
+    ],
+    [
+      17,
+      21
+    ],
+    [
+      14,
+      21
+    ]
+  ],
+  "games": [
+    {
+      "score count": 36,
+      "blue red score": [
+        18,
+        18
+      ]
+    },
+    {
+      "score count": 37,
+      "blue red score": [
+        16,
+        21
+      ]
+    },
+    {
+      "score count": 34,
+      "blue red score": [
+        14,
+        20
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 55,
+    "切球": 99,
+    "殺球": 87,
+    "挑球": 97,
+    "小球": 25,
+    "平球": 9,
+    "撲球": 14
+  },
+  "blue loss shots": {
+    "長球": 84,
+    "切球": 113,
+    "殺球": 76,
+    "挑球": 214,
+    "小球": 32,
+    "平球": 7,
+    "撲球": 32
+  },
+  "red win shots": {
+    "長球": 70,
+    "切球": 160,
+    "殺球": 69,
+    "挑球": 199,
+    "小球": 20,
+    "平球": 8,
+    "撲球": 27
+  },
+  "red loss shots": {
+    "長球": 48,
+    "切球": 73,
+    "殺球": 37,
+    "挑球": 190,
+    "小球": 17,
+    "平球": 9,
+    "撲球": 17
+  },
+  "blue win moves": {
+    "DLBL": 1,
+    "DLBR": 5,
+    "DLFL": 4,
+    "DLFR": 5,
+    "DSBL": 3,
+    "DSBR": 6,
+    "DSFL": 14,
+    "DSFR": 24,
+    "LLB": 4,
+    "LLF": 1,
+    "LSB": 14,
+    "LSF": 40,
+    "TLL": 31,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 44,
+    "NM": 192
+  },
+  "blue loss moves": {
+    "DLBL": 4,
+    "DLBR": 10,
+    "DLFL": 11,
+    "DLFR": 5,
+    "DSBL": 10,
+    "DSBR": 15,
+    "DSFL": 26,
+    "DSFR": 33,
+    "LLB": 5,
+    "LLF": 1,
+    "LSB": 18,
+    "LSF": 69,
+    "TLL": 42,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 49,
+    "NM": 252
+  },
+  "red win moves": {
+    "DLBL": 0,
+    "DLBR": 3,
+    "DLFL": 10,
+    "DLFR": 10,
+    "DSBL": 4,
+    "DSBR": 8,
+    "DSFL": 30,
+    "DSFR": 20,
+    "LLB": 2,
+    "LLF": 3,
+    "LSB": 11,
+    "LSF": 55,
+    "TLL": 70,
+    "TLR": 8,
+    "TSL": 0,
+    "TSR": 81,
+    "NM": 243
+  },
+  "red loss moves": {
+    "DLBL": 2,
+    "DLBR": 2,
+    "DLFL": 3,
+    "DLFR": 3,
+    "DSBL": 7,
+    "DSBR": 5,
+    "DSFL": 15,
+    "DSFR": 13,
+    "LLB": 1,
+    "LLF": 2,
+    "LSB": 11,
+    "LSF": 49,
+    "TLL": 35,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 37,
+    "NM": 197
+  },
+  "blue total shots": {
+    "長球": 139,
+    "切球": 212,
+    "殺球": 163,
+    "挑球": 311,
+    "小球": 57,
+    "平球": 16,
+    "撲球": 46
+  },
+  "red total shots": {
+    "長球": 118,
+    "切球": 233,
+    "殺球": 106,
+    "挑球": 389,
+    "小球": 37,
+    "平球": 17,
+    "撲球": 44
+  },
+  "blue total moves": {
+    "DLBL": 5,
+    "DLBR": 15,
+    "DLFL": 15,
+    "DLFR": 10,
+    "DSBL": 13,
+    "DSBR": 21,
+    "DSFL": 40,
+    "DSFR": 57,
+    "LLB": 9,
+    "LLF": 2,
+    "LSB": 32,
+    "LSF": 109,
+    "TLL": 73,
+    "TLR": 6,
+    "TSL": 0,
+    "TSR": 93,
+    "NM": 444
+  },
+  "red total moves": {
+    "DLBL": 2,
+    "DLBR": 5,
+    "DLFL": 13,
+    "DLFR": 13,
+    "DSBL": 11,
+    "DSBR": 13,
+    "DSFL": 45,
+    "DSFR": 33,
+    "LLB": 3,
+    "LLF": 5,
+    "LSB": 22,
+    "LSF": 104,
+    "TLL": 105,
+    "TLR": 12,
+    "TSL": 0,
+    "TSR": 118,
+    "NM": 440
+  }
+}

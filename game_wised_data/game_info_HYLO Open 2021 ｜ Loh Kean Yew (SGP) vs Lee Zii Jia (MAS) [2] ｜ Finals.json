@@ -1,0 +1,212 @@
+{
+  "Match": "HYLO Open 2021 ｜ Loh Kean Yew (SGP) vs Lee Zii Jia (MAS) [2] ｜ Finals",
+  "b_r_players": [
+    "Loh Kean Yew",
+    "Lee Zii Jia"
+  ],
+  "correct_scores": [
+    [
+      19,
+      21
+    ],
+    [
+      21,
+      13
+    ],
+    [
+      17,
+      12
+    ]
+  ],
+  "games": [
+    {
+      "score count": 39,
+      "blue red score": [
+        19,
+        20
+      ]
+    },
+    {
+      "score count": 33,
+      "blue red score": [
+        18,
+        15
+      ]
+    },
+    {
+      "score count": 29,
+      "blue red score": [
+        13,
+        16
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 45,
+    "切球": 58,
+    "殺球": 52,
+    "挑球": 121,
+    "小球": 41,
+    "平球": 32,
+    "撲球": 50
+  },
+  "blue loss shots": {
+    "長球": 29,
+    "切球": 65,
+    "殺球": 45,
+    "挑球": 56,
+    "小球": 39,
+    "平球": 15,
+    "撲球": 30
+  },
+  "red win shots": {
+    "長球": 25,
+    "切球": 25,
+    "殺球": 32,
+    "挑球": 108,
+    "小球": 32,
+    "平球": 6,
+    "撲球": 41
+  },
+  "red loss shots": {
+    "長球": 47,
+    "切球": 55,
+    "殺球": 67,
+    "挑球": 121,
+    "小球": 53,
+    "平球": 15,
+    "撲球": 57
+  },
+  "blue win moves": {
+    "DLBL": 9,
+    "DLBR": 4,
+    "DLFL": 4,
+    "DLFR": 5,
+    "DSBL": 18,
+    "DSBR": 8,
+    "DSFL": 15,
+    "DSFR": 25,
+    "LLB": 2,
+    "LLF": 1,
+    "LSB": 10,
+    "LSF": 71,
+    "TLL": 40,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 30,
+    "NM": 169
+  },
+  "blue loss moves": {
+    "DLBL": 4,
+    "DLBR": 2,
+    "DLFL": 1,
+    "DLFR": 3,
+    "DSBL": 11,
+    "DSBR": 7,
+    "DSFL": 9,
+    "DSFR": 13,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 4,
+    "LSF": 49,
+    "TLL": 36,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 27,
+    "NM": 99
+  },
+  "red win moves": {
+    "DLBL": 4,
+    "DLBR": 6,
+    "DLFL": 1,
+    "DLFR": 6,
+    "DSBL": 9,
+    "DSBR": 2,
+    "DSFL": 7,
+    "DSFR": 12,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 14,
+    "LSF": 49,
+    "TLL": 27,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 17,
+    "NM": 123
+  },
+  "red loss moves": {
+    "DLBL": 5,
+    "DLBR": 2,
+    "DLFL": 2,
+    "DLFR": 9,
+    "DSBL": 17,
+    "DSBR": 6,
+    "DSFL": 13,
+    "DSFR": 18,
+    "LLB": 2,
+    "LLF": 2,
+    "LSB": 15,
+    "LSF": 58,
+    "TLL": 42,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 20,
+    "NM": 186
+  },
+  "blue total shots": {
+    "長球": 74,
+    "切球": 123,
+    "殺球": 97,
+    "挑球": 177,
+    "小球": 80,
+    "平球": 47,
+    "撲球": 80
+  },
+  "red total shots": {
+    "長球": 72,
+    "切球": 80,
+    "殺球": 99,
+    "挑球": 229,
+    "小球": 85,
+    "平球": 21,
+    "撲球": 98
+  },
+  "blue total moves": {
+    "DLBL": 13,
+    "DLBR": 6,
+    "DLFL": 5,
+    "DLFR": 8,
+    "DSBL": 29,
+    "DSBR": 15,
+    "DSFL": 24,
+    "DSFR": 38,
+    "LLB": 3,
+    "LLF": 2,
+    "LSB": 14,
+    "LSF": 120,
+    "TLL": 76,
+    "TLR": 6,
+    "TSL": 0,
+    "TSR": 57,
+    "NM": 268
+  },
+  "red total moves": {
+    "DLBL": 9,
+    "DLBR": 8,
+    "DLFL": 3,
+    "DLFR": 15,
+    "DSBL": 26,
+    "DSBR": 8,
+    "DSFL": 20,
+    "DSFR": 30,
+    "LLB": 2,
+    "LLF": 3,
+    "LSB": 29,
+    "LSF": 107,
+    "TLL": 69,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 37,
+    "NM": 309
+  }
+}

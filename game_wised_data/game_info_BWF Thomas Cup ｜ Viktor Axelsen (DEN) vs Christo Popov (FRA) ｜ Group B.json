@@ -1,0 +1,198 @@
+{
+  "Match": "BWF Thomas Cup ｜ Viktor Axelsen (DEN) vs Christo Popov (FRA) ｜ Group B",
+  "b_r_players": [
+    "Christo Popov",
+    "Viktor Axelsen"
+  ],
+  "correct_scores": [
+    [
+      13,
+      21
+    ],
+    [
+      22,
+      20
+    ],
+    [
+      8,
+      21
+    ]
+  ],
+  "games": [
+    {
+      "score count": 103,
+      "blue red score": [
+        44,
+        59
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 51,
+    "切球": 123,
+    "殺球": 94,
+    "挑球": 21,
+    "小球": 27,
+    "平球": 20,
+    "撲球": 1
+  },
+  "blue loss shots": {
+    "長球": 43,
+    "切球": 242,
+    "殺球": 157,
+    "挑球": 46,
+    "小球": 47,
+    "平球": 26,
+    "撲球": 0
+  },
+  "red win shots": {
+    "長球": 79,
+    "切球": 0,
+    "殺球": 8,
+    "挑球": 360,
+    "小球": 8,
+    "平球": 22,
+    "撲球": 83
+  },
+  "red loss shots": {
+    "長球": 62,
+    "切球": 2,
+    "殺球": 4,
+    "挑球": 211,
+    "小球": 9,
+    "平球": 16,
+    "撲球": 42
+  },
+  "blue win moves": {
+    "DLBL": 0,
+    "DLBR": 1,
+    "DLFL": 5,
+    "DLFR": 6,
+    "DSBL": 2,
+    "DSBR": 4,
+    "DSFL": 21,
+    "DSFR": 14,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 5,
+    "LSF": 29,
+    "TLL": 40,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 57,
+    "NM": 159
+  },
+  "blue loss moves": {
+    "DLBL": 0,
+    "DLBR": 1,
+    "DLFL": 12,
+    "DLFR": 10,
+    "DSBL": 1,
+    "DSBR": 2,
+    "DSFL": 43,
+    "DSFR": 22,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 13,
+    "LSF": 41,
+    "TLL": 78,
+    "TLR": 10,
+    "TSL": 0,
+    "TSR": 78,
+    "NM": 249
+  },
+  "red win moves": {
+    "DLBL": 3,
+    "DLBR": 9,
+    "DLFL": 8,
+    "DLFR": 7,
+    "DSBL": 20,
+    "DSBR": 11,
+    "DSFL": 40,
+    "DSFR": 34,
+    "LLB": 3,
+    "LLF": 3,
+    "LSB": 27,
+    "LSF": 58,
+    "TLL": 65,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 50,
+    "NM": 220
+  },
+  "red loss moves": {
+    "DLBL": 2,
+    "DLBR": 8,
+    "DLFL": 4,
+    "DLFR": 4,
+    "DSBL": 12,
+    "DSBR": 10,
+    "DSFL": 22,
+    "DSFR": 10,
+    "LLB": 3,
+    "LLF": 2,
+    "LSB": 14,
+    "LSF": 35,
+    "TLL": 29,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 43,
+    "NM": 136
+  },
+  "blue total shots": {
+    "長球": 94,
+    "切球": 365,
+    "殺球": 251,
+    "挑球": 67,
+    "小球": 74,
+    "平球": 46,
+    "撲球": 1
+  },
+  "red total shots": {
+    "長球": 141,
+    "切球": 2,
+    "殺球": 12,
+    "挑球": 571,
+    "小球": 17,
+    "平球": 38,
+    "撲球": 125
+  },
+  "blue total moves": {
+    "DLBL": 0,
+    "DLBR": 2,
+    "DLFL": 17,
+    "DLFR": 16,
+    "DSBL": 3,
+    "DSBR": 6,
+    "DSFL": 64,
+    "DSFR": 36,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 18,
+    "LSF": 70,
+    "TLL": 118,
+    "TLR": 13,
+    "TSL": 0,
+    "TSR": 135,
+    "NM": 408
+  },
+  "red total moves": {
+    "DLBL": 5,
+    "DLBR": 17,
+    "DLFL": 12,
+    "DLFR": 11,
+    "DSBL": 32,
+    "DSBR": 21,
+    "DSFL": 62,
+    "DSFR": 44,
+    "LLB": 6,
+    "LLF": 5,
+    "LSB": 41,
+    "LSF": 93,
+    "TLL": 94,
+    "TLR": 6,
+    "TSL": 0,
+    "TSR": 93,
+    "NM": 356
+  }
+}

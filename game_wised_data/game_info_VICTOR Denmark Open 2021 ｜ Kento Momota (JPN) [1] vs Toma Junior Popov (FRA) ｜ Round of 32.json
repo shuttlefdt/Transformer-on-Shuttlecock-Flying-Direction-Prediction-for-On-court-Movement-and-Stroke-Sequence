@@ -1,0 +1,198 @@
+{
+  "Match": "VICTOR Denmark Open 2021 ｜ Kento Momota (JPN) [1] vs Toma Junior Popov (FRA) ｜ Round of 32",
+  "b_r_players": [
+    "Kento Momota",
+    "Toma Junior Popov"
+  ],
+  "correct_scores": [
+    [
+      21,
+      12
+    ],
+    [
+      21,
+      15
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 69,
+      "blue red score": [
+        32,
+        37
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 19,
+    "切球": 81,
+    "殺球": 97,
+    "挑球": 19,
+    "小球": 51,
+    "平球": 18,
+    "撲球": 0
+  },
+  "blue loss shots": {
+    "長球": 24,
+    "切球": 102,
+    "殺球": 104,
+    "挑球": 23,
+    "小球": 43,
+    "平球": 15,
+    "撲球": 1
+  },
+  "red win shots": {
+    "長球": 39,
+    "切球": 0,
+    "殺球": 5,
+    "挑球": 178,
+    "小球": 8,
+    "平球": 19,
+    "撲球": 51
+  },
+  "red loss shots": {
+    "長球": 35,
+    "切球": 0,
+    "殺球": 3,
+    "挑球": 167,
+    "小球": 8,
+    "平球": 25,
+    "撲球": 58
+  },
+  "blue win moves": {
+    "DLBL": 0,
+    "DLBR": 1,
+    "DLFL": 2,
+    "DLFR": 2,
+    "DSBL": 4,
+    "DSBR": 7,
+    "DSFL": 15,
+    "DSFR": 14,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 14,
+    "LSF": 42,
+    "TLL": 26,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 29,
+    "NM": 139
+  },
+  "blue loss moves": {
+    "DLBL": 0,
+    "DLBR": 0,
+    "DLFL": 3,
+    "DLFR": 2,
+    "DSBL": 9,
+    "DSBR": 3,
+    "DSFL": 13,
+    "DSFR": 16,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 13,
+    "LSF": 38,
+    "TLL": 23,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 27,
+    "NM": 149
+  },
+  "red win moves": {
+    "DLBL": 2,
+    "DLBR": 7,
+    "DLFL": 0,
+    "DLFR": 2,
+    "DSBL": 8,
+    "DSBR": 5,
+    "DSFL": 13,
+    "DSFR": 8,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 9,
+    "LSF": 47,
+    "TLL": 22,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 27,
+    "NM": 160
+  },
+  "red loss moves": {
+    "DLBL": 2,
+    "DLBR": 3,
+    "DLFL": 1,
+    "DLFR": 0,
+    "DSBL": 6,
+    "DSBR": 8,
+    "DSFL": 7,
+    "DSFR": 14,
+    "LLB": 4,
+    "LLF": 1,
+    "LSB": 15,
+    "LSF": 39,
+    "TLL": 19,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 13,
+    "NM": 152
+  },
+  "blue total shots": {
+    "長球": 43,
+    "切球": 183,
+    "殺球": 201,
+    "挑球": 42,
+    "小球": 94,
+    "平球": 33,
+    "撲球": 1
+  },
+  "red total shots": {
+    "長球": 74,
+    "切球": 0,
+    "殺球": 8,
+    "挑球": 345,
+    "小球": 16,
+    "平球": 44,
+    "撲球": 109
+  },
+  "blue total moves": {
+    "DLBL": 0,
+    "DLBR": 1,
+    "DLFL": 5,
+    "DLFR": 4,
+    "DSBL": 13,
+    "DSBR": 10,
+    "DSFL": 28,
+    "DSFR": 30,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 27,
+    "LSF": 80,
+    "TLL": 49,
+    "TLR": 5,
+    "TSL": 0,
+    "TSR": 56,
+    "NM": 288
+  },
+  "red total moves": {
+    "DLBL": 4,
+    "DLBR": 10,
+    "DLFL": 1,
+    "DLFR": 2,
+    "DSBL": 14,
+    "DSBR": 13,
+    "DSFL": 20,
+    "DSFR": 22,
+    "LLB": 5,
+    "LLF": 1,
+    "LSB": 24,
+    "LSF": 86,
+    "TLL": 41,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 40,
+    "NM": 312
+  }
+}

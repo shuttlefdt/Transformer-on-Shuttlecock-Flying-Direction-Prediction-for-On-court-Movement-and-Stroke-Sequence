@@ -1,0 +1,205 @@
+{
+  "Match": "R16 ｜ MS ｜ Viktor AXELSEN (DEN) [1] vs Anthony Sinisuka GINTING (INA) ｜ BWF2018",
+  "b_r_players": [
+    "Viktor AXELSEN",
+    "Anthony Sinisuka GINTING"
+  ],
+  "correct_scores": [
+    [
+      18,
+      21
+    ],
+    [
+      17,
+      21
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 41,
+      "blue red score": [
+        21,
+        20
+      ]
+    },
+    {
+      "score count": 39,
+      "blue red score": [
+        16,
+        23
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 17,
+    "切球": 33,
+    "殺球": 36,
+    "挑球": 50,
+    "小球": 32,
+    "平球": 16,
+    "撲球": 16
+  },
+  "blue loss shots": {
+    "長球": 26,
+    "切球": 38,
+    "殺球": 54,
+    "挑球": 97,
+    "小球": 39,
+    "平球": 14,
+    "撲球": 25
+  },
+  "red win shots": {
+    "長球": 36,
+    "切球": 42,
+    "殺球": 44,
+    "挑球": 76,
+    "小球": 30,
+    "平球": 26,
+    "撲球": 35
+  },
+  "red loss shots": {
+    "長球": 24,
+    "切球": 15,
+    "殺球": 31,
+    "挑球": 61,
+    "小球": 22,
+    "平球": 16,
+    "撲球": 33
+  },
+  "blue win moves": {
+    "DLBL": 2,
+    "DLBR": 1,
+    "DLFL": 0,
+    "DLFR": 0,
+    "DSBL": 1,
+    "DSBR": 2,
+    "DSFL": 7,
+    "DSFR": 13,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 6,
+    "LSF": 37,
+    "TLL": 15,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 14,
+    "NM": 103
+  },
+  "blue loss moves": {
+    "DLBL": 3,
+    "DLBR": 1,
+    "DLFL": 1,
+    "DLFR": 3,
+    "DSBL": 1,
+    "DSBR": 4,
+    "DSFL": 14,
+    "DSFR": 12,
+    "LLB": 2,
+    "LLF": 1,
+    "LSB": 15,
+    "LSF": 50,
+    "TLL": 15,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 21,
+    "NM": 146
+  },
+  "red win moves": {
+    "DLBL": 1,
+    "DLBR": 2,
+    "DLFL": 2,
+    "DLFR": 4,
+    "DSBL": 5,
+    "DSBR": 10,
+    "DSFL": 13,
+    "DSFR": 16,
+    "LLB": 4,
+    "LLF": 2,
+    "LSB": 12,
+    "LSF": 39,
+    "TLL": 26,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 24,
+    "NM": 130
+  },
+  "red loss moves": {
+    "DLBL": 2,
+    "DLBR": 3,
+    "DLFL": 1,
+    "DLFR": 2,
+    "DSBL": 6,
+    "DSBR": 8,
+    "DSFL": 14,
+    "DSFR": 13,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 11,
+    "LSF": 22,
+    "TLL": 15,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 15,
+    "NM": 87
+  },
+  "blue total shots": {
+    "長球": 43,
+    "切球": 71,
+    "殺球": 90,
+    "挑球": 147,
+    "小球": 71,
+    "平球": 30,
+    "撲球": 41
+  },
+  "red total shots": {
+    "長球": 60,
+    "切球": 57,
+    "殺球": 75,
+    "挑球": 137,
+    "小球": 52,
+    "平球": 42,
+    "撲球": 68
+  },
+  "blue total moves": {
+    "DLBL": 5,
+    "DLBR": 2,
+    "DLFL": 1,
+    "DLFR": 3,
+    "DSBL": 2,
+    "DSBR": 6,
+    "DSFL": 21,
+    "DSFR": 25,
+    "LLB": 2,
+    "LLF": 1,
+    "LSB": 21,
+    "LSF": 87,
+    "TLL": 30,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 35,
+    "NM": 249
+  },
+  "red total moves": {
+    "DLBL": 3,
+    "DLBR": 5,
+    "DLFL": 3,
+    "DLFR": 6,
+    "DSBL": 11,
+    "DSBR": 18,
+    "DSFL": 27,
+    "DSFR": 29,
+    "LLB": 4,
+    "LLF": 2,
+    "LSB": 23,
+    "LSF": 61,
+    "TLL": 41,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 39,
+    "NM": 217
+  }
+}

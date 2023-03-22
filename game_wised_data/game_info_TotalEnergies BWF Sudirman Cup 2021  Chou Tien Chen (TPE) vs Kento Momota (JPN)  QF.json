@@ -1,0 +1,212 @@
+{
+  "Match": "TotalEnergies BWF Sudirman Cup 2021  Chou Tien Chen (TPE) vs Kento Momota (JPN)  QF",
+  "b_r_players": [
+    "Chou Tien Chen",
+    "Kento Momota"
+  ],
+  "correct_scores": [
+    [
+      16,
+      21
+    ],
+    [
+      21,
+      19
+    ],
+    [
+      17,
+      21
+    ]
+  ],
+  "games": [
+    {
+      "score count": 34,
+      "blue red score": [
+        19,
+        15
+      ]
+    },
+    {
+      "score count": 36,
+      "blue red score": [
+        18,
+        18
+      ]
+    },
+    {
+      "score count": 36,
+      "blue red score": [
+        15,
+        21
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 72,
+    "切球": 64,
+    "殺球": 58,
+    "挑球": 162,
+    "小球": 41,
+    "平球": 18,
+    "撲球": 17
+  },
+  "blue loss shots": {
+    "長球": 75,
+    "切球": 88,
+    "殺球": 58,
+    "挑球": 126,
+    "小球": 44,
+    "平球": 19,
+    "撲球": 30
+  },
+  "red win shots": {
+    "長球": 59,
+    "切球": 85,
+    "殺球": 54,
+    "挑球": 152,
+    "小球": 28,
+    "平球": 11,
+    "撲球": 37
+  },
+  "red loss shots": {
+    "長球": 69,
+    "切球": 97,
+    "殺球": 70,
+    "挑球": 123,
+    "小球": 22,
+    "平球": 20,
+    "撲球": 35
+  },
+  "blue win moves": {
+    "DLBL": 4,
+    "DLBR": 9,
+    "DLFL": 6,
+    "DLFR": 5,
+    "DSBL": 7,
+    "DSBR": 20,
+    "DSFL": 28,
+    "DSFR": 20,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 11,
+    "LSF": 68,
+    "TLL": 44,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 43,
+    "NM": 168
+  },
+  "blue loss moves": {
+    "DLBL": 6,
+    "DLBR": 3,
+    "DLFL": 6,
+    "DLFR": 6,
+    "DSBL": 4,
+    "DSBR": 23,
+    "DSFL": 26,
+    "DSFR": 22,
+    "LLB": 3,
+    "LLF": 0,
+    "LSB": 14,
+    "LSF": 54,
+    "TLL": 46,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 40,
+    "NM": 172
+  },
+  "red win moves": {
+    "DLBL": 0,
+    "DLBR": 1,
+    "DLFL": 8,
+    "DLFR": 3,
+    "DSBL": 15,
+    "DSBR": 12,
+    "DSFL": 21,
+    "DSFR": 20,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 16,
+    "LSF": 63,
+    "TLL": 49,
+    "TLR": 6,
+    "TSL": 0,
+    "TSR": 49,
+    "NM": 176
+  },
+  "red loss moves": {
+    "DLBL": 1,
+    "DLBR": 2,
+    "DLFL": 7,
+    "DLFR": 1,
+    "DSBL": 15,
+    "DSBR": 8,
+    "DSFL": 24,
+    "DSFR": 23,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 15,
+    "LSF": 44,
+    "TLL": 56,
+    "TLR": 6,
+    "TSL": 0,
+    "TSR": 57,
+    "NM": 172
+  },
+  "blue total shots": {
+    "長球": 147,
+    "切球": 152,
+    "殺球": 116,
+    "挑球": 288,
+    "小球": 85,
+    "平球": 37,
+    "撲球": 47
+  },
+  "red total shots": {
+    "長球": 128,
+    "切球": 182,
+    "殺球": 124,
+    "挑球": 275,
+    "小球": 50,
+    "平球": 31,
+    "撲球": 72
+  },
+  "blue total moves": {
+    "DLBL": 10,
+    "DLBR": 12,
+    "DLFL": 12,
+    "DLFR": 11,
+    "DSBL": 11,
+    "DSBR": 43,
+    "DSFL": 54,
+    "DSFR": 42,
+    "LLB": 3,
+    "LLF": 0,
+    "LSB": 25,
+    "LSF": 122,
+    "TLL": 90,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 83,
+    "NM": 340
+  },
+  "red total moves": {
+    "DLBL": 1,
+    "DLBR": 3,
+    "DLFL": 15,
+    "DLFR": 4,
+    "DSBL": 30,
+    "DSBR": 20,
+    "DSFL": 45,
+    "DSFR": 43,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 31,
+    "LSF": 107,
+    "TLL": 105,
+    "TLR": 12,
+    "TSL": 0,
+    "TSR": 106,
+    "NM": 348
+  }
+}

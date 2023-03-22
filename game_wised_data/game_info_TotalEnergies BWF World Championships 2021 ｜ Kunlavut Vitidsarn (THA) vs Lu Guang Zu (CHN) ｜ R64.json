@@ -1,0 +1,198 @@
+{
+  "Match": "TotalEnergies BWF World Championships 2021 ｜ Kunlavut Vitidsarn (THA) vs Lu Guang Zu (CHN) ｜ R64",
+  "b_r_players": [
+    "Kunlavut Vitidsarn",
+    "Lu Guang Zu"
+  ],
+  "correct_scores": [
+    [
+      16,
+      21
+    ],
+    [
+      12,
+      21
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 70,
+      "blue red score": [
+        34,
+        36
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 36,
+    "切球": 131,
+    "殺球": 83,
+    "挑球": 17,
+    "小球": 27,
+    "平球": 6,
+    "撲球": 0
+  },
+  "blue loss shots": {
+    "長球": 24,
+    "切球": 124,
+    "殺球": 84,
+    "挑球": 16,
+    "小球": 13,
+    "平球": 6,
+    "撲球": 1
+  },
+  "red win shots": {
+    "長球": 38,
+    "切球": 0,
+    "殺球": 0,
+    "挑球": 181,
+    "小球": 5,
+    "平球": 3,
+    "撲球": 29
+  },
+  "red loss shots": {
+    "長球": 48,
+    "切球": 0,
+    "殺球": 3,
+    "挑球": 199,
+    "小球": 4,
+    "平球": 7,
+    "撲球": 40
+  },
+  "blue win moves": {
+    "DLBL": 2,
+    "DLBR": 0,
+    "DLFL": 2,
+    "DLFR": 1,
+    "DSBL": 4,
+    "DSBR": 3,
+    "DSFL": 13,
+    "DSFR": 23,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 6,
+    "LSF": 39,
+    "TLL": 34,
+    "TLR": 6,
+    "TSL": 0,
+    "TSR": 39,
+    "NM": 129
+  },
+  "blue loss moves": {
+    "DLBL": 0,
+    "DLBR": 0,
+    "DLFL": 2,
+    "DLFR": 3,
+    "DSBL": 1,
+    "DSBR": 2,
+    "DSFL": 11,
+    "DSFR": 11,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 3,
+    "LSF": 27,
+    "TLL": 46,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 33,
+    "NM": 113
+  },
+  "red win moves": {
+    "DLBL": 3,
+    "DLBR": 5,
+    "DLFL": 2,
+    "DLFR": 6,
+    "DSBL": 7,
+    "DSBR": 10,
+    "DSFL": 14,
+    "DSFR": 13,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 12,
+    "LSF": 29,
+    "TLL": 37,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 22,
+    "NM": 106
+  },
+  "red loss moves": {
+    "DLBL": 10,
+    "DLBR": 3,
+    "DLFL": 4,
+    "DLFR": 2,
+    "DSBL": 13,
+    "DSBR": 13,
+    "DSFL": 14,
+    "DSFR": 13,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 9,
+    "LSF": 37,
+    "TLL": 29,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 26,
+    "NM": 125
+  },
+  "blue total shots": {
+    "長球": 60,
+    "切球": 255,
+    "殺球": 167,
+    "挑球": 33,
+    "小球": 40,
+    "平球": 12,
+    "撲球": 1
+  },
+  "red total shots": {
+    "長球": 86,
+    "切球": 0,
+    "殺球": 3,
+    "挑球": 380,
+    "小球": 9,
+    "平球": 10,
+    "撲球": 69
+  },
+  "blue total moves": {
+    "DLBL": 2,
+    "DLBR": 0,
+    "DLFL": 4,
+    "DLFR": 4,
+    "DSBL": 5,
+    "DSBR": 5,
+    "DSFL": 24,
+    "DSFR": 34,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 9,
+    "LSF": 66,
+    "TLL": 80,
+    "TLR": 10,
+    "TSL": 0,
+    "TSR": 72,
+    "NM": 242
+  },
+  "red total moves": {
+    "DLBL": 13,
+    "DLBR": 8,
+    "DLFL": 6,
+    "DLFR": 8,
+    "DSBL": 20,
+    "DSBR": 23,
+    "DSFL": 28,
+    "DSFR": 26,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 21,
+    "LSF": 66,
+    "TLL": 66,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 48,
+    "NM": 231
+  }
+}

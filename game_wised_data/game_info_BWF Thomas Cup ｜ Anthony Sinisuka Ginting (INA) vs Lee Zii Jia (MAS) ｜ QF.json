@@ -1,0 +1,205 @@
+{
+  "Match": "BWF Thomas Cup ｜ Anthony Sinisuka Ginting (INA) vs Lee Zii Jia (MAS) ｜ QF",
+  "b_r_players": [
+    "Lee Zii Jia",
+    "Anthony Sinisuka Ginting"
+  ],
+  "correct_scores": [
+    [
+      15,
+      21
+    ],
+    [
+      17,
+      21
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 36,
+      "blue red score": [
+        17,
+        19
+      ]
+    },
+    {
+      "score count": 38,
+      "blue red score": [
+        14,
+        24
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 30,
+    "切球": 44,
+    "殺球": 32,
+    "挑球": 81,
+    "小球": 9,
+    "平球": 8,
+    "撲球": 15
+  },
+  "blue loss shots": {
+    "長球": 35,
+    "切球": 39,
+    "殺球": 17,
+    "挑球": 100,
+    "小球": 21,
+    "平球": 16,
+    "撲球": 36
+  },
+  "red win shots": {
+    "長球": 26,
+    "切球": 59,
+    "殺球": 49,
+    "挑球": 62,
+    "小球": 35,
+    "平球": 10,
+    "撲球": 19
+  },
+  "red loss shots": {
+    "長球": 36,
+    "切球": 45,
+    "殺球": 33,
+    "挑球": 76,
+    "小球": 12,
+    "平球": 12,
+    "撲球": 14
+  },
+  "blue win moves": {
+    "DLBL": 1,
+    "DLBR": 2,
+    "DLFL": 2,
+    "DLFR": 3,
+    "DSBL": 1,
+    "DSBR": 3,
+    "DSFL": 14,
+    "DSFR": 9,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 9,
+    "LSF": 42,
+    "TLL": 34,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 17,
+    "NM": 90
+  },
+  "blue loss moves": {
+    "DLBL": 1,
+    "DLBR": 1,
+    "DLFL": 1,
+    "DLFR": 2,
+    "DSBL": 8,
+    "DSBR": 6,
+    "DSFL": 10,
+    "DSFR": 14,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 15,
+    "LSF": 34,
+    "TLL": 18,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 29,
+    "NM": 120
+  },
+  "red win moves": {
+    "DLBL": 2,
+    "DLBR": 0,
+    "DLFL": 1,
+    "DLFR": 3,
+    "DSBL": 6,
+    "DSBR": 8,
+    "DSFL": 13,
+    "DSFR": 16,
+    "LLB": 2,
+    "LLF": 1,
+    "LSB": 14,
+    "LSF": 37,
+    "TLL": 32,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 26,
+    "NM": 103
+  },
+  "red loss moves": {
+    "DLBL": 9,
+    "DLBR": 2,
+    "DLFL": 3,
+    "DLFR": 5,
+    "DSBL": 13,
+    "DSBR": 8,
+    "DSFL": 8,
+    "DSFR": 17,
+    "LLB": 3,
+    "LLF": 0,
+    "LSB": 10,
+    "LSF": 26,
+    "TLL": 24,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 21,
+    "NM": 68
+  },
+  "blue total shots": {
+    "長球": 65,
+    "切球": 83,
+    "殺球": 49,
+    "挑球": 181,
+    "小球": 30,
+    "平球": 24,
+    "撲球": 51
+  },
+  "red total shots": {
+    "長球": 62,
+    "切球": 104,
+    "殺球": 82,
+    "挑球": 138,
+    "小球": 47,
+    "平球": 22,
+    "撲球": 33
+  },
+  "blue total moves": {
+    "DLBL": 2,
+    "DLBR": 3,
+    "DLFL": 3,
+    "DLFR": 5,
+    "DSBL": 9,
+    "DSBR": 9,
+    "DSFL": 24,
+    "DSFR": 23,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 24,
+    "LSF": 76,
+    "TLL": 52,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 46,
+    "NM": 210
+  },
+  "red total moves": {
+    "DLBL": 11,
+    "DLBR": 2,
+    "DLFL": 4,
+    "DLFR": 8,
+    "DSBL": 19,
+    "DSBR": 16,
+    "DSFL": 21,
+    "DSFR": 33,
+    "LLB": 5,
+    "LLF": 1,
+    "LSB": 24,
+    "LSF": 63,
+    "TLL": 56,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 47,
+    "NM": 171
+  }
+}

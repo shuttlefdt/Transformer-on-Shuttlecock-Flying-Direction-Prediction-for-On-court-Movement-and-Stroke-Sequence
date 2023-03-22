@@ -1,0 +1,212 @@
+{
+  "Match": "R16  MS  CHOU Tien Chen (TPE) [4] vs LIN Dan (CHN)  BWF 2019",
+  "b_r_players": [
+    "CHOU Tien Chen",
+    "LIN Dan"
+  ],
+  "correct_scores": [
+    [
+      24,
+      22
+    ],
+    [
+      17,
+      21
+    ],
+    [
+      21,
+      13
+    ]
+  ],
+  "games": [
+    {
+      "score count": 45,
+      "blue red score": [
+        20,
+        25
+      ]
+    },
+    {
+      "score count": 34,
+      "blue red score": [
+        13,
+        21
+      ]
+    },
+    {
+      "score count": 33,
+      "blue red score": [
+        20,
+        13
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 67,
+    "切球": 68,
+    "殺球": 73,
+    "挑球": 104,
+    "小球": 29,
+    "平球": 13,
+    "撲球": 10
+  },
+  "blue loss shots": {
+    "長球": 70,
+    "切球": 72,
+    "殺球": 82,
+    "挑球": 124,
+    "小球": 28,
+    "平球": 36,
+    "撲球": 25
+  },
+  "red win shots": {
+    "長球": 63,
+    "切球": 40,
+    "殺球": 89,
+    "挑球": 156,
+    "小球": 25,
+    "平球": 29,
+    "撲球": 29
+  },
+  "red loss shots": {
+    "長球": 74,
+    "切球": 35,
+    "殺球": 64,
+    "挑球": 139,
+    "小球": 13,
+    "平球": 18,
+    "撲球": 26
+  },
+  "blue win moves": {
+    "DLBL": 2,
+    "DLBR": 2,
+    "DLFL": 5,
+    "DLFR": 2,
+    "DSBL": 5,
+    "DSBR": 13,
+    "DSFL": 15,
+    "DSFR": 13,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 10,
+    "LSF": 24,
+    "TLL": 45,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 52,
+    "NM": 176
+  },
+  "blue loss moves": {
+    "DLBL": 4,
+    "DLBR": 3,
+    "DLFL": 5,
+    "DLFR": 1,
+    "DSBL": 5,
+    "DSBR": 10,
+    "DSFL": 14,
+    "DSFR": 15,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 14,
+    "LSF": 34,
+    "TLL": 45,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 58,
+    "NM": 221
+  },
+  "red win moves": {
+    "DLBL": 0,
+    "DLBR": 2,
+    "DLFL": 3,
+    "DLFR": 5,
+    "DSBL": 15,
+    "DSBR": 7,
+    "DSFL": 15,
+    "DSFR": 10,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 29,
+    "LSF": 40,
+    "TLL": 34,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 36,
+    "NM": 238
+  },
+  "red loss moves": {
+    "DLBL": 0,
+    "DLBR": 1,
+    "DLFL": 6,
+    "DLFR": 3,
+    "DSBL": 13,
+    "DSBR": 6,
+    "DSFL": 14,
+    "DSFR": 14,
+    "LLB": 3,
+    "LLF": 0,
+    "LSB": 19,
+    "LSF": 33,
+    "TLL": 38,
+    "TLR": 5,
+    "TSL": 0,
+    "TSR": 42,
+    "NM": 167
+  },
+  "blue total shots": {
+    "長球": 137,
+    "切球": 140,
+    "殺球": 155,
+    "挑球": 228,
+    "小球": 57,
+    "平球": 49,
+    "撲球": 35
+  },
+  "red total shots": {
+    "長球": 137,
+    "切球": 75,
+    "殺球": 153,
+    "挑球": 295,
+    "小球": 38,
+    "平球": 47,
+    "撲球": 55
+  },
+  "blue total moves": {
+    "DLBL": 6,
+    "DLBR": 5,
+    "DLFL": 10,
+    "DLFR": 3,
+    "DSBL": 10,
+    "DSBR": 23,
+    "DSFL": 29,
+    "DSFR": 28,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 24,
+    "LSF": 58,
+    "TLL": 90,
+    "TLR": 5,
+    "TSL": 0,
+    "TSR": 110,
+    "NM": 397
+  },
+  "red total moves": {
+    "DLBL": 0,
+    "DLBR": 3,
+    "DLFL": 9,
+    "DLFR": 8,
+    "DSBL": 28,
+    "DSBR": 13,
+    "DSFL": 29,
+    "DSFR": 24,
+    "LLB": 3,
+    "LLF": 1,
+    "LSB": 48,
+    "LSF": 73,
+    "TLL": 72,
+    "TLR": 7,
+    "TSL": 0,
+    "TSR": 78,
+    "NM": 405
+  }
+}

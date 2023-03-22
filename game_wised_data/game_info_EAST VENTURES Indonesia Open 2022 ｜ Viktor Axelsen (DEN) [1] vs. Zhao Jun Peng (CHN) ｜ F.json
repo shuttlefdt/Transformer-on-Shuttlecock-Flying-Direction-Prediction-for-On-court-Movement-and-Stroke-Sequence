@@ -1,0 +1,198 @@
+{
+  "Match": "EAST VENTURES Indonesia Open 2022 ｜ Viktor Axelsen (DEN) [1] vs. Zhao Jun Peng (CHN) ｜ F",
+  "b_r_players": [
+    "Zhao Jun Peng",
+    "Viktor Axelsen"
+  ],
+  "correct_scores": [
+    [
+      9,
+      21
+    ],
+    [
+      10,
+      21
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 57,
+      "blue red score": [
+        28,
+        29
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 48,
+    "切球": 92,
+    "殺球": 87,
+    "挑球": 15,
+    "小球": 16,
+    "平球": 7,
+    "撲球": 2
+  },
+  "blue loss shots": {
+    "長球": 23,
+    "切球": 96,
+    "殺球": 69,
+    "挑球": 6,
+    "小球": 8,
+    "平球": 10,
+    "撲球": 0
+  },
+  "red win shots": {
+    "長球": 27,
+    "切球": 0,
+    "殺球": 0,
+    "挑球": 165,
+    "小球": 1,
+    "平球": 4,
+    "撲球": 20
+  },
+  "red loss shots": {
+    "長球": 59,
+    "切球": 0,
+    "殺球": 0,
+    "挑球": 163,
+    "小球": 6,
+    "平球": 8,
+    "撲球": 28
+  },
+  "blue win moves": {
+    "DLBL": 0,
+    "DLBR": 0,
+    "DLFL": 0,
+    "DLFR": 3,
+    "DSBL": 0,
+    "DSBR": 1,
+    "DSFL": 16,
+    "DSFR": 9,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 6,
+    "LSF": 28,
+    "TLL": 36,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 38,
+    "NM": 124
+  },
+  "blue loss moves": {
+    "DLBL": 0,
+    "DLBR": 0,
+    "DLFL": 1,
+    "DLFR": 1,
+    "DSBL": 1,
+    "DSBR": 1,
+    "DSFL": 10,
+    "DSFR": 10,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 3,
+    "LSF": 21,
+    "TLL": 25,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 23,
+    "NM": 120
+  },
+  "red win moves": {
+    "DLBL": 1,
+    "DLBR": 1,
+    "DLFL": 2,
+    "DLFR": 2,
+    "DSBL": 5,
+    "DSBR": 3,
+    "DSFL": 13,
+    "DSFR": 11,
+    "LLB": 0,
+    "LLF": 2,
+    "LSB": 11,
+    "LSF": 32,
+    "TLL": 16,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 19,
+    "NM": 93
+  },
+  "red loss moves": {
+    "DLBL": 1,
+    "DLBR": 2,
+    "DLFL": 4,
+    "DLFR": 6,
+    "DSBL": 17,
+    "DSBR": 3,
+    "DSFL": 16,
+    "DSFR": 13,
+    "LLB": 2,
+    "LLF": 1,
+    "LSB": 16,
+    "LSF": 28,
+    "TLL": 21,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 25,
+    "NM": 109
+  },
+  "blue total shots": {
+    "長球": 71,
+    "切球": 188,
+    "殺球": 156,
+    "挑球": 21,
+    "小球": 24,
+    "平球": 17,
+    "撲球": 2
+  },
+  "red total shots": {
+    "長球": 86,
+    "切球": 0,
+    "殺球": 0,
+    "挑球": 328,
+    "小球": 7,
+    "平球": 12,
+    "撲球": 48
+  },
+  "blue total moves": {
+    "DLBL": 0,
+    "DLBR": 0,
+    "DLFL": 1,
+    "DLFR": 4,
+    "DSBL": 1,
+    "DSBR": 2,
+    "DSFL": 26,
+    "DSFR": 19,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 9,
+    "LSF": 49,
+    "TLL": 61,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 61,
+    "NM": 244
+  },
+  "red total moves": {
+    "DLBL": 2,
+    "DLBR": 3,
+    "DLFL": 6,
+    "DLFR": 8,
+    "DSBL": 22,
+    "DSBR": 6,
+    "DSFL": 29,
+    "DSFR": 24,
+    "LLB": 2,
+    "LLF": 3,
+    "LSB": 27,
+    "LSF": 60,
+    "TLL": 37,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 44,
+    "NM": 202
+  }
+}

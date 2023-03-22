@@ -1,0 +1,198 @@
+{
+  "Match": "PETRONAS Malaysia Open 2022 ｜ Shesar Hiren Rhustavito (INA) vs. Kento Momota (JPN) [2] ｜ QF",
+  "b_r_players": [
+    "Kento Momota",
+    "Shesar Hiren Rhustavito"
+  ],
+  "correct_scores": [
+    [
+      13,
+      6
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 18,
+      "blue red score": [
+        8,
+        10
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 2,
+    "切球": 25,
+    "殺球": 20,
+    "挑球": 2,
+    "小球": 8,
+    "平球": 2,
+    "撲球": 1
+  },
+  "blue loss shots": {
+    "長球": 3,
+    "切球": 55,
+    "殺球": 22,
+    "挑球": 3,
+    "小球": 5,
+    "平球": 2,
+    "撲球": 0
+  },
+  "red win shots": {
+    "長球": 4,
+    "切球": 0,
+    "殺球": 0,
+    "挑球": 76,
+    "小球": 2,
+    "平球": 2,
+    "撲球": 7
+  },
+  "red loss shots": {
+    "長球": 2,
+    "切球": 0,
+    "殺球": 1,
+    "挑球": 46,
+    "小球": 2,
+    "平球": 3,
+    "撲球": 8
+  },
+  "blue win moves": {
+    "DLBL": 0,
+    "DLBR": 1,
+    "DLFL": 0,
+    "DLFR": 0,
+    "DSBL": 5,
+    "DSBR": 0,
+    "DSFL": 5,
+    "DSFR": 0,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 8,
+    "LSF": 12,
+    "TLL": 3,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 7,
+    "NM": 20
+  },
+  "blue loss moves": {
+    "DLBL": 0,
+    "DLBR": 0,
+    "DLFL": 0,
+    "DLFR": 0,
+    "DSBL": 4,
+    "DSBR": 0,
+    "DSFL": 4,
+    "DSFR": 2,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 8,
+    "LSF": 7,
+    "TLL": 10,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 11,
+    "NM": 45
+  },
+  "red win moves": {
+    "DLBL": 0,
+    "DLBR": 2,
+    "DLFL": 2,
+    "DLFR": 0,
+    "DSBL": 2,
+    "DSBR": 1,
+    "DSFL": 3,
+    "DSFR": 4,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 2,
+    "LSF": 12,
+    "TLL": 4,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 7,
+    "NM": 50
+  },
+  "red loss moves": {
+    "DLBL": 2,
+    "DLBR": 0,
+    "DLFL": 0,
+    "DLFR": 1,
+    "DSBL": 0,
+    "DSBR": 0,
+    "DSFL": 4,
+    "DSFR": 6,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 1,
+    "LSF": 4,
+    "TLL": 4,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 8,
+    "NM": 30
+  },
+  "blue total shots": {
+    "長球": 5,
+    "切球": 80,
+    "殺球": 42,
+    "挑球": 5,
+    "小球": 13,
+    "平球": 4,
+    "撲球": 1
+  },
+  "red total shots": {
+    "長球": 6,
+    "切球": 0,
+    "殺球": 1,
+    "挑球": 122,
+    "小球": 4,
+    "平球": 5,
+    "撲球": 15
+  },
+  "blue total moves": {
+    "DLBL": 0,
+    "DLBR": 1,
+    "DLFL": 0,
+    "DLFR": 0,
+    "DSBL": 9,
+    "DSBR": 0,
+    "DSFL": 9,
+    "DSFR": 2,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 16,
+    "LSF": 19,
+    "TLL": 13,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 18,
+    "NM": 65
+  },
+  "red total moves": {
+    "DLBL": 2,
+    "DLBR": 2,
+    "DLFL": 2,
+    "DLFR": 1,
+    "DSBL": 2,
+    "DSBR": 1,
+    "DSFL": 7,
+    "DSFR": 10,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 3,
+    "LSF": 16,
+    "TLL": 8,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 15,
+    "NM": 80
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "Match": "HYLO Open 2022 ｜ Toma Junior Popov (FRA) vs. Chou Tien Chen (TPE) [3] ｜ SF",
+  "b_r_players": [
+    "Chou Tien Chen",
+    "Toma Junior Popov"
+  ],
+  "correct_scores": [
+    [
+      21,
+      17
+    ],
+    [
+      21,
+      11
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 36,
+      "blue red score": [
+        24,
+        12
+      ]
+    },
+    {
+      "score count": 29,
+      "blue red score": [
+        17,
+        11
+      ]
+    },
+    {
+      "score count": 0,
+      "blue red score": [
+        0,
+        1
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 21,
+    "切球": 53,
+    "殺球": 44,
+    "挑球": 54,
+    "小球": 38,
+    "平球": 11,
+    "撲球": 17
+  },
+  "blue loss shots": {
+    "長球": 14,
+    "切球": 31,
+    "殺球": 27,
+    "挑球": 60,
+    "小球": 9,
+    "平球": 10,
+    "撲球": 18
+  },
+  "red win shots": {
+    "長球": 15,
+    "切球": 30,
+    "殺球": 32,
+    "挑球": 60,
+    "小球": 12,
+    "平球": 11,
+    "撲球": 10
+  },
+  "red loss shots": {
+    "長球": 18,
+    "切球": 30,
+    "殺球": 29,
+    "挑球": 98,
+    "小球": 18,
+    "平球": 9,
+    "撲球": 36
+  },
+  "blue win moves": {
+    "DLBL": 4,
+    "DLBR": 4,
+    "DLFL": 2,
+    "DLFR": 0,
+    "DSBL": 5,
+    "DSBR": 7,
+    "DSFL": 16,
+    "DSFR": 12,
+    "LLB": 3,
+    "LLF": 0,
+    "LSB": 13,
+    "LSF": 39,
+    "TLL": 19,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 22,
+    "NM": 90
+  },
+  "blue loss moves": {
+    "DLBL": 1,
+    "DLBR": 0,
+    "DLFL": 1,
+    "DLFR": 1,
+    "DSBL": 4,
+    "DSBR": 4,
+    "DSFL": 9,
+    "DSFR": 6,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 5,
+    "LSF": 21,
+    "TLL": 21,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 13,
+    "NM": 83
+  },
+  "red win moves": {
+    "DLBL": 2,
+    "DLBR": 0,
+    "DLFL": 0,
+    "DLFR": 2,
+    "DSBL": 4,
+    "DSBR": 1,
+    "DSFL": 14,
+    "DSFR": 7,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 7,
+    "LSF": 25,
+    "TLL": 13,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 10,
+    "NM": 84
+  },
+  "red loss moves": {
+    "DLBL": 1,
+    "DLBR": 1,
+    "DLFL": 1,
+    "DLFR": 1,
+    "DSBL": 5,
+    "DSBR": 0,
+    "DSFL": 8,
+    "DSFR": 9,
+    "LLB": 0,
+    "LLF": 2,
+    "LSB": 5,
+    "LSF": 53,
+    "TLL": 21,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 21,
+    "NM": 110
+  },
+  "blue total shots": {
+    "長球": 35,
+    "切球": 84,
+    "殺球": 71,
+    "挑球": 114,
+    "小球": 47,
+    "平球": 21,
+    "撲球": 35
+  },
+  "red total shots": {
+    "長球": 33,
+    "切球": 60,
+    "殺球": 61,
+    "挑球": 158,
+    "小球": 30,
+    "平球": 20,
+    "撲球": 46
+  },
+  "blue total moves": {
+    "DLBL": 5,
+    "DLBR": 4,
+    "DLFL": 3,
+    "DLFR": 1,
+    "DSBL": 9,
+    "DSBR": 11,
+    "DSFL": 25,
+    "DSFR": 18,
+    "LLB": 4,
+    "LLF": 0,
+    "LSB": 18,
+    "LSF": 60,
+    "TLL": 40,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 35,
+    "NM": 173
+  },
+  "red total moves": {
+    "DLBL": 3,
+    "DLBR": 1,
+    "DLFL": 1,
+    "DLFR": 3,
+    "DSBL": 9,
+    "DSBR": 1,
+    "DSFL": 22,
+    "DSFR": 16,
+    "LLB": 0,
+    "LLF": 2,
+    "LSB": 12,
+    "LSF": 78,
+    "TLL": 34,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 31,
+    "NM": 194
+  }
+}

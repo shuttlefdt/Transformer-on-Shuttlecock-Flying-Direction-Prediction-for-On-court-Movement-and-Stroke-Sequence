@@ -1,0 +1,205 @@
+{
+  "Match": "Singapore Open 2022 ｜ Anthony Sinisuka Ginting (INA) [4] vs. Loh Kean Yew (SGP) [6] ｜ SF",
+  "b_r_players": [
+    "Anthony Sinisuka Ginting",
+    "Loh Kean Yew"
+  ],
+  "correct_scores": [
+    [
+      21,
+      17
+    ],
+    [
+      21,
+      14
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 28,
+      "blue red score": [
+        19,
+        9
+      ]
+    },
+    {
+      "score count": 27,
+      "blue red score": [
+        9,
+        18
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 20,
+    "切球": 18,
+    "殺球": 32,
+    "挑球": 32,
+    "小球": 16,
+    "平球": 8,
+    "撲球": 13
+  },
+  "blue loss shots": {
+    "長球": 19,
+    "切球": 20,
+    "殺球": 30,
+    "挑球": 43,
+    "小球": 19,
+    "平球": 10,
+    "撲球": 19
+  },
+  "red win shots": {
+    "長球": 19,
+    "切球": 24,
+    "殺球": 21,
+    "挑球": 53,
+    "小球": 18,
+    "平球": 13,
+    "撲球": 13
+  },
+  "red loss shots": {
+    "長球": 19,
+    "切球": 11,
+    "殺球": 19,
+    "挑球": 51,
+    "小球": 15,
+    "平球": 7,
+    "撲球": 15
+  },
+  "blue win moves": {
+    "DLBL": 6,
+    "DLBR": 2,
+    "DLFL": 1,
+    "DLFR": 0,
+    "DSBL": 4,
+    "DSBR": 0,
+    "DSFL": 4,
+    "DSFR": 7,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 6,
+    "LSF": 23,
+    "TLL": 16,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 9,
+    "NM": 58
+  },
+  "blue loss moves": {
+    "DLBL": 3,
+    "DLBR": 0,
+    "DLFL": 3,
+    "DLFR": 2,
+    "DSBL": 8,
+    "DSBR": 6,
+    "DSFL": 4,
+    "DSFR": 8,
+    "LLB": 2,
+    "LLF": 0,
+    "LSB": 5,
+    "LSF": 23,
+    "TLL": 12,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 14,
+    "NM": 71
+  },
+  "red win moves": {
+    "DLBL": 0,
+    "DLBR": 1,
+    "DLFL": 1,
+    "DLFR": 1,
+    "DSBL": 1,
+    "DSBR": 4,
+    "DSFL": 6,
+    "DSFR": 7,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 5,
+    "LSF": 16,
+    "TLL": 20,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 17,
+    "NM": 79
+  },
+  "red loss moves": {
+    "DLBL": 2,
+    "DLBR": 2,
+    "DLFL": 3,
+    "DLFR": 0,
+    "DSBL": 6,
+    "DSBR": 7,
+    "DSFL": 1,
+    "DSFR": 5,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 3,
+    "LSF": 23,
+    "TLL": 16,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 10,
+    "NM": 60
+  },
+  "blue total shots": {
+    "長球": 39,
+    "切球": 38,
+    "殺球": 62,
+    "挑球": 75,
+    "小球": 35,
+    "平球": 18,
+    "撲球": 32
+  },
+  "red total shots": {
+    "長球": 38,
+    "切球": 35,
+    "殺球": 40,
+    "挑球": 104,
+    "小球": 33,
+    "平球": 20,
+    "撲球": 28
+  },
+  "blue total moves": {
+    "DLBL": 9,
+    "DLBR": 2,
+    "DLFL": 4,
+    "DLFR": 2,
+    "DSBL": 12,
+    "DSBR": 6,
+    "DSFL": 8,
+    "DSFR": 15,
+    "LLB": 2,
+    "LLF": 0,
+    "LSB": 11,
+    "LSF": 46,
+    "TLL": 28,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 23,
+    "NM": 129
+  },
+  "red total moves": {
+    "DLBL": 2,
+    "DLBR": 3,
+    "DLFL": 4,
+    "DLFR": 1,
+    "DSBL": 7,
+    "DSBR": 11,
+    "DSFL": 7,
+    "DSFR": 12,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 8,
+    "LSF": 39,
+    "TLL": 36,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 27,
+    "NM": 139
+  }
+}

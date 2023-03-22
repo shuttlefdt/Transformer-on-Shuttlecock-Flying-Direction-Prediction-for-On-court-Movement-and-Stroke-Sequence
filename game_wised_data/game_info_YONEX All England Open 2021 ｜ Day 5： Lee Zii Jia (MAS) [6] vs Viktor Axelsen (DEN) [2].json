@@ -1,0 +1,212 @@
+{
+  "Match": "YONEX All England Open 2021 ｜ Day 5： Lee Zii Jia (MAS) [6] vs Viktor Axelsen (DEN) [2]",
+  "b_r_players": [
+    "Lee Zii Jia",
+    "Viktor Axelsen"
+  ],
+  "correct_scores": [
+    [
+      30,
+      29
+    ],
+    [
+      20,
+      22
+    ],
+    [
+      21,
+      9
+    ]
+  ],
+  "games": [
+    {
+      "score count": 62,
+      "blue red score": [
+        31,
+        31
+      ]
+    },
+    {
+      "score count": 31,
+      "blue red score": [
+        11,
+        20
+      ]
+    },
+    {
+      "score count": 37,
+      "blue red score": [
+        20,
+        17
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 33,
+    "切球": 93,
+    "殺球": 74,
+    "挑球": 63,
+    "小球": 48,
+    "平球": 7,
+    "撲球": 12
+  },
+  "blue loss shots": {
+    "長球": 36,
+    "切球": 81,
+    "殺球": 62,
+    "挑球": 83,
+    "小球": 28,
+    "平球": 9,
+    "撲球": 17
+  },
+  "red win shots": {
+    "長球": 29,
+    "切球": 46,
+    "殺球": 45,
+    "挑球": 147,
+    "小球": 11,
+    "平球": 14,
+    "撲球": 23
+  },
+  "red loss shots": {
+    "長球": 36,
+    "切球": 35,
+    "殺球": 26,
+    "挑球": 160,
+    "小球": 23,
+    "平球": 16,
+    "撲球": 32
+  },
+  "blue win moves": {
+    "DLBL": 0,
+    "DLBR": 0,
+    "DLFL": 6,
+    "DLFR": 3,
+    "DSBL": 9,
+    "DSBR": 7,
+    "DSFL": 17,
+    "DSFR": 16,
+    "LLB": 0,
+    "LLF": 2,
+    "LSB": 13,
+    "LSF": 30,
+    "TLL": 40,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 34,
+    "NM": 150
+  },
+  "blue loss moves": {
+    "DLBL": 2,
+    "DLBR": 2,
+    "DLFL": 4,
+    "DLFR": 6,
+    "DSBL": 8,
+    "DSBR": 4,
+    "DSFL": 11,
+    "DSFR": 16,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 16,
+    "LSF": 34,
+    "TLL": 39,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 33,
+    "NM": 138
+  },
+  "red win moves": {
+    "DLBL": 1,
+    "DLBR": 1,
+    "DLFL": 3,
+    "DLFR": 5,
+    "DSBL": 7,
+    "DSBR": 7,
+    "DSFL": 13,
+    "DSFR": 16,
+    "LLB": 1,
+    "LLF": 2,
+    "LSB": 10,
+    "LSF": 44,
+    "TLL": 44,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 27,
+    "NM": 134
+  },
+  "red loss moves": {
+    "DLBL": 2,
+    "DLBR": 1,
+    "DLFL": 2,
+    "DLFR": 6,
+    "DSBL": 11,
+    "DSBR": 3,
+    "DSFL": 21,
+    "DSFR": 16,
+    "LLB": 3,
+    "LLF": 4,
+    "LSB": 9,
+    "LSF": 44,
+    "TLL": 42,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 38,
+    "NM": 126
+  },
+  "blue total shots": {
+    "長球": 69,
+    "切球": 174,
+    "殺球": 136,
+    "挑球": 146,
+    "小球": 76,
+    "平球": 16,
+    "撲球": 29
+  },
+  "red total shots": {
+    "長球": 65,
+    "切球": 81,
+    "殺球": 71,
+    "挑球": 307,
+    "小球": 34,
+    "平球": 30,
+    "撲球": 55
+  },
+  "blue total moves": {
+    "DLBL": 2,
+    "DLBR": 2,
+    "DLFL": 10,
+    "DLFR": 9,
+    "DSBL": 17,
+    "DSBR": 11,
+    "DSFL": 28,
+    "DSFR": 32,
+    "LLB": 0,
+    "LLF": 3,
+    "LSB": 29,
+    "LSF": 64,
+    "TLL": 79,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 67,
+    "NM": 288
+  },
+  "red total moves": {
+    "DLBL": 3,
+    "DLBR": 2,
+    "DLFL": 5,
+    "DLFR": 11,
+    "DSBL": 18,
+    "DSBR": 10,
+    "DSFL": 34,
+    "DSFR": 32,
+    "LLB": 4,
+    "LLF": 6,
+    "LSB": 19,
+    "LSF": 88,
+    "TLL": 86,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 65,
+    "NM": 260
+  }
+}

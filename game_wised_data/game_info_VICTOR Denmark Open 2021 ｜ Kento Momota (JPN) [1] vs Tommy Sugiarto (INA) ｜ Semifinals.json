@@ -1,0 +1,205 @@
+{
+  "Match": "VICTOR Denmark Open 2021 ｜ Kento Momota (JPN) [1] vs Tommy Sugiarto (INA) ｜ Semifinals",
+  "b_r_players": [
+    "Kento Momota",
+    "Tommy Sugiarto"
+  ],
+  "correct_scores": [
+    [
+      21,
+      7
+    ],
+    [
+      21,
+      12
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 25,
+      "blue red score": [
+        17,
+        8
+      ]
+    },
+    {
+      "score count": 33,
+      "blue red score": [
+        15,
+        18
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 56,
+    "切球": 55,
+    "殺球": 43,
+    "挑球": 92,
+    "小球": 10,
+    "平球": 22,
+    "撲球": 30
+  },
+  "blue loss shots": {
+    "長球": 34,
+    "切球": 40,
+    "殺球": 45,
+    "挑球": 62,
+    "小球": 17,
+    "平球": 12,
+    "撲球": 25
+  },
+  "red win shots": {
+    "長球": 30,
+    "切球": 31,
+    "殺球": 32,
+    "挑球": 90,
+    "小球": 20,
+    "平球": 17,
+    "撲球": 13
+  },
+  "red loss shots": {
+    "長球": 47,
+    "切球": 47,
+    "殺球": 56,
+    "挑球": 104,
+    "小球": 14,
+    "平球": 26,
+    "撲球": 15
+  },
+  "blue win moves": {
+    "DLBL": 3,
+    "DLBR": 1,
+    "DLFL": 3,
+    "DLFR": 1,
+    "DSBL": 16,
+    "DSBR": 2,
+    "DSFL": 14,
+    "DSFR": 14,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 16,
+    "LSF": 31,
+    "TLL": 30,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 31,
+    "NM": 144
+  },
+  "blue loss moves": {
+    "DLBL": 2,
+    "DLBR": 1,
+    "DLFL": 2,
+    "DLFR": 3,
+    "DSBL": 16,
+    "DSBR": 9,
+    "DSFL": 15,
+    "DSFR": 10,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 7,
+    "LSF": 22,
+    "TLL": 23,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 21,
+    "NM": 99
+  },
+  "red win moves": {
+    "DLBL": 1,
+    "DLBR": 6,
+    "DLFL": 1,
+    "DLFR": 2,
+    "DSBL": 2,
+    "DSBR": 12,
+    "DSFL": 14,
+    "DSFR": 7,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 9,
+    "LSF": 28,
+    "TLL": 23,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 20,
+    "NM": 108
+  },
+  "red loss moves": {
+    "DLBL": 1,
+    "DLBR": 8,
+    "DLFL": 3,
+    "DLFR": 1,
+    "DSBL": 10,
+    "DSBR": 11,
+    "DSFL": 17,
+    "DSFR": 8,
+    "LLB": 0,
+    "LLF": 2,
+    "LSB": 13,
+    "LSF": 45,
+    "TLL": 23,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 23,
+    "NM": 141
+  },
+  "blue total shots": {
+    "長球": 90,
+    "切球": 95,
+    "殺球": 88,
+    "挑球": 154,
+    "小球": 27,
+    "平球": 34,
+    "撲球": 55
+  },
+  "red total shots": {
+    "長球": 77,
+    "切球": 78,
+    "殺球": 88,
+    "挑球": 194,
+    "小球": 34,
+    "平球": 43,
+    "撲球": 28
+  },
+  "blue total moves": {
+    "DLBL": 5,
+    "DLBR": 2,
+    "DLFL": 5,
+    "DLFR": 4,
+    "DSBL": 32,
+    "DSBR": 11,
+    "DSFL": 29,
+    "DSFR": 24,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 23,
+    "LSF": 53,
+    "TLL": 53,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 52,
+    "NM": 243
+  },
+  "red total moves": {
+    "DLBL": 2,
+    "DLBR": 14,
+    "DLFL": 4,
+    "DLFR": 3,
+    "DSBL": 12,
+    "DSBR": 23,
+    "DSFL": 31,
+    "DSFR": 15,
+    "LLB": 1,
+    "LLF": 2,
+    "LSB": 22,
+    "LSF": 73,
+    "TLL": 46,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 43,
+    "NM": 249
+  }
+}

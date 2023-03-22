@@ -1,0 +1,205 @@
+{
+  "Match": "YONEX French Open 2022 ｜ Viktor Axelsen (DEN) [1] vs. Rasmus Gemke (DEN) ｜ F",
+  "b_r_players": [
+    "Rasmus Gemke",
+    "Viktor Axelsen"
+  ],
+  "correct_scores": [
+    [
+      14,
+      21
+    ],
+    [
+      15,
+      21
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 36,
+      "blue red score": [
+        13,
+        23
+      ]
+    },
+    {
+      "score count": 35,
+      "blue red score": [
+        16,
+        19
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 22,
+    "切球": 17,
+    "殺球": 22,
+    "挑球": 53,
+    "小球": 14,
+    "平球": 5,
+    "撲球": 21
+  },
+  "blue loss shots": {
+    "長球": 48,
+    "切球": 64,
+    "殺球": 73,
+    "挑球": 87,
+    "小球": 26,
+    "平球": 13,
+    "撲球": 20
+  },
+  "red win shots": {
+    "長球": 52,
+    "切球": 44,
+    "殺球": 36,
+    "挑球": 140,
+    "小球": 7,
+    "平球": 25,
+    "撲球": 26
+  },
+  "red loss shots": {
+    "長球": 21,
+    "切球": 32,
+    "殺球": 24,
+    "挑球": 48,
+    "小球": 14,
+    "平球": 7,
+    "撲球": 13
+  },
+  "blue win moves": {
+    "DLBL": 3,
+    "DLBR": 0,
+    "DLFL": 4,
+    "DLFR": 3,
+    "DSBL": 4,
+    "DSBR": 2,
+    "DSFL": 4,
+    "DSFR": 17,
+    "LLB": 0,
+    "LLF": 2,
+    "LSB": 10,
+    "LSF": 24,
+    "TLL": 20,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 13,
+    "NM": 53
+  },
+  "blue loss moves": {
+    "DLBL": 6,
+    "DLBR": 1,
+    "DLFL": 3,
+    "DLFR": 6,
+    "DSBL": 13,
+    "DSBR": 4,
+    "DSFL": 13,
+    "DSFR": 24,
+    "LLB": 1,
+    "LLF": 2,
+    "LSB": 13,
+    "LSF": 29,
+    "TLL": 39,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 31,
+    "NM": 144
+  },
+  "red win moves": {
+    "DLBL": 4,
+    "DLBR": 0,
+    "DLFL": 2,
+    "DLFR": 3,
+    "DSBL": 5,
+    "DSBR": 9,
+    "DSFL": 16,
+    "DSFR": 26,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 10,
+    "LSF": 40,
+    "TLL": 35,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 32,
+    "NM": 147
+  },
+  "red loss moves": {
+    "DLBL": 3,
+    "DLBR": 0,
+    "DLFL": 3,
+    "DLFR": 1,
+    "DSBL": 2,
+    "DSBR": 3,
+    "DSFL": 10,
+    "DSFR": 11,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 2,
+    "LSF": 22,
+    "TLL": 18,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 11,
+    "NM": 66
+  },
+  "blue total shots": {
+    "長球": 70,
+    "切球": 81,
+    "殺球": 95,
+    "挑球": 140,
+    "小球": 40,
+    "平球": 18,
+    "撲球": 41
+  },
+  "red total shots": {
+    "長球": 73,
+    "切球": 76,
+    "殺球": 60,
+    "挑球": 188,
+    "小球": 21,
+    "平球": 32,
+    "撲球": 39
+  },
+  "blue total moves": {
+    "DLBL": 9,
+    "DLBR": 1,
+    "DLFL": 7,
+    "DLFR": 9,
+    "DSBL": 17,
+    "DSBR": 6,
+    "DSFL": 17,
+    "DSFR": 41,
+    "LLB": 1,
+    "LLF": 4,
+    "LSB": 23,
+    "LSF": 53,
+    "TLL": 59,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 44,
+    "NM": 197
+  },
+  "red total moves": {
+    "DLBL": 7,
+    "DLBR": 0,
+    "DLFL": 5,
+    "DLFR": 4,
+    "DSBL": 7,
+    "DSBR": 12,
+    "DSFL": 26,
+    "DSFR": 37,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 12,
+    "LSF": 62,
+    "TLL": 53,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 43,
+    "NM": 213
+  }
+}

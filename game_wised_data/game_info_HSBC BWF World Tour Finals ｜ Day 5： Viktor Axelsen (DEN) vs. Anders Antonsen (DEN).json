@@ -1,0 +1,205 @@
+{
+  "Match": "HSBC BWF World Tour Finals ｜ Day 5： Viktor Axelsen (DEN) vs. Anders Antonsen (DEN)",
+  "b_r_players": [
+    "Viktor Axelsen",
+    "Anders Antonsen"
+  ],
+  "correct_scores": [
+    [
+      16,
+      21
+    ],
+    [
+      21,
+      5
+    ],
+    [
+      17,
+      21
+    ]
+  ],
+  "games": [
+    {
+      "score count": 37,
+      "blue red score": [
+        17,
+        20
+      ]
+    },
+    {
+      "score count": 58,
+      "blue red score": [
+        32,
+        26
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 118,
+    "切球": 73,
+    "殺球": 34,
+    "挑球": 89,
+    "小球": 8,
+    "平球": 0,
+    "撲球": 2
+  },
+  "blue loss shots": {
+    "長球": 80,
+    "切球": 63,
+    "殺球": 22,
+    "挑球": 77,
+    "小球": 11,
+    "平球": 1,
+    "撲球": 2
+  },
+  "red win shots": {
+    "長球": 77,
+    "切球": 43,
+    "殺球": 22,
+    "挑球": 104,
+    "小球": 7,
+    "平球": 1,
+    "撲球": 0
+  },
+  "red loss shots": {
+    "長球": 126,
+    "切球": 47,
+    "殺球": 24,
+    "挑球": 121,
+    "小球": 9,
+    "平球": 1,
+    "撲球": 0
+  },
+  "blue win moves": {
+    "DLBL": 2,
+    "DLBR": 5,
+    "DLFL": 10,
+    "DLFR": 3,
+    "DSBL": 5,
+    "DSBR": 11,
+    "DSFL": 7,
+    "DSFR": 6,
+    "LLB": 2,
+    "LLF": 6,
+    "LSB": 11,
+    "LSF": 17,
+    "TLL": 51,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 33,
+    "NM": 157
+  },
+  "blue loss moves": {
+    "DLBL": 2,
+    "DLBR": 3,
+    "DLFL": 5,
+    "DLFR": 2,
+    "DSBL": 5,
+    "DSBR": 6,
+    "DSFL": 4,
+    "DSFR": 6,
+    "LLB": 2,
+    "LLF": 2,
+    "LSB": 7,
+    "LSF": 17,
+    "TLL": 43,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 28,
+    "NM": 120
+  },
+  "red win moves": {
+    "DLBL": 6,
+    "DLBR": 9,
+    "DLFL": 4,
+    "DLFR": 7,
+    "DSBL": 4,
+    "DSBR": 7,
+    "DSFL": 10,
+    "DSFR": 7,
+    "LLB": 8,
+    "LLF": 5,
+    "LSB": 7,
+    "LSF": 19,
+    "TLL": 30,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 21,
+    "NM": 111
+  },
+  "red loss moves": {
+    "DLBL": 9,
+    "DLBR": 5,
+    "DLFL": 10,
+    "DLFR": 5,
+    "DSBL": 4,
+    "DSBR": 12,
+    "DSFL": 7,
+    "DSFR": 11,
+    "LLB": 11,
+    "LLF": 7,
+    "LSB": 19,
+    "LSF": 17,
+    "TLL": 46,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 34,
+    "NM": 125
+  },
+  "blue total shots": {
+    "長球": 198,
+    "切球": 136,
+    "殺球": 56,
+    "挑球": 166,
+    "小球": 19,
+    "平球": 1,
+    "撲球": 4
+  },
+  "red total shots": {
+    "長球": 203,
+    "切球": 90,
+    "殺球": 46,
+    "挑球": 225,
+    "小球": 16,
+    "平球": 2,
+    "撲球": 0
+  },
+  "blue total moves": {
+    "DLBL": 4,
+    "DLBR": 8,
+    "DLFL": 15,
+    "DLFR": 5,
+    "DSBL": 10,
+    "DSBR": 17,
+    "DSFL": 11,
+    "DSFR": 12,
+    "LLB": 4,
+    "LLF": 8,
+    "LSB": 18,
+    "LSF": 34,
+    "TLL": 94,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 61,
+    "NM": 277
+  },
+  "red total moves": {
+    "DLBL": 15,
+    "DLBR": 14,
+    "DLFL": 14,
+    "DLFR": 12,
+    "DSBL": 8,
+    "DSBR": 19,
+    "DSFL": 17,
+    "DSFR": 18,
+    "LLB": 19,
+    "LLF": 12,
+    "LSB": 26,
+    "LSF": 36,
+    "TLL": 76,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 55,
+    "NM": 236
+  }
+}

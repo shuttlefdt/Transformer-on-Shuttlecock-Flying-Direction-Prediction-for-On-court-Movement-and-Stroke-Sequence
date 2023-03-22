@@ -1,0 +1,212 @@
+{
+  "Match": "BWF Thomas Cup ｜ Kento Momota (JPN) vs Lee Zii Jia (MAS) ｜ Group D",
+  "b_r_players": [
+    "Kento Momota",
+    "Lee Zii Jia"
+  ],
+  "correct_scores": [
+    [
+      15,
+      21
+    ],
+    [
+      21,
+      12
+    ],
+    [
+      23,
+      21
+    ]
+  ],
+  "games": [
+    {
+      "score count": 35,
+      "blue red score": [
+        12,
+        23
+      ]
+    },
+    {
+      "score count": 32,
+      "blue red score": [
+        18,
+        14
+      ]
+    },
+    {
+      "score count": 44,
+      "blue red score": [
+        20,
+        24
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 104,
+    "切球": 103,
+    "殺球": 85,
+    "挑球": 165,
+    "小球": 31,
+    "平球": 14,
+    "撲球": 31
+  },
+  "blue loss shots": {
+    "長球": 87,
+    "切球": 180,
+    "殺球": 133,
+    "挑球": 115,
+    "小球": 32,
+    "平球": 13,
+    "撲球": 13
+  },
+  "red win shots": {
+    "長球": 105,
+    "切球": 36,
+    "殺球": 57,
+    "挑球": 300,
+    "小球": 17,
+    "平球": 14,
+    "撲球": 44
+  },
+  "red loss shots": {
+    "長球": 108,
+    "切球": 83,
+    "殺球": 77,
+    "挑球": 188,
+    "小球": 33,
+    "平球": 13,
+    "撲球": 38
+  },
+  "blue win moves": {
+    "DLBL": 3,
+    "DLBR": 5,
+    "DLFL": 3,
+    "DLFR": 5,
+    "DSBL": 15,
+    "DSBR": 12,
+    "DSFL": 30,
+    "DSFR": 18,
+    "LLB": 0,
+    "LLF": 3,
+    "LSB": 29,
+    "LSF": 66,
+    "TLL": 56,
+    "TLR": 14,
+    "TSL": 0,
+    "TSR": 47,
+    "NM": 234
+  },
+  "blue loss moves": {
+    "DLBL": 1,
+    "DLBR": 3,
+    "DLFL": 8,
+    "DLFR": 5,
+    "DSBL": 8,
+    "DSBR": 6,
+    "DSFL": 18,
+    "DSFR": 17,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 11,
+    "LSF": 67,
+    "TLL": 57,
+    "TLR": 8,
+    "TSL": 0,
+    "TSR": 72,
+    "NM": 290
+  },
+  "red win moves": {
+    "DLBL": 4,
+    "DLBR": 5,
+    "DLFL": 3,
+    "DLFR": 2,
+    "DSBL": 10,
+    "DSBR": 23,
+    "DSFL": 25,
+    "DSFR": 19,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 29,
+    "LSF": 70,
+    "TLL": 46,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 51,
+    "NM": 282
+  },
+  "red loss moves": {
+    "DLBL": 0,
+    "DLBR": 6,
+    "DLFL": 3,
+    "DLFR": 4,
+    "DSBL": 8,
+    "DSBR": 27,
+    "DSFL": 23,
+    "DSFR": 18,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 26,
+    "LSF": 57,
+    "TLL": 41,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 35,
+    "NM": 281
+  },
+  "blue total shots": {
+    "長球": 191,
+    "切球": 283,
+    "殺球": 218,
+    "挑球": 280,
+    "小球": 63,
+    "平球": 27,
+    "撲球": 44
+  },
+  "red total shots": {
+    "長球": 213,
+    "切球": 119,
+    "殺球": 134,
+    "挑球": 488,
+    "小球": 50,
+    "平球": 27,
+    "撲球": 82
+  },
+  "blue total moves": {
+    "DLBL": 4,
+    "DLBR": 8,
+    "DLFL": 11,
+    "DLFR": 10,
+    "DSBL": 23,
+    "DSBR": 18,
+    "DSFL": 48,
+    "DSFR": 35,
+    "LLB": 1,
+    "LLF": 4,
+    "LSB": 40,
+    "LSF": 133,
+    "TLL": 113,
+    "TLR": 22,
+    "TSL": 0,
+    "TSR": 119,
+    "NM": 524
+  },
+  "red total moves": {
+    "DLBL": 4,
+    "DLBR": 11,
+    "DLFL": 6,
+    "DLFR": 6,
+    "DSBL": 18,
+    "DSBR": 50,
+    "DSFL": 48,
+    "DSFR": 37,
+    "LLB": 0,
+    "LLF": 2,
+    "LSB": 55,
+    "LSF": 127,
+    "TLL": 87,
+    "TLR": 6,
+    "TSL": 0,
+    "TSR": 86,
+    "NM": 563
+  }
+}

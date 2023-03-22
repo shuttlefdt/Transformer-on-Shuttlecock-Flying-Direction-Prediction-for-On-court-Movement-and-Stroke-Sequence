@@ -1,0 +1,205 @@
+{
+  "Match": "EAST VENTURES Indonesia Open 2022 ｜ Lee Zii Jia (MAS) [6] vs. Sameer Verma (IND) ｜ R16",
+  "b_r_players": [
+    "Sameer Verma",
+    "Lee Zii Jia"
+  ],
+  "correct_scores": [
+    [
+      10,
+      21
+    ],
+    [
+      13,
+      21
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 31,
+      "blue red score": [
+        8,
+        23
+      ]
+    },
+    {
+      "score count": 32,
+      "blue red score": [
+        13,
+        19
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 12,
+    "切球": 18,
+    "殺球": 15,
+    "挑球": 59,
+    "小球": 10,
+    "平球": 7,
+    "撲球": 20
+  },
+  "blue loss shots": {
+    "長球": 53,
+    "切球": 78,
+    "殺球": 45,
+    "挑球": 88,
+    "小球": 24,
+    "平球": 6,
+    "撲球": 34
+  },
+  "red win shots": {
+    "長球": 57,
+    "切球": 38,
+    "殺球": 46,
+    "挑球": 123,
+    "小球": 23,
+    "平球": 15,
+    "撲球": 28
+  },
+  "red loss shots": {
+    "長球": 7,
+    "切球": 35,
+    "殺球": 32,
+    "挑球": 39,
+    "小球": 12,
+    "平球": 8,
+    "撲球": 13
+  },
+  "blue win moves": {
+    "DLBL": 2,
+    "DLBR": 1,
+    "DLFL": 0,
+    "DLFR": 0,
+    "DSBL": 5,
+    "DSBR": 5,
+    "DSFL": 2,
+    "DSFR": 4,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 4,
+    "LSF": 32,
+    "TLL": 17,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 13,
+    "NM": 60
+  },
+  "blue loss moves": {
+    "DLBL": 6,
+    "DLBR": 1,
+    "DLFL": 0,
+    "DLFR": 7,
+    "DSBL": 11,
+    "DSBR": 5,
+    "DSFL": 12,
+    "DSFR": 20,
+    "LLB": 2,
+    "LLF": 0,
+    "LSB": 8,
+    "LSF": 41,
+    "TLL": 52,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 25,
+    "NM": 137
+  },
+  "red win moves": {
+    "DLBL": 3,
+    "DLBR": 1,
+    "DLFL": 0,
+    "DLFR": 5,
+    "DSBL": 6,
+    "DSBR": 7,
+    "DSFL": 24,
+    "DSFR": 21,
+    "LLB": 2,
+    "LLF": 1,
+    "LSB": 13,
+    "LSF": 48,
+    "TLL": 36,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 32,
+    "NM": 127
+  },
+  "red loss moves": {
+    "DLBL": 0,
+    "DLBR": 1,
+    "DLFL": 0,
+    "DLFR": 1,
+    "DSBL": 2,
+    "DSBR": 1,
+    "DSFL": 8,
+    "DSFR": 10,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 4,
+    "LSF": 21,
+    "TLL": 19,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 13,
+    "NM": 59
+  },
+  "blue total shots": {
+    "長球": 65,
+    "切球": 96,
+    "殺球": 60,
+    "挑球": 147,
+    "小球": 34,
+    "平球": 13,
+    "撲球": 54
+  },
+  "red total shots": {
+    "長球": 64,
+    "切球": 73,
+    "殺球": 78,
+    "挑球": 162,
+    "小球": 35,
+    "平球": 23,
+    "撲球": 41
+  },
+  "blue total moves": {
+    "DLBL": 8,
+    "DLBR": 2,
+    "DLFL": 0,
+    "DLFR": 7,
+    "DSBL": 16,
+    "DSBR": 10,
+    "DSFL": 14,
+    "DSFR": 24,
+    "LLB": 2,
+    "LLF": 1,
+    "LSB": 12,
+    "LSF": 73,
+    "TLL": 69,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 38,
+    "NM": 197
+  },
+  "red total moves": {
+    "DLBL": 3,
+    "DLBR": 2,
+    "DLFL": 0,
+    "DLFR": 6,
+    "DSBL": 8,
+    "DSBR": 8,
+    "DSFL": 32,
+    "DSFR": 31,
+    "LLB": 2,
+    "LLF": 1,
+    "LSB": 17,
+    "LSF": 69,
+    "TLL": 55,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 45,
+    "NM": 186
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "Match": "F  MS  NG Ka Long Angus (HKG) vs CHOU Tien Chen (TPE) [3]  BWF 2019",
+  "b_r_players": [
+    "CHOU Tien Chen",
+    "NG Ka Long Angus"
+  ],
+  "correct_scores": [
+    [
+      21,
+      14
+    ],
+    [
+      11,
+      21
+    ],
+    [
+      23,
+      21
+    ]
+  ],
+  "games": [
+    {
+      "score count": 33,
+      "blue red score": [
+        19,
+        14
+      ]
+    },
+    {
+      "score count": 31,
+      "blue red score": [
+        12,
+        19
+      ]
+    },
+    {
+      "score count": 42,
+      "blue red score": [
+        17,
+        25
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 31,
+    "切球": 54,
+    "殺球": 44,
+    "挑球": 46,
+    "小球": 35,
+    "平球": 14,
+    "撲球": 9
+  },
+  "blue loss shots": {
+    "長球": 31,
+    "切球": 45,
+    "殺球": 34,
+    "挑球": 75,
+    "小球": 43,
+    "平球": 15,
+    "撲球": 31
+  },
+  "red win shots": {
+    "長球": 28,
+    "切球": 40,
+    "殺球": 34,
+    "挑球": 81,
+    "小球": 46,
+    "平球": 10,
+    "撲球": 31
+  },
+  "red loss shots": {
+    "長球": 34,
+    "切球": 28,
+    "殺球": 21,
+    "挑球": 97,
+    "小球": 24,
+    "平球": 10,
+    "撲球": 28
+  },
+  "blue win moves": {
+    "DLBL": 6,
+    "DLBR": 1,
+    "DLFL": 2,
+    "DLFR": 6,
+    "DSBL": 12,
+    "DSBR": 5,
+    "DSFL": 16,
+    "DSFR": 13,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 7,
+    "LSF": 49,
+    "TLL": 22,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 28,
+    "NM": 72
+  },
+  "blue loss moves": {
+    "DLBL": 7,
+    "DLBR": 2,
+    "DLFL": 0,
+    "DLFR": 9,
+    "DSBL": 6,
+    "DSBR": 11,
+    "DSFL": 20,
+    "DSFR": 9,
+    "LLB": 2,
+    "LLF": 2,
+    "LSB": 20,
+    "LSF": 48,
+    "TLL": 41,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 27,
+    "NM": 64
+  },
+  "red win moves": {
+    "DLBL": 2,
+    "DLBR": 0,
+    "DLFL": 6,
+    "DLFR": 7,
+    "DSBL": 4,
+    "DSBR": 15,
+    "DSFL": 9,
+    "DSFR": 26,
+    "LLB": 0,
+    "LLF": 2,
+    "LSB": 19,
+    "LSF": 53,
+    "TLL": 36,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 34,
+    "NM": 59
+  },
+  "red loss moves": {
+    "DLBL": 2,
+    "DLBR": 3,
+    "DLFL": 2,
+    "DLFR": 6,
+    "DSBL": 7,
+    "DSBR": 14,
+    "DSFL": 11,
+    "DSFR": 20,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 7,
+    "LSF": 32,
+    "TLL": 46,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 25,
+    "NM": 56
+  },
+  "blue total shots": {
+    "長球": 62,
+    "切球": 99,
+    "殺球": 78,
+    "挑球": 121,
+    "小球": 78,
+    "平球": 29,
+    "撲球": 40
+  },
+  "red total shots": {
+    "長球": 62,
+    "切球": 68,
+    "殺球": 55,
+    "挑球": 178,
+    "小球": 70,
+    "平球": 20,
+    "撲球": 59
+  },
+  "blue total moves": {
+    "DLBL": 13,
+    "DLBR": 3,
+    "DLFL": 2,
+    "DLFR": 15,
+    "DSBL": 18,
+    "DSBR": 16,
+    "DSFL": 36,
+    "DSFR": 22,
+    "LLB": 2,
+    "LLF": 3,
+    "LSB": 27,
+    "LSF": 97,
+    "TLL": 63,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 55,
+    "NM": 136
+  },
+  "red total moves": {
+    "DLBL": 4,
+    "DLBR": 3,
+    "DLFL": 8,
+    "DLFR": 13,
+    "DSBL": 11,
+    "DSBR": 29,
+    "DSFL": 20,
+    "DSFR": 46,
+    "LLB": 0,
+    "LLF": 2,
+    "LSB": 26,
+    "LSF": 85,
+    "TLL": 82,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 59,
+    "NM": 115
+  }
+}

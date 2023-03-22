@@ -1,0 +1,212 @@
+{
+  "Match": "Denmark Open 2022 ｜ Shi Yu Qi (CHN) vs. Kodai Naraoka (JPN) ｜ SF",
+  "b_r_players": [
+    "Shi Yu Qi",
+    "Kodai Naraoka"
+  ],
+  "correct_scores": [
+    [
+      21,
+      15
+    ],
+    [
+      9,
+      21
+    ],
+    [
+      24,
+      22
+    ]
+  ],
+  "games": [
+    {
+      "score count": 36,
+      "blue red score": [
+        22,
+        14
+      ]
+    },
+    {
+      "score count": 30,
+      "blue red score": [
+        13,
+        17
+      ]
+    },
+    {
+      "score count": 46,
+      "blue red score": [
+        24,
+        22
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 52,
+    "切球": 94,
+    "殺球": 67,
+    "挑球": 119,
+    "小球": 46,
+    "平球": 37,
+    "撲球": 43
+  },
+  "blue loss shots": {
+    "長球": 54,
+    "切球": 50,
+    "殺球": 40,
+    "挑球": 109,
+    "小球": 37,
+    "平球": 21,
+    "撲球": 46
+  },
+  "red win shots": {
+    "長球": 61,
+    "切球": 53,
+    "殺球": 41,
+    "挑球": 84,
+    "小球": 58,
+    "平球": 15,
+    "撲球": 41
+  },
+  "red loss shots": {
+    "長球": 73,
+    "切球": 47,
+    "殺球": 48,
+    "挑球": 142,
+    "小球": 55,
+    "平球": 31,
+    "撲球": 69
+  },
+  "blue win moves": {
+    "DLBL": 2,
+    "DLBR": 4,
+    "DLFL": 4,
+    "DLFR": 4,
+    "DSBL": 15,
+    "DSBR": 11,
+    "DSFL": 18,
+    "DSFR": 22,
+    "LLB": 1,
+    "LLF": 2,
+    "LSB": 25,
+    "LSF": 76,
+    "TLL": 31,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 32,
+    "NM": 218
+  },
+  "blue loss moves": {
+    "DLBL": 5,
+    "DLBR": 5,
+    "DLFL": 5,
+    "DLFR": 2,
+    "DSBL": 9,
+    "DSBR": 8,
+    "DSFL": 17,
+    "DSFR": 17,
+    "LLB": 3,
+    "LLF": 0,
+    "LSB": 21,
+    "LSF": 52,
+    "TLL": 21,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 29,
+    "NM": 159
+  },
+  "red win moves": {
+    "DLBL": 3,
+    "DLBR": 4,
+    "DLFL": 4,
+    "DLFR": 6,
+    "DSBL": 12,
+    "DSBR": 13,
+    "DSFL": 15,
+    "DSFR": 18,
+    "LLB": 0,
+    "LLF": 3,
+    "LSB": 20,
+    "LSF": 49,
+    "TLL": 25,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 36,
+    "NM": 148
+  },
+  "red loss moves": {
+    "DLBL": 12,
+    "DLBR": 1,
+    "DLFL": 2,
+    "DLFR": 8,
+    "DSBL": 17,
+    "DSBR": 15,
+    "DSFL": 16,
+    "DSFR": 22,
+    "LLB": 4,
+    "LLF": 0,
+    "LSB": 22,
+    "LSF": 64,
+    "TLL": 36,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 37,
+    "NM": 200
+  },
+  "blue total shots": {
+    "長球": 106,
+    "切球": 144,
+    "殺球": 107,
+    "挑球": 228,
+    "小球": 83,
+    "平球": 58,
+    "撲球": 89
+  },
+  "red total shots": {
+    "長球": 134,
+    "切球": 100,
+    "殺球": 89,
+    "挑球": 226,
+    "小球": 113,
+    "平球": 46,
+    "撲球": 110
+  },
+  "blue total moves": {
+    "DLBL": 7,
+    "DLBR": 9,
+    "DLFL": 9,
+    "DLFR": 6,
+    "DSBL": 24,
+    "DSBR": 19,
+    "DSFL": 35,
+    "DSFR": 39,
+    "LLB": 4,
+    "LLF": 2,
+    "LSB": 46,
+    "LSF": 128,
+    "TLL": 52,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 61,
+    "NM": 377
+  },
+  "red total moves": {
+    "DLBL": 15,
+    "DLBR": 5,
+    "DLFL": 6,
+    "DLFR": 14,
+    "DSBL": 29,
+    "DSBR": 28,
+    "DSFL": 31,
+    "DSFR": 40,
+    "LLB": 4,
+    "LLF": 3,
+    "LSB": 42,
+    "LSF": 113,
+    "TLL": 61,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 73,
+    "NM": 348
+  }
+}

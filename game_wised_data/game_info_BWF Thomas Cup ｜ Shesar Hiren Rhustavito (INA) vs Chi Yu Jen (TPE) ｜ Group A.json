@@ -1,0 +1,198 @@
+{
+  "Match": "BWF Thomas Cup ｜ Shesar Hiren Rhustavito (INA) vs Chi Yu Jen (TPE) ｜ Group A",
+  "b_r_players": [
+    "Chi Yu Jen",
+    "Shesar Hiren Rhustavito"
+  ],
+  "correct_scores": [
+    [
+      21,
+      16
+    ],
+    [
+      18,
+      21
+    ],
+    [
+      19,
+      21
+    ]
+  ],
+  "games": [
+    {
+      "score count": 108,
+      "blue red score": [
+        53,
+        55
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 34,
+    "切球": 137,
+    "殺球": 97,
+    "挑球": 28,
+    "小球": 50,
+    "平球": 21,
+    "撲球": 4
+  },
+  "blue loss shots": {
+    "長球": 31,
+    "切球": 131,
+    "殺球": 72,
+    "挑球": 24,
+    "小球": 42,
+    "平球": 16,
+    "撲球": 6
+  },
+  "red win shots": {
+    "長球": 49,
+    "切球": 1,
+    "殺球": 1,
+    "挑球": 179,
+    "小球": 16,
+    "平球": 14,
+    "撲球": 59
+  },
+  "red loss shots": {
+    "長球": 56,
+    "切球": 0,
+    "殺球": 4,
+    "挑球": 209,
+    "小球": 13,
+    "平球": 18,
+    "撲球": 73
+  },
+  "blue win moves": {
+    "DLBL": 0,
+    "DLBR": 0,
+    "DLFL": 7,
+    "DLFR": 12,
+    "DSBL": 11,
+    "DSBR": 6,
+    "DSFL": 18,
+    "DSFR": 24,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 10,
+    "LSF": 56,
+    "TLL": 56,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 42,
+    "NM": 129
+  },
+  "blue loss moves": {
+    "DLBL": 3,
+    "DLBR": 0,
+    "DLFL": 5,
+    "DLFR": 14,
+    "DSBL": 7,
+    "DSBR": 5,
+    "DSFL": 21,
+    "DSFR": 10,
+    "LLB": 0,
+    "LLF": 2,
+    "LSB": 10,
+    "LSF": 49,
+    "TLL": 49,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 50,
+    "NM": 93
+  },
+  "red win moves": {
+    "DLBL": 11,
+    "DLBR": 6,
+    "DLFL": 4,
+    "DLFR": 7,
+    "DSBL": 16,
+    "DSBR": 8,
+    "DSFL": 24,
+    "DSFR": 24,
+    "LLB": 2,
+    "LLF": 0,
+    "LSB": 10,
+    "LSF": 45,
+    "TLL": 38,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 19,
+    "NM": 107
+  },
+  "red loss moves": {
+    "DLBL": 8,
+    "DLBR": 4,
+    "DLFL": 4,
+    "DLFR": 9,
+    "DSBL": 14,
+    "DSBR": 13,
+    "DSFL": 17,
+    "DSFR": 27,
+    "LLB": 2,
+    "LLF": 1,
+    "LSB": 14,
+    "LSF": 51,
+    "TLL": 56,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 25,
+    "NM": 122
+  },
+  "blue total shots": {
+    "長球": 65,
+    "切球": 268,
+    "殺球": 169,
+    "挑球": 52,
+    "小球": 92,
+    "平球": 37,
+    "撲球": 10
+  },
+  "red total shots": {
+    "長球": 105,
+    "切球": 1,
+    "殺球": 5,
+    "挑球": 388,
+    "小球": 29,
+    "平球": 32,
+    "撲球": 132
+  },
+  "blue total moves": {
+    "DLBL": 3,
+    "DLBR": 0,
+    "DLFL": 12,
+    "DLFR": 26,
+    "DSBL": 18,
+    "DSBR": 11,
+    "DSFL": 39,
+    "DSFR": 34,
+    "LLB": 0,
+    "LLF": 2,
+    "LSB": 20,
+    "LSF": 105,
+    "TLL": 105,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 92,
+    "NM": 222
+  },
+  "red total moves": {
+    "DLBL": 19,
+    "DLBR": 10,
+    "DLFL": 8,
+    "DLFR": 16,
+    "DSBL": 30,
+    "DSBR": 21,
+    "DSFL": 41,
+    "DSFR": 51,
+    "LLB": 4,
+    "LLF": 1,
+    "LSB": 24,
+    "LSF": 96,
+    "TLL": 94,
+    "TLR": 5,
+    "TSL": 0,
+    "TSR": 44,
+    "NM": 229
+  }
+}

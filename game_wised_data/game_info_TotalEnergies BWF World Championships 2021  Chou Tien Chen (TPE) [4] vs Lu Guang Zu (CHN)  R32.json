@@ -1,0 +1,212 @@
+{
+  "Match": "TotalEnergies BWF World Championships 2021  Chou Tien Chen (TPE) [4] vs Lu Guang Zu (CHN)  R32",
+  "b_r_players": [
+    "Chou Tien Chen",
+    "Lu Guang Zu"
+  ],
+  "correct_scores": [
+    [
+      21,
+      14
+    ],
+    [
+      15,
+      21
+    ],
+    [
+      15,
+      21
+    ]
+  ],
+  "games": [
+    {
+      "score count": 35,
+      "blue red score": [
+        19,
+        16
+      ]
+    },
+    {
+      "score count": 36,
+      "blue red score": [
+        14,
+        22
+      ]
+    },
+    {
+      "score count": 36,
+      "blue red score": [
+        15,
+        21
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 44,
+    "切球": 116,
+    "殺球": 90,
+    "挑球": 83,
+    "小球": 51,
+    "平球": 16,
+    "撲球": 22
+  },
+  "blue loss shots": {
+    "長球": 54,
+    "切球": 84,
+    "殺球": 71,
+    "挑球": 135,
+    "小球": 42,
+    "平球": 20,
+    "撲球": 33
+  },
+  "red win shots": {
+    "長球": 53,
+    "切球": 77,
+    "殺球": 61,
+    "挑球": 156,
+    "小球": 36,
+    "平球": 17,
+    "撲球": 44
+  },
+  "red loss shots": {
+    "長球": 48,
+    "切球": 47,
+    "殺球": 38,
+    "挑球": 204,
+    "小球": 26,
+    "平球": 17,
+    "撲球": 49
+  },
+  "blue win moves": {
+    "DLBL": 12,
+    "DLBR": 7,
+    "DLFL": 7,
+    "DLFR": 6,
+    "DSBL": 12,
+    "DSBR": 7,
+    "DSFL": 26,
+    "DSFR": 18,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 9,
+    "LSF": 59,
+    "TLL": 59,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 59,
+    "NM": 145
+  },
+  "blue loss moves": {
+    "DLBL": 5,
+    "DLBR": 8,
+    "DLFL": 3,
+    "DLFR": 4,
+    "DSBL": 7,
+    "DSBR": 12,
+    "DSFL": 28,
+    "DSFR": 18,
+    "LLB": 2,
+    "LLF": 1,
+    "LSB": 13,
+    "LSF": 64,
+    "TLL": 52,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 44,
+    "NM": 182
+  },
+  "red win moves": {
+    "DLBL": 4,
+    "DLBR": 1,
+    "DLFL": 3,
+    "DLFR": 6,
+    "DSBL": 14,
+    "DSBR": 13,
+    "DSFL": 27,
+    "DSFR": 20,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 8,
+    "LSF": 78,
+    "TLL": 47,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 47,
+    "NM": 166
+  },
+  "red loss moves": {
+    "DLBL": 8,
+    "DLBR": 5,
+    "DLFL": 5,
+    "DLFR": 9,
+    "DSBL": 11,
+    "DSBR": 16,
+    "DSFL": 33,
+    "DSFR": 39,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 6,
+    "LSF": 65,
+    "TLL": 43,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 34,
+    "NM": 144
+  },
+  "blue total shots": {
+    "長球": 98,
+    "切球": 200,
+    "殺球": 161,
+    "挑球": 218,
+    "小球": 93,
+    "平球": 36,
+    "撲球": 55
+  },
+  "red total shots": {
+    "長球": 101,
+    "切球": 124,
+    "殺球": 99,
+    "挑球": 360,
+    "小球": 62,
+    "平球": 34,
+    "撲球": 93
+  },
+  "blue total moves": {
+    "DLBL": 17,
+    "DLBR": 15,
+    "DLFL": 10,
+    "DLFR": 10,
+    "DSBL": 19,
+    "DSBR": 19,
+    "DSFL": 54,
+    "DSFR": 36,
+    "LLB": 3,
+    "LLF": 1,
+    "LSB": 22,
+    "LSF": 123,
+    "TLL": 111,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 103,
+    "NM": 327
+  },
+  "red total moves": {
+    "DLBL": 12,
+    "DLBR": 6,
+    "DLFL": 8,
+    "DLFR": 15,
+    "DSBL": 25,
+    "DSBR": 29,
+    "DSFL": 60,
+    "DSFR": 59,
+    "LLB": 2,
+    "LLF": 2,
+    "LSB": 14,
+    "LSF": 143,
+    "TLL": 90,
+    "TLR": 5,
+    "TSL": 0,
+    "TSR": 81,
+    "NM": 310
+  }
+}

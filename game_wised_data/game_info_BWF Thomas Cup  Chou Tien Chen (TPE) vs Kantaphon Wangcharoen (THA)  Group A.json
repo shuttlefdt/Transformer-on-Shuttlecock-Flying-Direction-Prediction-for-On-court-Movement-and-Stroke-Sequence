@@ -1,0 +1,205 @@
+{
+  "Match": "BWF Thomas Cup  Chou Tien Chen (TPE) vs Kantaphon Wangcharoen (THA)  Group A",
+  "b_r_players": [
+    "Kantaphon Wangcharoen",
+    "Chou Tien Chen"
+  ],
+  "correct_scores": [
+    [
+      18,
+      21
+    ],
+    [
+      20,
+      22
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 35,
+      "blue red score": [
+        19,
+        16
+      ]
+    },
+    {
+      "score count": 38,
+      "blue red score": [
+        18,
+        20
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 27,
+    "切球": 32,
+    "殺球": 14,
+    "挑球": 49,
+    "小球": 9,
+    "平球": 7,
+    "撲球": 16
+  },
+  "blue loss shots": {
+    "長球": 24,
+    "切球": 44,
+    "殺球": 17,
+    "挑球": 81,
+    "小球": 12,
+    "平球": 11,
+    "撲球": 24
+  },
+  "red win shots": {
+    "長球": 24,
+    "切球": 36,
+    "殺球": 38,
+    "挑球": 58,
+    "小球": 28,
+    "平球": 6,
+    "撲球": 10
+  },
+  "red loss shots": {
+    "長球": 24,
+    "切球": 36,
+    "殺球": 21,
+    "挑球": 50,
+    "小球": 13,
+    "平球": 6,
+    "撲球": 9
+  },
+  "blue win moves": {
+    "DLBL": 3,
+    "DLBR": 3,
+    "DLFL": 5,
+    "DLFR": 3,
+    "DSBL": 4,
+    "DSBR": 5,
+    "DSFL": 11,
+    "DSFR": 8,
+    "LLB": 0,
+    "LLF": 2,
+    "LSB": 2,
+    "LSF": 29,
+    "TLL": 26,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 15,
+    "NM": 42
+  },
+  "blue loss moves": {
+    "DLBL": 0,
+    "DLBR": 1,
+    "DLFL": 3,
+    "DLFR": 1,
+    "DSBL": 4,
+    "DSBR": 10,
+    "DSFL": 20,
+    "DSFR": 13,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 5,
+    "LSF": 31,
+    "TLL": 35,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 22,
+    "NM": 51
+  },
+  "red win moves": {
+    "DLBL": 2,
+    "DLBR": 1,
+    "DLFL": 5,
+    "DLFR": 5,
+    "DSBL": 5,
+    "DSBR": 5,
+    "DSFL": 11,
+    "DSFR": 13,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 10,
+    "LSF": 50,
+    "TLL": 30,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 21,
+    "NM": 52
+  },
+  "red loss moves": {
+    "DLBL": 1,
+    "DLBR": 1,
+    "DLFL": 1,
+    "DLFR": 2,
+    "DSBL": 8,
+    "DSBR": 11,
+    "DSFL": 10,
+    "DSFR": 13,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 4,
+    "LSF": 26,
+    "TLL": 23,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 22,
+    "NM": 31
+  },
+  "blue total shots": {
+    "長球": 51,
+    "切球": 76,
+    "殺球": 31,
+    "挑球": 130,
+    "小球": 21,
+    "平球": 18,
+    "撲球": 40
+  },
+  "red total shots": {
+    "長球": 48,
+    "切球": 72,
+    "殺球": 59,
+    "挑球": 108,
+    "小球": 41,
+    "平球": 12,
+    "撲球": 19
+  },
+  "blue total moves": {
+    "DLBL": 3,
+    "DLBR": 4,
+    "DLFL": 8,
+    "DLFR": 4,
+    "DSBL": 8,
+    "DSBR": 15,
+    "DSFL": 31,
+    "DSFR": 21,
+    "LLB": 1,
+    "LLF": 2,
+    "LSB": 7,
+    "LSF": 60,
+    "TLL": 61,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 37,
+    "NM": 93
+  },
+  "red total moves": {
+    "DLBL": 3,
+    "DLBR": 2,
+    "DLFL": 6,
+    "DLFR": 7,
+    "DSBL": 13,
+    "DSBR": 16,
+    "DSFL": 21,
+    "DSFR": 26,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 14,
+    "LSF": 76,
+    "TLL": 53,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 43,
+    "NM": 83
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "Match": "BWF Thomas Cup ｜ Jonatan Christie (INA) vs Kunlavut Vitidsarn (THA) ｜ Group A",
+  "b_r_players": [
+    "Kunlavut Vitidsarn",
+    "Jonatan Christie"
+  ],
+  "correct_scores": [
+    [
+      21,
+      10
+    ],
+    [
+      21,
+      14
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 64,
+      "blue red score": [
+        38,
+        26
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 34,
+    "切球": 97,
+    "殺球": 82,
+    "挑球": 18,
+    "小球": 28,
+    "平球": 8,
+    "撲球": 1
+  },
+  "blue loss shots": {
+    "長球": 23,
+    "切球": 100,
+    "殺球": 44,
+    "挑球": 25,
+    "小球": 13,
+    "平球": 6,
+    "撲球": 2
+  },
+  "red win shots": {
+    "長球": 42,
+    "切球": 0,
+    "殺球": 4,
+    "挑球": 122,
+    "小球": 8,
+    "平球": 8,
+    "撲球": 28
+  },
+  "red loss shots": {
+    "長球": 48,
+    "切球": 0,
+    "殺球": 3,
+    "挑球": 161,
+    "小球": 6,
+    "平球": 15,
+    "撲球": 34
+  },
+  "blue win moves": {
+    "DLBL": 4,
+    "DLBR": 1,
+    "DLFL": 4,
+    "DLFR": 2,
+    "DSBL": 8,
+    "DSBR": 2,
+    "DSFL": 15,
+    "DSFR": 25,
+    "LLB": 0,
+    "LLF": 2,
+    "LSB": 3,
+    "LSF": 30,
+    "TLL": 37,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 37,
+    "NM": 95
+  },
+  "blue loss moves": {
+    "DLBL": 0,
+    "DLBR": 1,
+    "DLFL": 2,
+    "DLFR": 5,
+    "DSBL": 1,
+    "DSBR": 0,
+    "DSFL": 16,
+    "DSFR": 19,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 4,
+    "LSF": 23,
+    "TLL": 36,
+    "TLR": 5,
+    "TSL": 0,
+    "TSR": 24,
+    "NM": 75
+  },
+  "red win moves": {
+    "DLBL": 13,
+    "DLBR": 3,
+    "DLFL": 2,
+    "DLFR": 3,
+    "DSBL": 12,
+    "DSBR": 5,
+    "DSFL": 10,
+    "DSFR": 29,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 8,
+    "LSF": 31,
+    "TLL": 25,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 17,
+    "NM": 55
+  },
+  "red loss moves": {
+    "DLBL": 4,
+    "DLBR": 2,
+    "DLFL": 2,
+    "DLFR": 6,
+    "DSBL": 8,
+    "DSBR": 12,
+    "DSFL": 11,
+    "DSFR": 19,
+    "LLB": 2,
+    "LLF": 0,
+    "LSB": 9,
+    "LSF": 44,
+    "TLL": 32,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 20,
+    "NM": 96
+  },
+  "blue total shots": {
+    "長球": 57,
+    "切球": 197,
+    "殺球": 126,
+    "挑球": 43,
+    "小球": 41,
+    "平球": 14,
+    "撲球": 3
+  },
+  "red total shots": {
+    "長球": 90,
+    "切球": 0,
+    "殺球": 7,
+    "挑球": 283,
+    "小球": 14,
+    "平球": 23,
+    "撲球": 62
+  },
+  "blue total moves": {
+    "DLBL": 4,
+    "DLBR": 2,
+    "DLFL": 6,
+    "DLFR": 7,
+    "DSBL": 9,
+    "DSBR": 2,
+    "DSFL": 31,
+    "DSFR": 44,
+    "LLB": 0,
+    "LLF": 3,
+    "LSB": 7,
+    "LSF": 53,
+    "TLL": 73,
+    "TLR": 7,
+    "TSL": 0,
+    "TSR": 61,
+    "NM": 170
+  },
+  "red total moves": {
+    "DLBL": 17,
+    "DLBR": 5,
+    "DLFL": 4,
+    "DLFR": 9,
+    "DSBL": 20,
+    "DSBR": 17,
+    "DSFL": 21,
+    "DSFR": 48,
+    "LLB": 2,
+    "LLF": 0,
+    "LSB": 17,
+    "LSF": 75,
+    "TLL": 57,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 37,
+    "NM": 151
+  }
+}

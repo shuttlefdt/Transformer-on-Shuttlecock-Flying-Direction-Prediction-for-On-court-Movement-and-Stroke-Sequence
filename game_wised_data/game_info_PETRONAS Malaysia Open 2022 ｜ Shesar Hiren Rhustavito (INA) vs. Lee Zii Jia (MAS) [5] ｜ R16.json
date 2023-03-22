@@ -1,0 +1,212 @@
+{
+  "Match": "PETRONAS Malaysia Open 2022 ｜ Shesar Hiren Rhustavito (INA) vs. Lee Zii Jia (MAS) [5] ｜ R16",
+  "b_r_players": [
+    "Shesar Hiren Rhustavito",
+    "Lee Zii Jia"
+  ],
+  "correct_scores": [
+    [
+      21,
+      19
+    ],
+    [
+      19,
+      21
+    ],
+    [
+      21,
+      16
+    ]
+  ],
+  "games": [
+    {
+      "score count": 41,
+      "blue red score": [
+        26,
+        15
+      ]
+    },
+    {
+      "score count": 42,
+      "blue red score": [
+        18,
+        24
+      ]
+    },
+    {
+      "score count": 37,
+      "blue red score": [
+        15,
+        22
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 20,
+    "切球": 64,
+    "殺球": 58,
+    "挑球": 87,
+    "小球": 44,
+    "平球": 12,
+    "撲球": 33
+  },
+  "blue loss shots": {
+    "長球": 36,
+    "切球": 84,
+    "殺球": 69,
+    "挑球": 120,
+    "小球": 63,
+    "平球": 16,
+    "撲球": 52
+  },
+  "red win shots": {
+    "長球": 27,
+    "切球": 75,
+    "殺球": 49,
+    "挑球": 165,
+    "小球": 61,
+    "平球": 17,
+    "撲球": 45
+  },
+  "red loss shots": {
+    "長球": 14,
+    "切球": 57,
+    "殺球": 37,
+    "挑球": 129,
+    "小球": 40,
+    "平球": 14,
+    "撲球": 31
+  },
+  "blue win moves": {
+    "DLBL": 3,
+    "DLBR": 3,
+    "DLFL": 2,
+    "DLFR": 5,
+    "DSBL": 8,
+    "DSBR": 12,
+    "DSFL": 12,
+    "DSFR": 13,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 21,
+    "LSF": 47,
+    "TLL": 33,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 20,
+    "NM": 141
+  },
+  "blue loss moves": {
+    "DLBL": 7,
+    "DLBR": 5,
+    "DLFL": 1,
+    "DLFR": 2,
+    "DSBL": 26,
+    "DSBR": 12,
+    "DSFL": 20,
+    "DSFR": 29,
+    "LLB": 2,
+    "LLF": 0,
+    "LSB": 23,
+    "LSF": 70,
+    "TLL": 41,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 29,
+    "NM": 169
+  },
+  "red win moves": {
+    "DLBL": 2,
+    "DLBR": 2,
+    "DLFL": 2,
+    "DLFR": 1,
+    "DSBL": 7,
+    "DSBR": 7,
+    "DSFL": 18,
+    "DSFR": 27,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 21,
+    "LSF": 74,
+    "TLL": 38,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 33,
+    "NM": 208
+  },
+  "red loss moves": {
+    "DLBL": 4,
+    "DLBR": 1,
+    "DLFL": 3,
+    "DLFR": 2,
+    "DSBL": 4,
+    "DSBR": 1,
+    "DSFL": 17,
+    "DSFR": 16,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 12,
+    "LSF": 43,
+    "TLL": 26,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 21,
+    "NM": 168
+  },
+  "blue total shots": {
+    "長球": 56,
+    "切球": 148,
+    "殺球": 127,
+    "挑球": 207,
+    "小球": 107,
+    "平球": 28,
+    "撲球": 85
+  },
+  "red total shots": {
+    "長球": 41,
+    "切球": 132,
+    "殺球": 86,
+    "挑球": 294,
+    "小球": 101,
+    "平球": 31,
+    "撲球": 76
+  },
+  "blue total moves": {
+    "DLBL": 10,
+    "DLBR": 8,
+    "DLFL": 3,
+    "DLFR": 7,
+    "DSBL": 34,
+    "DSBR": 24,
+    "DSFL": 32,
+    "DSFR": 42,
+    "LLB": 3,
+    "LLF": 0,
+    "LSB": 44,
+    "LSF": 117,
+    "TLL": 74,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 49,
+    "NM": 310
+  },
+  "red total moves": {
+    "DLBL": 6,
+    "DLBR": 3,
+    "DLFL": 5,
+    "DLFR": 3,
+    "DSBL": 11,
+    "DSBR": 8,
+    "DSFL": 35,
+    "DSFR": 43,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 33,
+    "LSF": 117,
+    "TLL": 64,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 54,
+    "NM": 376
+  }
+}

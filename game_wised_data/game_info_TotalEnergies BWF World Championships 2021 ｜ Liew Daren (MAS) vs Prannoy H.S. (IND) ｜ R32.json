@@ -1,0 +1,198 @@
+{
+  "Match": "TotalEnergies BWF World Championships 2021 ｜ Liew Daren (MAS) vs Prannoy H.S. (IND) ｜ R32",
+  "b_r_players": [
+    "Prannoy H.S.",
+    "Liew Daren"
+  ],
+  "correct_scores": [
+    [
+      21,
+      7
+    ],
+    [
+      21,
+      17
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 65,
+      "blue red score": [
+        32,
+        33
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 21,
+    "切球": 85,
+    "殺球": 47,
+    "挑球": 19,
+    "小球": 32,
+    "平球": 7,
+    "撲球": 0
+  },
+  "blue loss shots": {
+    "長球": 24,
+    "切球": 80,
+    "殺球": 48,
+    "挑球": 10,
+    "小球": 22,
+    "平球": 9,
+    "撲球": 2
+  },
+  "red win shots": {
+    "長球": 31,
+    "切球": 0,
+    "殺球": 1,
+    "挑球": 116,
+    "小球": 6,
+    "平球": 7,
+    "撲球": 29
+  },
+  "red loss shots": {
+    "長球": 31,
+    "切球": 0,
+    "殺球": 6,
+    "挑球": 121,
+    "小球": 5,
+    "平球": 9,
+    "撲球": 39
+  },
+  "blue win moves": {
+    "DLBL": 1,
+    "DLBR": 0,
+    "DLFL": 1,
+    "DLFR": 4,
+    "DSBL": 1,
+    "DSBR": 1,
+    "DSFL": 13,
+    "DSFR": 14,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 5,
+    "LSF": 29,
+    "TLL": 37,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 20,
+    "NM": 83
+  },
+  "blue loss moves": {
+    "DLBL": 2,
+    "DLBR": 0,
+    "DLFL": 2,
+    "DLFR": 1,
+    "DSBL": 3,
+    "DSBR": 2,
+    "DSFL": 9,
+    "DSFR": 10,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 6,
+    "LSF": 27,
+    "TLL": 25,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 23,
+    "NM": 79
+  },
+  "red win moves": {
+    "DLBL": 2,
+    "DLBR": 2,
+    "DLFL": 1,
+    "DLFR": 1,
+    "DSBL": 3,
+    "DSBR": 6,
+    "DSFL": 9,
+    "DSFR": 9,
+    "LLB": 3,
+    "LLF": 0,
+    "LSB": 7,
+    "LSF": 26,
+    "TLL": 20,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 18,
+    "NM": 88
+  },
+  "red loss moves": {
+    "DLBL": 6,
+    "DLBR": 2,
+    "DLFL": 2,
+    "DLFR": 1,
+    "DSBL": 10,
+    "DSBR": 8,
+    "DSFL": 12,
+    "DSFR": 15,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 12,
+    "LSF": 28,
+    "TLL": 15,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 18,
+    "NM": 79
+  },
+  "blue total shots": {
+    "長球": 45,
+    "切球": 165,
+    "殺球": 95,
+    "挑球": 29,
+    "小球": 54,
+    "平球": 16,
+    "撲球": 2
+  },
+  "red total shots": {
+    "長球": 62,
+    "切球": 0,
+    "殺球": 7,
+    "挑球": 237,
+    "小球": 11,
+    "平球": 16,
+    "撲球": 68
+  },
+  "blue total moves": {
+    "DLBL": 3,
+    "DLBR": 0,
+    "DLFL": 3,
+    "DLFR": 5,
+    "DSBL": 4,
+    "DSBR": 3,
+    "DSFL": 22,
+    "DSFR": 24,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 11,
+    "LSF": 56,
+    "TLL": 62,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 43,
+    "NM": 162
+  },
+  "red total moves": {
+    "DLBL": 8,
+    "DLBR": 4,
+    "DLFL": 3,
+    "DLFR": 2,
+    "DSBL": 13,
+    "DSBR": 14,
+    "DSFL": 21,
+    "DSFR": 24,
+    "LLB": 4,
+    "LLF": 1,
+    "LSB": 19,
+    "LSF": 54,
+    "TLL": 35,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 36,
+    "NM": 167
+  }
+}

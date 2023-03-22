@@ -1,0 +1,212 @@
+{
+  "Match": "PETRONAS Malaysia Open 2022 ｜ Viktor Axelsen (DEN) [1] vs. Jonatan Christie (INA) [7] ｜ SF",
+  "b_r_players": [
+    "Jonatan Christie",
+    "Viktor Axelsen"
+  ],
+  "correct_scores": [
+    [
+      15,
+      21
+    ],
+    [
+      22,
+      20
+    ],
+    [
+      11,
+      21
+    ]
+  ],
+  "games": [
+    {
+      "score count": 37,
+      "blue red score": [
+        16,
+        21
+      ]
+    },
+    {
+      "score count": 42,
+      "blue red score": [
+        19,
+        23
+      ]
+    },
+    {
+      "score count": 33,
+      "blue red score": [
+        21,
+        12
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 50,
+    "切球": 59,
+    "殺球": 57,
+    "挑球": 152,
+    "小球": 15,
+    "平球": 22,
+    "撲球": 17
+  },
+  "blue loss shots": {
+    "長球": 49,
+    "切球": 97,
+    "殺球": 73,
+    "挑球": 126,
+    "小球": 11,
+    "平球": 12,
+    "撲球": 13
+  },
+  "red win shots": {
+    "長球": 47,
+    "切球": 59,
+    "殺球": 68,
+    "挑球": 173,
+    "小球": 6,
+    "平球": 13,
+    "撲球": 17
+  },
+  "red loss shots": {
+    "長球": 38,
+    "切球": 75,
+    "殺球": 85,
+    "挑球": 130,
+    "小球": 15,
+    "平球": 12,
+    "撲球": 14
+  },
+  "blue win moves": {
+    "DLBL": 4,
+    "DLBR": 0,
+    "DLFL": 4,
+    "DLFR": 2,
+    "DSBL": 12,
+    "DSBR": 2,
+    "DSFL": 13,
+    "DSFR": 18,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 17,
+    "LSF": 40,
+    "TLL": 41,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 33,
+    "NM": 177
+  },
+  "blue loss moves": {
+    "DLBL": 3,
+    "DLBR": 1,
+    "DLFL": 1,
+    "DLFR": 4,
+    "DSBL": 8,
+    "DSBR": 5,
+    "DSFL": 16,
+    "DSFR": 14,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 10,
+    "LSF": 33,
+    "TLL": 63,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 37,
+    "NM": 184
+  },
+  "red win moves": {
+    "DLBL": 1,
+    "DLBR": 2,
+    "DLFL": 5,
+    "DLFR": 7,
+    "DSBL": 7,
+    "DSBR": 10,
+    "DSFL": 19,
+    "DSFR": 29,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 9,
+    "LSF": 35,
+    "TLL": 65,
+    "TLR": 5,
+    "TSL": 0,
+    "TSR": 40,
+    "NM": 146
+  },
+  "red loss moves": {
+    "DLBL": 1,
+    "DLBR": 1,
+    "DLFL": 4,
+    "DLFR": 5,
+    "DSBL": 6,
+    "DSBR": 5,
+    "DSFL": 12,
+    "DSFR": 16,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 11,
+    "LSF": 36,
+    "TLL": 62,
+    "TLR": 5,
+    "TSL": 0,
+    "TSR": 38,
+    "NM": 169
+  },
+  "blue total shots": {
+    "長球": 99,
+    "切球": 156,
+    "殺球": 130,
+    "挑球": 278,
+    "小球": 26,
+    "平球": 34,
+    "撲球": 30
+  },
+  "red total shots": {
+    "長球": 85,
+    "切球": 134,
+    "殺球": 153,
+    "挑球": 303,
+    "小球": 21,
+    "平球": 25,
+    "撲球": 31
+  },
+  "blue total moves": {
+    "DLBL": 7,
+    "DLBR": 1,
+    "DLFL": 5,
+    "DLFR": 6,
+    "DSBL": 20,
+    "DSBR": 7,
+    "DSFL": 29,
+    "DSFR": 32,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 27,
+    "LSF": 73,
+    "TLL": 104,
+    "TLR": 8,
+    "TSL": 0,
+    "TSR": 70,
+    "NM": 361
+  },
+  "red total moves": {
+    "DLBL": 2,
+    "DLBR": 3,
+    "DLFL": 9,
+    "DLFR": 12,
+    "DSBL": 13,
+    "DSBR": 15,
+    "DSFL": 31,
+    "DSFR": 45,
+    "LLB": 0,
+    "LLF": 2,
+    "LSB": 20,
+    "LSF": 71,
+    "TLL": 127,
+    "TLR": 10,
+    "TSL": 0,
+    "TSR": 78,
+    "NM": 315
+  }
+}

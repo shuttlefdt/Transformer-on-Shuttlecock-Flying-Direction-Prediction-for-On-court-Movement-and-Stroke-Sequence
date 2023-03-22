@@ -1,0 +1,212 @@
+{
+  "Match": "YONEX-SUNRISE India Open 2022 ｜ Lakshya Sen (IND) [3] vs Ng Tze Yong (MAS) ｜ SF",
+  "b_r_players": [
+    "Lakshya Sen",
+    "Ng Tze Yong"
+  ],
+  "correct_scores": [
+    [
+      19,
+      21
+    ],
+    [
+      21,
+      16
+    ],
+    [
+      21,
+      12
+    ]
+  ],
+  "games": [
+    {
+      "score count": 40,
+      "blue red score": [
+        17,
+        23
+      ]
+    },
+    {
+      "score count": 36,
+      "blue red score": [
+        20,
+        16
+      ]
+    },
+    {
+      "score count": 33,
+      "blue red score": [
+        20,
+        13
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 38,
+    "切球": 100,
+    "殺球": 78,
+    "挑球": 126,
+    "小球": 42,
+    "平球": 16,
+    "撲球": 40
+  },
+  "blue loss shots": {
+    "長球": 33,
+    "切球": 121,
+    "殺球": 78,
+    "挑球": 85,
+    "小球": 39,
+    "平球": 15,
+    "撲球": 28
+  },
+  "red win shots": {
+    "長球": 35,
+    "切球": 53,
+    "殺球": 26,
+    "挑球": 194,
+    "小球": 26,
+    "平球": 9,
+    "撲球": 51
+  },
+  "red loss shots": {
+    "長球": 54,
+    "切球": 70,
+    "殺球": 44,
+    "挑球": 168,
+    "小球": 35,
+    "平球": 22,
+    "撲球": 58
+  },
+  "blue win moves": {
+    "DLBL": 2,
+    "DLBR": 3,
+    "DLFL": 3,
+    "DLFR": 5,
+    "DSBL": 10,
+    "DSBR": 7,
+    "DSFL": 20,
+    "DSFR": 23,
+    "LLB": 0,
+    "LLF": 2,
+    "LSB": 14,
+    "LSF": 65,
+    "TLL": 58,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 49,
+    "NM": 186
+  },
+  "blue loss moves": {
+    "DLBL": 2,
+    "DLBR": 1,
+    "DLFL": 0,
+    "DLFR": 2,
+    "DSBL": 6,
+    "DSBR": 7,
+    "DSFL": 20,
+    "DSFR": 13,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 16,
+    "LSF": 53,
+    "TLL": 50,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 34,
+    "NM": 184
+  },
+  "red win moves": {
+    "DLBL": 4,
+    "DLBR": 0,
+    "DLFL": 2,
+    "DLFR": 4,
+    "DSBL": 7,
+    "DSBR": 2,
+    "DSFL": 17,
+    "DSFR": 23,
+    "LLB": 2,
+    "LLF": 0,
+    "LSB": 19,
+    "LSF": 49,
+    "TLL": 50,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 36,
+    "NM": 183
+  },
+  "red loss moves": {
+    "DLBL": 9,
+    "DLBR": 3,
+    "DLFL": 2,
+    "DLFR": 5,
+    "DSBL": 10,
+    "DSBR": 7,
+    "DSFL": 31,
+    "DSFR": 19,
+    "LLB": 4,
+    "LLF": 1,
+    "LSB": 16,
+    "LSF": 62,
+    "TLL": 36,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 34,
+    "NM": 201
+  },
+  "blue total shots": {
+    "長球": 71,
+    "切球": 221,
+    "殺球": 156,
+    "挑球": 211,
+    "小球": 81,
+    "平球": 31,
+    "撲球": 68
+  },
+  "red total shots": {
+    "長球": 89,
+    "切球": 123,
+    "殺球": 70,
+    "挑球": 362,
+    "小球": 61,
+    "平球": 31,
+    "撲球": 109
+  },
+  "blue total moves": {
+    "DLBL": 4,
+    "DLBR": 4,
+    "DLFL": 3,
+    "DLFR": 7,
+    "DSBL": 16,
+    "DSBR": 14,
+    "DSFL": 40,
+    "DSFR": 36,
+    "LLB": 1,
+    "LLF": 3,
+    "LSB": 30,
+    "LSF": 118,
+    "TLL": 108,
+    "TLR": 8,
+    "TSL": 0,
+    "TSR": 83,
+    "NM": 370
+  },
+  "red total moves": {
+    "DLBL": 13,
+    "DLBR": 3,
+    "DLFL": 4,
+    "DLFR": 9,
+    "DSBL": 17,
+    "DSBR": 9,
+    "DSFL": 48,
+    "DSFR": 42,
+    "LLB": 6,
+    "LLF": 1,
+    "LSB": 35,
+    "LSF": 111,
+    "TLL": 86,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 70,
+    "NM": 384
+  }
+}

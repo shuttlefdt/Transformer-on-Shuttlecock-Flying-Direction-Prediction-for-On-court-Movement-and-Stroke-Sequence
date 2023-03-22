@@ -1,0 +1,205 @@
+{
+  "Match": "YONEX Taipei Open 2022 ｜ Chou Tien Chen (TPE) [1] vs. Soong Joo Ven (MAS) ｜ SF",
+  "b_r_players": [
+    "Chou Tien Chen",
+    "Soong Joo Ven"
+  ],
+  "correct_scores": [
+    [
+      21,
+      12
+    ],
+    [
+      21,
+      12
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 31,
+      "blue red score": [
+        17,
+        14
+      ]
+    },
+    {
+      "score count": 36,
+      "blue red score": [
+        16,
+        20
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 30,
+    "切球": 29,
+    "殺球": 55,
+    "挑球": 71,
+    "小球": 21,
+    "平球": 16,
+    "撲球": 13
+  },
+  "blue loss shots": {
+    "長球": 29,
+    "切球": 27,
+    "殺球": 51,
+    "挑球": 97,
+    "小球": 17,
+    "平球": 19,
+    "撲球": 10
+  },
+  "red win shots": {
+    "長球": 33,
+    "切球": 36,
+    "殺球": 61,
+    "挑球": 72,
+    "小球": 17,
+    "平球": 18,
+    "撲球": 13
+  },
+  "red loss shots": {
+    "長球": 32,
+    "切球": 25,
+    "殺球": 44,
+    "挑球": 90,
+    "小球": 10,
+    "平球": 20,
+    "撲球": 16
+  },
+  "blue win moves": {
+    "DLBL": 2,
+    "DLBR": 1,
+    "DLFL": 2,
+    "DLFR": 6,
+    "DSBL": 9,
+    "DSBR": 3,
+    "DSFL": 10,
+    "DSFR": 4,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 17,
+    "LSF": 22,
+    "TLL": 17,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 25,
+    "NM": 118
+  },
+  "blue loss moves": {
+    "DLBL": 0,
+    "DLBR": 1,
+    "DLFL": 1,
+    "DLFR": 1,
+    "DSBL": 6,
+    "DSBR": 7,
+    "DSFL": 10,
+    "DSFR": 9,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 14,
+    "LSF": 21,
+    "TLL": 35,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 18,
+    "NM": 125
+  },
+  "red win moves": {
+    "DLBL": 1,
+    "DLBR": 1,
+    "DLFL": 0,
+    "DLFR": 0,
+    "DSBL": 3,
+    "DSBR": 4,
+    "DSFL": 15,
+    "DSFR": 6,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 6,
+    "LSF": 26,
+    "TLL": 33,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 34,
+    "NM": 118
+  },
+  "red loss moves": {
+    "DLBL": 2,
+    "DLBR": 1,
+    "DLFL": 2,
+    "DLFR": 1,
+    "DSBL": 3,
+    "DSBR": 4,
+    "DSFL": 8,
+    "DSFR": 3,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 12,
+    "LSF": 26,
+    "TLL": 18,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 33,
+    "NM": 120
+  },
+  "blue total shots": {
+    "長球": 59,
+    "切球": 56,
+    "殺球": 106,
+    "挑球": 168,
+    "小球": 38,
+    "平球": 35,
+    "撲球": 23
+  },
+  "red total shots": {
+    "長球": 65,
+    "切球": 61,
+    "殺球": 105,
+    "挑球": 162,
+    "小球": 27,
+    "平球": 38,
+    "撲球": 29
+  },
+  "blue total moves": {
+    "DLBL": 2,
+    "DLBR": 2,
+    "DLFL": 3,
+    "DLFR": 7,
+    "DSBL": 15,
+    "DSBR": 10,
+    "DSFL": 20,
+    "DSFR": 13,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 31,
+    "LSF": 43,
+    "TLL": 52,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 43,
+    "NM": 243
+  },
+  "red total moves": {
+    "DLBL": 3,
+    "DLBR": 2,
+    "DLFL": 2,
+    "DLFR": 1,
+    "DSBL": 6,
+    "DSBR": 8,
+    "DSFL": 23,
+    "DSFR": 9,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 18,
+    "LSF": 52,
+    "TLL": 51,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 67,
+    "NM": 238
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "Match": "BWF World Tour Finals 2021 ｜ Viktor Axelsen (DEN) vs Kunlavut Vitidsarn (THA) ｜ Finals",
+  "b_r_players": [
+    "Kunlavut Vitidsarn",
+    "Viktor Axelsen"
+  ],
+  "correct_scores": [
+    [
+      12,
+      21
+    ],
+    [
+      8,
+      21
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 30,
+      "blue red score": [
+        10,
+        20
+      ]
+    },
+    {
+      "score count": 27,
+      "blue red score": [
+        7,
+        20
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 20,
+    "切球": 46,
+    "殺球": 27,
+    "挑球": 29,
+    "小球": 2,
+    "平球": 3,
+    "撲球": 2
+  },
+  "blue loss shots": {
+    "長球": 68,
+    "切球": 85,
+    "殺球": 51,
+    "挑球": 121,
+    "小球": 7,
+    "平球": 5,
+    "撲球": 19
+  },
+  "red win shots": {
+    "長球": 61,
+    "切球": 61,
+    "殺球": 69,
+    "挑球": 151,
+    "小球": 5,
+    "平球": 5,
+    "撲球": 11
+  },
+  "red loss shots": {
+    "長球": 25,
+    "切球": 12,
+    "殺球": 17,
+    "挑球": 70,
+    "小球": 2,
+    "平球": 1,
+    "撲球": 10
+  },
+  "blue win moves": {
+    "DLBL": 1,
+    "DLBR": 0,
+    "DLFL": 0,
+    "DLFR": 6,
+    "DSBL": 3,
+    "DSBR": 1,
+    "DSFL": 3,
+    "DSFR": 11,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 0,
+    "LSF": 10,
+    "TLL": 31,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 13,
+    "NM": 58
+  },
+  "blue loss moves": {
+    "DLBL": 8,
+    "DLBR": 2,
+    "DLFL": 3,
+    "DLFR": 9,
+    "DSBL": 12,
+    "DSBR": 8,
+    "DSFL": 13,
+    "DSFR": 17,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 5,
+    "LSF": 27,
+    "TLL": 55,
+    "TLR": 7,
+    "TSL": 0,
+    "TSR": 37,
+    "NM": 159
+  },
+  "red win moves": {
+    "DLBL": 4,
+    "DLBR": 2,
+    "DLFL": 3,
+    "DLFR": 7,
+    "DSBL": 8,
+    "DSBR": 4,
+    "DSFL": 25,
+    "DSFR": 28,
+    "LLB": 2,
+    "LLF": 1,
+    "LSB": 3,
+    "LSF": 28,
+    "TLL": 72,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 39,
+    "NM": 126
+  },
+  "red loss moves": {
+    "DLBL": 3,
+    "DLBR": 2,
+    "DLFL": 4,
+    "DLFR": 4,
+    "DSBL": 3,
+    "DSBR": 3,
+    "DSFL": 12,
+    "DSFR": 4,
+    "LLB": 2,
+    "LLF": 1,
+    "LSB": 3,
+    "LSF": 11,
+    "TLL": 19,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 14,
+    "NM": 43
+  },
+  "blue total shots": {
+    "長球": 88,
+    "切球": 131,
+    "殺球": 78,
+    "挑球": 150,
+    "小球": 9,
+    "平球": 8,
+    "撲球": 21
+  },
+  "red total shots": {
+    "長球": 86,
+    "切球": 73,
+    "殺球": 86,
+    "挑球": 221,
+    "小球": 7,
+    "平球": 6,
+    "撲球": 21
+  },
+  "blue total moves": {
+    "DLBL": 9,
+    "DLBR": 2,
+    "DLFL": 3,
+    "DLFR": 15,
+    "DSBL": 15,
+    "DSBR": 9,
+    "DSFL": 16,
+    "DSFR": 28,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 5,
+    "LSF": 37,
+    "TLL": 86,
+    "TLR": 7,
+    "TSL": 0,
+    "TSR": 50,
+    "NM": 217
+  },
+  "red total moves": {
+    "DLBL": 7,
+    "DLBR": 4,
+    "DLFL": 7,
+    "DLFR": 11,
+    "DSBL": 11,
+    "DSBR": 7,
+    "DSFL": 37,
+    "DSFR": 32,
+    "LLB": 4,
+    "LLF": 2,
+    "LSB": 6,
+    "LSF": 39,
+    "TLL": 91,
+    "TLR": 5,
+    "TSL": 0,
+    "TSR": 53,
+    "NM": 169
+  }
+}

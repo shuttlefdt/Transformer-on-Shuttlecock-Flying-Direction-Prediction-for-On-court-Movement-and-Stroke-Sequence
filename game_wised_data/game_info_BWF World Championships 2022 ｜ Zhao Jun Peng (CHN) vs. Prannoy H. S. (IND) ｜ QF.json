@@ -1,0 +1,212 @@
+{
+  "Match": "BWF World Championships 2022 ｜ Zhao Jun Peng (CHN) vs. Prannoy H. S. (IND) ｜ QF",
+  "b_r_players": [
+    "Zhao Jun Peng",
+    "Prannoy H. S."
+  ],
+  "correct_scores": [
+    [
+      19,
+      21
+    ],
+    [
+      21,
+      6
+    ],
+    [
+      21,
+      18
+    ]
+  ],
+  "games": [
+    {
+      "score count": 41,
+      "blue red score": [
+        22,
+        19
+      ]
+    },
+    {
+      "score count": 27,
+      "blue red score": [
+        20,
+        7
+      ]
+    },
+    {
+      "score count": 38,
+      "blue red score": [
+        22,
+        16
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 39,
+    "切球": 92,
+    "殺球": 72,
+    "挑球": 114,
+    "小球": 74,
+    "平球": 33,
+    "撲球": 30
+  },
+  "blue loss shots": {
+    "長球": 35,
+    "切球": 106,
+    "殺球": 112,
+    "挑球": 56,
+    "小球": 66,
+    "平球": 30,
+    "撲球": 16
+  },
+  "red win shots": {
+    "長球": 43,
+    "切球": 12,
+    "殺球": 30,
+    "挑球": 206,
+    "小球": 21,
+    "平球": 43,
+    "撲球": 60
+  },
+  "red loss shots": {
+    "長球": 34,
+    "切球": 43,
+    "殺球": 71,
+    "挑球": 168,
+    "小球": 41,
+    "平球": 34,
+    "撲球": 54
+  },
+  "blue win moves": {
+    "DLBL": 7,
+    "DLBR": 2,
+    "DLFL": 2,
+    "DLFR": 2,
+    "DSBL": 16,
+    "DSBR": 7,
+    "DSFL": 21,
+    "DSFR": 20,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 22,
+    "LSF": 63,
+    "TLL": 55,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 31,
+    "NM": 197
+  },
+  "blue loss moves": {
+    "DLBL": 2,
+    "DLBR": 4,
+    "DLFL": 2,
+    "DLFR": 4,
+    "DSBL": 9,
+    "DSBR": 12,
+    "DSFL": 33,
+    "DSFR": 15,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 23,
+    "LSF": 42,
+    "TLL": 50,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 30,
+    "NM": 186
+  },
+  "red win moves": {
+    "DLBL": 1,
+    "DLBR": 3,
+    "DLFL": 2,
+    "DLFR": 2,
+    "DSBL": 7,
+    "DSBR": 14,
+    "DSFL": 17,
+    "DSFR": 13,
+    "LLB": 2,
+    "LLF": 1,
+    "LSB": 13,
+    "LSF": 49,
+    "TLL": 30,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 39,
+    "NM": 227
+  },
+  "red loss moves": {
+    "DLBL": 2,
+    "DLBR": 2,
+    "DLFL": 5,
+    "DLFR": 0,
+    "DSBL": 11,
+    "DSBR": 8,
+    "DSFL": 26,
+    "DSFR": 14,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 24,
+    "LSF": 56,
+    "TLL": 42,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 39,
+    "NM": 223
+  },
+  "blue total shots": {
+    "長球": 74,
+    "切球": 198,
+    "殺球": 184,
+    "挑球": 170,
+    "小球": 140,
+    "平球": 63,
+    "撲球": 46
+  },
+  "red total shots": {
+    "長球": 77,
+    "切球": 55,
+    "殺球": 101,
+    "挑球": 374,
+    "小球": 62,
+    "平球": 77,
+    "撲球": 114
+  },
+  "blue total moves": {
+    "DLBL": 9,
+    "DLBR": 6,
+    "DLFL": 4,
+    "DLFR": 6,
+    "DSBL": 25,
+    "DSBR": 19,
+    "DSFL": 54,
+    "DSFR": 35,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 45,
+    "LSF": 105,
+    "TLL": 105,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 61,
+    "NM": 383
+  },
+  "red total moves": {
+    "DLBL": 3,
+    "DLBR": 5,
+    "DLFL": 7,
+    "DLFR": 2,
+    "DSBL": 18,
+    "DSBR": 22,
+    "DSFL": 43,
+    "DSFR": 27,
+    "LLB": 3,
+    "LLF": 1,
+    "LSB": 37,
+    "LSF": 105,
+    "TLL": 72,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 78,
+    "NM": 450
+  }
+}

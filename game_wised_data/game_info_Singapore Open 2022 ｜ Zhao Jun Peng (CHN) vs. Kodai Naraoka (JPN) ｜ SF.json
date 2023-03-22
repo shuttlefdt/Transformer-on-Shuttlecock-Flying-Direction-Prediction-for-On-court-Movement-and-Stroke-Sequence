@@ -1,0 +1,212 @@
+{
+  "Match": "Singapore Open 2022 ｜ Zhao Jun Peng (CHN) vs. Kodai Naraoka (JPN) ｜ SF",
+  "b_r_players": [
+    "Zhao Jun Peng",
+    "Kodai Naraoka"
+  ],
+  "correct_scores": [
+    [
+      18,
+      21
+    ],
+    [
+      23,
+      25
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 35,
+      "blue red score": [
+        26,
+        9
+      ]
+    },
+    {
+      "score count": 30,
+      "blue red score": [
+        13,
+        17
+      ]
+    },
+    {
+      "score count": 5,
+      "blue red score": [
+        1,
+        4
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 28,
+    "切球": 63,
+    "殺球": 39,
+    "挑球": 75,
+    "小球": 41,
+    "平球": 26,
+    "撲球": 32
+  },
+  "blue loss shots": {
+    "長球": 19,
+    "切球": 45,
+    "殺球": 38,
+    "挑球": 58,
+    "小球": 38,
+    "平球": 21,
+    "撲球": 18
+  },
+  "red win shots": {
+    "長球": 23,
+    "切球": 23,
+    "殺球": 29,
+    "挑球": 81,
+    "小球": 18,
+    "平球": 31,
+    "撲球": 34
+  },
+  "red loss shots": {
+    "長球": 35,
+    "切球": 45,
+    "殺球": 23,
+    "挑球": 93,
+    "小球": 38,
+    "平球": 20,
+    "撲球": 44
+  },
+  "blue win moves": {
+    "DLBL": 1,
+    "DLBR": 3,
+    "DLFL": 5,
+    "DLFR": 0,
+    "DSBL": 4,
+    "DSBR": 9,
+    "DSFL": 16,
+    "DSFR": 7,
+    "LLB": 0,
+    "LLF": 2,
+    "LSB": 18,
+    "LSF": 42,
+    "TLL": 17,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 21,
+    "NM": 153
+  },
+  "blue loss moves": {
+    "DLBL": 0,
+    "DLBR": 0,
+    "DLFL": 1,
+    "DLFR": 2,
+    "DSBL": 10,
+    "DSBR": 9,
+    "DSFL": 9,
+    "DSFR": 5,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 18,
+    "LSF": 30,
+    "TLL": 21,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 16,
+    "NM": 118
+  },
+  "red win moves": {
+    "DLBL": 2,
+    "DLBR": 1,
+    "DLFL": 3,
+    "DLFR": 2,
+    "DSBL": 2,
+    "DSBR": 10,
+    "DSFL": 8,
+    "DSFR": 12,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 16,
+    "LSF": 26,
+    "TLL": 17,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 12,
+    "NM": 124
+  },
+  "red loss moves": {
+    "DLBL": 2,
+    "DLBR": 3,
+    "DLFL": 1,
+    "DLFR": 4,
+    "DSBL": 7,
+    "DSBR": 4,
+    "DSFL": 8,
+    "DSFR": 8,
+    "LLB": 2,
+    "LLF": 1,
+    "LSB": 31,
+    "LSF": 38,
+    "TLL": 30,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 22,
+    "NM": 142
+  },
+  "blue total shots": {
+    "長球": 47,
+    "切球": 108,
+    "殺球": 77,
+    "挑球": 133,
+    "小球": 79,
+    "平球": 47,
+    "撲球": 50
+  },
+  "red total shots": {
+    "長球": 58,
+    "切球": 68,
+    "殺球": 52,
+    "挑球": 174,
+    "小球": 56,
+    "平球": 51,
+    "撲球": 78
+  },
+  "blue total moves": {
+    "DLBL": 1,
+    "DLBR": 3,
+    "DLFL": 6,
+    "DLFR": 2,
+    "DSBL": 14,
+    "DSBR": 18,
+    "DSFL": 25,
+    "DSFR": 12,
+    "LLB": 0,
+    "LLF": 2,
+    "LSB": 36,
+    "LSF": 72,
+    "TLL": 38,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 37,
+    "NM": 271
+  },
+  "red total moves": {
+    "DLBL": 4,
+    "DLBR": 4,
+    "DLFL": 4,
+    "DLFR": 6,
+    "DSBL": 9,
+    "DSBR": 14,
+    "DSFL": 16,
+    "DSFR": 20,
+    "LLB": 2,
+    "LLF": 1,
+    "LSB": 47,
+    "LSF": 64,
+    "TLL": 47,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 34,
+    "NM": 266
+  }
+}

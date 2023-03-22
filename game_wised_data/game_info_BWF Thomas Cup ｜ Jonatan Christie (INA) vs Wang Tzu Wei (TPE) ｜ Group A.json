@@ -1,0 +1,205 @@
+{
+  "Match": "BWF Thomas Cup ｜ Jonatan Christie (INA) vs Wang Tzu Wei (TPE) ｜ Group A",
+  "b_r_players": [
+    "Wang Tzu Wei",
+    "Jonatan Christie"
+  ],
+  "correct_scores": [
+    [
+      17,
+      21
+    ],
+    [
+      13,
+      21
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 38,
+      "blue red score": [
+        17,
+        21
+      ]
+    },
+    {
+      "score count": 34,
+      "blue red score": [
+        14,
+        20
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 21,
+    "切球": 41,
+    "殺球": 35,
+    "挑球": 52,
+    "小球": 12,
+    "平球": 4,
+    "撲球": 8
+  },
+  "blue loss shots": {
+    "長球": 50,
+    "切球": 77,
+    "殺球": 63,
+    "挑球": 113,
+    "小球": 6,
+    "平球": 8,
+    "撲球": 12
+  },
+  "red win shots": {
+    "長球": 51,
+    "切球": 61,
+    "殺球": 52,
+    "挑球": 131,
+    "小球": 11,
+    "平球": 4,
+    "撲球": 10
+  },
+  "red loss shots": {
+    "長球": 19,
+    "切球": 30,
+    "殺球": 29,
+    "挑球": 81,
+    "小球": 11,
+    "平球": 2,
+    "撲球": 9
+  },
+  "blue win moves": {
+    "DLBL": 3,
+    "DLBR": 0,
+    "DLFL": 1,
+    "DLFR": 2,
+    "DSBL": 2,
+    "DSBR": 2,
+    "DSFL": 7,
+    "DSFR": 7,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 5,
+    "LSF": 30,
+    "TLL": 33,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 20,
+    "NM": 66
+  },
+  "blue loss moves": {
+    "DLBL": 3,
+    "DLBR": 0,
+    "DLFL": 1,
+    "DLFR": 8,
+    "DSBL": 6,
+    "DSBR": 6,
+    "DSFL": 7,
+    "DSFR": 15,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 7,
+    "LSF": 36,
+    "TLL": 44,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 33,
+    "NM": 152
+  },
+  "red win moves": {
+    "DLBL": 3,
+    "DLBR": 2,
+    "DLFL": 1,
+    "DLFR": 3,
+    "DSBL": 4,
+    "DSBR": 5,
+    "DSFL": 18,
+    "DSFR": 10,
+    "LLB": 1,
+    "LLF": 3,
+    "LSB": 6,
+    "LSF": 33,
+    "TLL": 48,
+    "TLR": 12,
+    "TSL": 0,
+    "TSR": 35,
+    "NM": 145
+  },
+  "red loss moves": {
+    "DLBL": 1,
+    "DLBR": 0,
+    "DLFL": 1,
+    "DLFR": 3,
+    "DSBL": 1,
+    "DSBR": 3,
+    "DSFL": 4,
+    "DSFR": 12,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 4,
+    "LSF": 21,
+    "TLL": 30,
+    "TLR": 6,
+    "TSL": 0,
+    "TSR": 19,
+    "NM": 68
+  },
+  "blue total shots": {
+    "長球": 71,
+    "切球": 118,
+    "殺球": 98,
+    "挑球": 165,
+    "小球": 18,
+    "平球": 12,
+    "撲球": 20
+  },
+  "red total shots": {
+    "長球": 70,
+    "切球": 91,
+    "殺球": 81,
+    "挑球": 212,
+    "小球": 22,
+    "平球": 6,
+    "撲球": 19
+  },
+  "blue total moves": {
+    "DLBL": 6,
+    "DLBR": 0,
+    "DLFL": 2,
+    "DLFR": 10,
+    "DSBL": 8,
+    "DSBR": 8,
+    "DSFL": 14,
+    "DSFR": 22,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 12,
+    "LSF": 66,
+    "TLL": 77,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 53,
+    "NM": 218
+  },
+  "red total moves": {
+    "DLBL": 4,
+    "DLBR": 2,
+    "DLFL": 2,
+    "DLFR": 6,
+    "DSBL": 5,
+    "DSBR": 8,
+    "DSFL": 22,
+    "DSFR": 22,
+    "LLB": 1,
+    "LLF": 3,
+    "LSB": 10,
+    "LSF": 54,
+    "TLL": 78,
+    "TLR": 18,
+    "TSL": 0,
+    "TSR": 54,
+    "NM": 213
+  }
+}

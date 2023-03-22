@@ -1,0 +1,212 @@
+{
+  "Match": "DAIHATSU Indonesia Masters 2022 ｜ Lakshya Sen (IND) [7] vs. Chou Tien Chen (TPE) [3] ｜ QF",
+  "b_r_players": [
+    "Chou Tien Chen",
+    "Lakshya Sen"
+  ],
+  "correct_scores": [
+    [
+      21,
+      16
+    ],
+    [
+      12,
+      21
+    ],
+    [
+      21,
+      14
+    ]
+  ],
+  "games": [
+    {
+      "score count": 36,
+      "blue red score": [
+        21,
+        15
+      ]
+    },
+    {
+      "score count": 33,
+      "blue red score": [
+        12,
+        21
+      ]
+    },
+    {
+      "score count": 40,
+      "blue red score": [
+        26,
+        14
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 46,
+    "切球": 79,
+    "殺球": 64,
+    "挑球": 120,
+    "小球": 50,
+    "平球": 28,
+    "撲球": 28
+  },
+  "blue loss shots": {
+    "長球": 53,
+    "切球": 48,
+    "殺球": 37,
+    "挑球": 118,
+    "小球": 40,
+    "平球": 23,
+    "撲球": 32
+  },
+  "red win shots": {
+    "長球": 40,
+    "切球": 64,
+    "殺球": 71,
+    "挑球": 95,
+    "小球": 33,
+    "平球": 17,
+    "撲球": 31
+  },
+  "red loss shots": {
+    "長球": 46,
+    "切球": 44,
+    "殺球": 78,
+    "挑球": 142,
+    "小球": 36,
+    "平球": 23,
+    "撲球": 47
+  },
+  "blue win moves": {
+    "DLBL": 3,
+    "DLBR": 1,
+    "DLFL": 2,
+    "DLFR": 7,
+    "DSBL": 12,
+    "DSBR": 8,
+    "DSFL": 29,
+    "DSFR": 23,
+    "LLB": 3,
+    "LLF": 2,
+    "LSB": 17,
+    "LSF": 40,
+    "TLL": 51,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 33,
+    "NM": 181
+  },
+  "blue loss moves": {
+    "DLBL": 11,
+    "DLBR": 3,
+    "DLFL": 3,
+    "DLFR": 5,
+    "DSBL": 13,
+    "DSBR": 6,
+    "DSFL": 18,
+    "DSFR": 22,
+    "LLB": 2,
+    "LLF": 1,
+    "LSB": 17,
+    "LSF": 48,
+    "TLL": 35,
+    "TLR": 5,
+    "TSL": 0,
+    "TSR": 22,
+    "NM": 140
+  },
+  "red win moves": {
+    "DLBL": 2,
+    "DLBR": 1,
+    "DLFL": 7,
+    "DLFR": 8,
+    "DSBL": 8,
+    "DSBR": 8,
+    "DSFL": 23,
+    "DSFR": 18,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 7,
+    "LSF": 48,
+    "TLL": 48,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 42,
+    "NM": 127
+  },
+  "red loss moves": {
+    "DLBL": 3,
+    "DLBR": 1,
+    "DLFL": 6,
+    "DLFR": 9,
+    "DSBL": 7,
+    "DSBR": 10,
+    "DSFL": 18,
+    "DSFR": 25,
+    "LLB": 2,
+    "LLF": 1,
+    "LSB": 17,
+    "LSF": 54,
+    "TLL": 60,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 37,
+    "NM": 161
+  },
+  "blue total shots": {
+    "長球": 99,
+    "切球": 127,
+    "殺球": 101,
+    "挑球": 238,
+    "小球": 90,
+    "平球": 51,
+    "撲球": 60
+  },
+  "red total shots": {
+    "長球": 86,
+    "切球": 108,
+    "殺球": 149,
+    "挑球": 237,
+    "小球": 69,
+    "平球": 40,
+    "撲球": 78
+  },
+  "blue total moves": {
+    "DLBL": 14,
+    "DLBR": 4,
+    "DLFL": 5,
+    "DLFR": 12,
+    "DSBL": 25,
+    "DSBR": 14,
+    "DSFL": 47,
+    "DSFR": 45,
+    "LLB": 5,
+    "LLF": 3,
+    "LSB": 34,
+    "LSF": 88,
+    "TLL": 86,
+    "TLR": 9,
+    "TSL": 0,
+    "TSR": 55,
+    "NM": 321
+  },
+  "red total moves": {
+    "DLBL": 5,
+    "DLBR": 2,
+    "DLFL": 13,
+    "DLFR": 17,
+    "DSBL": 15,
+    "DSBR": 18,
+    "DSFL": 41,
+    "DSFR": 43,
+    "LLB": 2,
+    "LLF": 2,
+    "LSB": 24,
+    "LSF": 102,
+    "TLL": 108,
+    "TLR": 7,
+    "TSL": 0,
+    "TSR": 79,
+    "NM": 288
+  }
+}

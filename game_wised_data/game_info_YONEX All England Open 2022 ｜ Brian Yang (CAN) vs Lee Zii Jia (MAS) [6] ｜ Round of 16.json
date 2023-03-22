@@ -1,0 +1,205 @@
+{
+  "Match": "YONEX All England Open 2022 ｜ Brian Yang (CAN) vs Lee Zii Jia (MAS) [6] ｜ Round of 16",
+  "b_r_players": [
+    "Brian Yang",
+    "Lee Zii Jia"
+  ],
+  "correct_scores": [
+    [
+      24,
+      26
+    ],
+    [
+      11,
+      21
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 57,
+      "blue red score": [
+        33,
+        24
+      ]
+    },
+    {
+      "score count": 32,
+      "blue red score": [
+        13,
+        19
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 14,
+    "切球": 64,
+    "殺球": 66,
+    "挑球": 53,
+    "小球": 44,
+    "平球": 17,
+    "撲球": 13
+  },
+  "blue loss shots": {
+    "長球": 17,
+    "切球": 68,
+    "殺球": 65,
+    "挑球": 77,
+    "小球": 37,
+    "平球": 13,
+    "撲球": 22
+  },
+  "red win shots": {
+    "長球": 30,
+    "切球": 34,
+    "殺球": 27,
+    "挑球": 115,
+    "小球": 31,
+    "平球": 19,
+    "撲球": 33
+  },
+  "red loss shots": {
+    "長球": 25,
+    "切球": 18,
+    "殺球": 26,
+    "挑球": 120,
+    "小球": 24,
+    "平球": 23,
+    "撲球": 43
+  },
+  "blue win moves": {
+    "DLBL": 3,
+    "DLBR": 0,
+    "DLFL": 0,
+    "DLFR": 3,
+    "DSBL": 7,
+    "DSBR": 5,
+    "DSFL": 15,
+    "DSFR": 19,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 18,
+    "LSF": 54,
+    "TLL": 33,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 23,
+    "NM": 98
+  },
+  "blue loss moves": {
+    "DLBL": 2,
+    "DLBR": 2,
+    "DLFL": 1,
+    "DLFR": 0,
+    "DSBL": 9,
+    "DSBR": 5,
+    "DSFL": 11,
+    "DSFR": 22,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 7,
+    "LSF": 50,
+    "TLL": 37,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 25,
+    "NM": 116
+  },
+  "red win moves": {
+    "DLBL": 2,
+    "DLBR": 0,
+    "DLFL": 5,
+    "DLFR": 9,
+    "DSBL": 13,
+    "DSBR": 8,
+    "DSFL": 17,
+    "DSFR": 6,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 18,
+    "LSF": 40,
+    "TLL": 35,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 24,
+    "NM": 119
+  },
+  "red loss moves": {
+    "DLBL": 2,
+    "DLBR": 1,
+    "DLFL": 0,
+    "DLFR": 3,
+    "DSBL": 8,
+    "DSBR": 7,
+    "DSFL": 15,
+    "DSFR": 14,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 13,
+    "LSF": 29,
+    "TLL": 26,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 28,
+    "NM": 124
+  },
+  "blue total shots": {
+    "長球": 31,
+    "切球": 132,
+    "殺球": 131,
+    "挑球": 130,
+    "小球": 81,
+    "平球": 30,
+    "撲球": 35
+  },
+  "red total shots": {
+    "長球": 55,
+    "切球": 52,
+    "殺球": 53,
+    "挑球": 235,
+    "小球": 55,
+    "平球": 42,
+    "撲球": 76
+  },
+  "blue total moves": {
+    "DLBL": 5,
+    "DLBR": 2,
+    "DLFL": 1,
+    "DLFR": 3,
+    "DSBL": 16,
+    "DSBR": 10,
+    "DSFL": 26,
+    "DSFR": 41,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 25,
+    "LSF": 104,
+    "TLL": 70,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 48,
+    "NM": 214
+  },
+  "red total moves": {
+    "DLBL": 4,
+    "DLBR": 1,
+    "DLFL": 5,
+    "DLFR": 12,
+    "DSBL": 21,
+    "DSBR": 15,
+    "DSFL": 32,
+    "DSFR": 20,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 31,
+    "LSF": 69,
+    "TLL": 61,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 52,
+    "NM": 243
+  }
+}

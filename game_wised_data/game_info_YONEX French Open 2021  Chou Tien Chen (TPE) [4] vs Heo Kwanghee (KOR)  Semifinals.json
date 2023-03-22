@@ -1,0 +1,205 @@
+{
+  "Match": "YONEX French Open 2021  Chou Tien Chen (TPE) [4] vs Heo Kwanghee (KOR)  Semifinals",
+  "b_r_players": [
+    "Chou Tien Chen",
+    "Heo Kwanghee"
+  ],
+  "correct_scores": [
+    [
+      21,
+      15
+    ],
+    [
+      21,
+      17
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 33,
+      "blue red score": [
+        18,
+        15
+      ]
+    },
+    {
+      "score count": 37,
+      "blue red score": [
+        23,
+        14
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 58,
+    "切球": 47,
+    "殺球": 40,
+    "挑球": 104,
+    "小球": 23,
+    "平球": 16,
+    "撲球": 35
+  },
+  "blue loss shots": {
+    "長球": 40,
+    "切球": 55,
+    "殺球": 25,
+    "挑球": 74,
+    "小球": 14,
+    "平球": 9,
+    "撲球": 29
+  },
+  "red win shots": {
+    "長球": 36,
+    "切球": 45,
+    "殺球": 31,
+    "挑球": 81,
+    "小球": 20,
+    "平球": 7,
+    "撲球": 16
+  },
+  "red loss shots": {
+    "長球": 47,
+    "切球": 60,
+    "殺球": 50,
+    "挑球": 99,
+    "小球": 35,
+    "平球": 10,
+    "撲球": 17
+  },
+  "blue win moves": {
+    "DLBL": 6,
+    "DLBR": 1,
+    "DLFL": 2,
+    "DLFR": 5,
+    "DSBL": 13,
+    "DSBR": 16,
+    "DSFL": 17,
+    "DSFR": 12,
+    "LLB": 2,
+    "LLF": 1,
+    "LSB": 16,
+    "LSF": 30,
+    "TLL": 29,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 30,
+    "NM": 138
+  },
+  "blue loss moves": {
+    "DLBL": 5,
+    "DLBR": 6,
+    "DLFL": 2,
+    "DLFR": 5,
+    "DSBL": 9,
+    "DSBR": 3,
+    "DSFL": 10,
+    "DSFR": 11,
+    "LLB": 2,
+    "LLF": 2,
+    "LSB": 7,
+    "LSF": 26,
+    "TLL": 28,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 26,
+    "NM": 94
+  },
+  "red win moves": {
+    "DLBL": 6,
+    "DLBR": 2,
+    "DLFL": 2,
+    "DLFR": 8,
+    "DSBL": 10,
+    "DSBR": 5,
+    "DSFL": 15,
+    "DSFR": 15,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 7,
+    "LSF": 32,
+    "TLL": 20,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 23,
+    "NM": 100
+  },
+  "red loss moves": {
+    "DLBL": 2,
+    "DLBR": 2,
+    "DLFL": 4,
+    "DLFR": 6,
+    "DSBL": 12,
+    "DSBR": 7,
+    "DSFL": 29,
+    "DSFR": 17,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 9,
+    "LSF": 40,
+    "TLL": 40,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 33,
+    "NM": 121
+  },
+  "blue total shots": {
+    "長球": 98,
+    "切球": 102,
+    "殺球": 65,
+    "挑球": 178,
+    "小球": 37,
+    "平球": 25,
+    "撲球": 64
+  },
+  "red total shots": {
+    "長球": 83,
+    "切球": 105,
+    "殺球": 81,
+    "挑球": 180,
+    "小球": 55,
+    "平球": 17,
+    "撲球": 33
+  },
+  "blue total moves": {
+    "DLBL": 11,
+    "DLBR": 7,
+    "DLFL": 4,
+    "DLFR": 10,
+    "DSBL": 22,
+    "DSBR": 19,
+    "DSFL": 27,
+    "DSFR": 23,
+    "LLB": 4,
+    "LLF": 3,
+    "LSB": 23,
+    "LSF": 56,
+    "TLL": 57,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 56,
+    "NM": 232
+  },
+  "red total moves": {
+    "DLBL": 8,
+    "DLBR": 4,
+    "DLFL": 6,
+    "DLFR": 14,
+    "DSBL": 22,
+    "DSBR": 12,
+    "DSFL": 44,
+    "DSFR": 32,
+    "LLB": 2,
+    "LLF": 0,
+    "LSB": 16,
+    "LSF": 72,
+    "TLL": 60,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 56,
+    "NM": 221
+  }
+}

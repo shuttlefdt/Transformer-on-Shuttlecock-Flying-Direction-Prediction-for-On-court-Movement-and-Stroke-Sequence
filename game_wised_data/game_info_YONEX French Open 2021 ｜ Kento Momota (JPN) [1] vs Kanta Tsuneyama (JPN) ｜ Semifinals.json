@@ -1,0 +1,212 @@
+{
+  "Match": "YONEX French Open 2021 ｜ Kento Momota (JPN) [1] vs Kanta Tsuneyama (JPN) ｜ Semifinals",
+  "b_r_players": [
+    "Kento Momota",
+    "Kanta Tsuneyama"
+  ],
+  "correct_scores": [
+    [
+      26,
+      24
+    ],
+    [
+      11,
+      21
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 49,
+      "blue red score": [
+        23,
+        26
+      ]
+    },
+    {
+      "score count": 32,
+      "blue red score": [
+        15,
+        17
+      ]
+    },
+    {
+      "score count": 4,
+      "blue red score": [
+        0,
+        4
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 72,
+    "切球": 85,
+    "殺球": 100,
+    "挑球": 87,
+    "小球": 49,
+    "平球": 17,
+    "撲球": 17
+  },
+  "blue loss shots": {
+    "長球": 106,
+    "切球": 129,
+    "殺球": 137,
+    "挑球": 95,
+    "小球": 67,
+    "平球": 20,
+    "撲球": 29
+  },
+  "red win shots": {
+    "長球": 113,
+    "切球": 40,
+    "殺球": 46,
+    "挑球": 261,
+    "小球": 32,
+    "平球": 43,
+    "撲球": 50
+  },
+  "red loss shots": {
+    "長球": 75,
+    "切球": 48,
+    "殺球": 34,
+    "挑球": 185,
+    "小球": 26,
+    "平球": 25,
+    "撲球": 40
+  },
+  "blue win moves": {
+    "DLBL": 3,
+    "DLBR": 3,
+    "DLFL": 4,
+    "DLFR": 6,
+    "DSBL": 15,
+    "DSBR": 6,
+    "DSFL": 21,
+    "DSFR": 24,
+    "LLB": 4,
+    "LLF": 1,
+    "LSB": 24,
+    "LSF": 48,
+    "TLL": 36,
+    "TLR": 8,
+    "TSL": 0,
+    "TSR": 37,
+    "NM": 193
+  },
+  "blue loss moves": {
+    "DLBL": 4,
+    "DLBR": 7,
+    "DLFL": 2,
+    "DLFR": 3,
+    "DSBL": 21,
+    "DSBR": 17,
+    "DSFL": 36,
+    "DSFR": 29,
+    "LLB": 2,
+    "LLF": 1,
+    "LSB": 33,
+    "LSF": 65,
+    "TLL": 51,
+    "TLR": 8,
+    "TSL": 0,
+    "TSR": 57,
+    "NM": 249
+  },
+  "red win moves": {
+    "DLBL": 8,
+    "DLBR": 8,
+    "DLFL": 5,
+    "DLFR": 1,
+    "DSBL": 20,
+    "DSBR": 23,
+    "DSFL": 13,
+    "DSFR": 22,
+    "LLB": 2,
+    "LLF": 0,
+    "LSB": 19,
+    "LSF": 67,
+    "TLL": 48,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 65,
+    "NM": 278
+  },
+  "red loss moves": {
+    "DLBL": 2,
+    "DLBR": 4,
+    "DLFL": 3,
+    "DLFR": 5,
+    "DSBL": 8,
+    "DSBR": 18,
+    "DSFL": 12,
+    "DSFR": 22,
+    "LLB": 3,
+    "LLF": 1,
+    "LSB": 36,
+    "LSF": 34,
+    "TLL": 42,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 47,
+    "NM": 189
+  },
+  "blue total shots": {
+    "長球": 178,
+    "切球": 214,
+    "殺球": 237,
+    "挑球": 182,
+    "小球": 116,
+    "平球": 37,
+    "撲球": 46
+  },
+  "red total shots": {
+    "長球": 188,
+    "切球": 88,
+    "殺球": 80,
+    "挑球": 446,
+    "小球": 58,
+    "平球": 68,
+    "撲球": 90
+  },
+  "blue total moves": {
+    "DLBL": 7,
+    "DLBR": 10,
+    "DLFL": 6,
+    "DLFR": 9,
+    "DSBL": 36,
+    "DSBR": 23,
+    "DSFL": 57,
+    "DSFR": 53,
+    "LLB": 6,
+    "LLF": 2,
+    "LSB": 57,
+    "LSF": 113,
+    "TLL": 87,
+    "TLR": 16,
+    "TSL": 0,
+    "TSR": 94,
+    "NM": 442
+  },
+  "red total moves": {
+    "DLBL": 10,
+    "DLBR": 12,
+    "DLFL": 8,
+    "DLFR": 6,
+    "DSBL": 28,
+    "DSBR": 41,
+    "DSFL": 25,
+    "DSFR": 44,
+    "LLB": 5,
+    "LLF": 1,
+    "LSB": 55,
+    "LSF": 101,
+    "TLL": 90,
+    "TLR": 5,
+    "TSL": 0,
+    "TSR": 112,
+    "NM": 467
+  }
+}

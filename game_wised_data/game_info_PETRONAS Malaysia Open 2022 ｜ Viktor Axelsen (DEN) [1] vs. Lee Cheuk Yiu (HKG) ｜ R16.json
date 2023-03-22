@@ -1,0 +1,205 @@
+{
+  "Match": "PETRONAS Malaysia Open 2022 ｜ Viktor Axelsen (DEN) [1] vs. Lee Cheuk Yiu (HKG) ｜ R16",
+  "b_r_players": [
+    "Viktor Axelsen",
+    "Lee Cheuk Yiu"
+  ],
+  "correct_scores": [
+    [
+      15,
+      21
+    ],
+    [
+      21,
+      6
+    ],
+    [
+      21,
+      13
+    ]
+  ],
+  "games": [
+    {
+      "score count": 39,
+      "blue red score": [
+        14,
+        25
+      ]
+    },
+    {
+      "score count": 59,
+      "blue red score": [
+        27,
+        32
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 25,
+    "切球": 35,
+    "殺球": 33,
+    "挑球": 141,
+    "小球": 32,
+    "平球": 20,
+    "撲球": 35
+  },
+  "blue loss shots": {
+    "長球": 30,
+    "切球": 62,
+    "殺球": 53,
+    "挑球": 155,
+    "小球": 40,
+    "平球": 29,
+    "撲球": 26
+  },
+  "red win shots": {
+    "長球": 33,
+    "切球": 71,
+    "殺球": 82,
+    "挑球": 108,
+    "小球": 37,
+    "平球": 24,
+    "撲球": 38
+  },
+  "red loss shots": {
+    "長球": 26,
+    "切球": 81,
+    "殺球": 65,
+    "挑球": 72,
+    "小球": 42,
+    "平球": 22,
+    "撲球": 21
+  },
+  "blue win moves": {
+    "DLBL": 3,
+    "DLBR": 2,
+    "DLFL": 4,
+    "DLFR": 5,
+    "DSBL": 9,
+    "DSBR": 2,
+    "DSFL": 20,
+    "DSFR": 21,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 13,
+    "LSF": 39,
+    "TLL": 33,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 32,
+    "NM": 141
+  },
+  "blue loss moves": {
+    "DLBL": 0,
+    "DLBR": 0,
+    "DLFL": 1,
+    "DLFR": 6,
+    "DSBL": 6,
+    "DSBR": 0,
+    "DSFL": 24,
+    "DSFR": 32,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 11,
+    "LSF": 54,
+    "TLL": 49,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 36,
+    "NM": 171
+  },
+  "red win moves": {
+    "DLBL": 4,
+    "DLBR": 3,
+    "DLFL": 5,
+    "DLFR": 8,
+    "DSBL": 19,
+    "DSBR": 7,
+    "DSFL": 15,
+    "DSFR": 30,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 9,
+    "LSF": 53,
+    "TLL": 45,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 36,
+    "NM": 159
+  },
+  "red loss moves": {
+    "DLBL": 5,
+    "DLBR": 0,
+    "DLFL": 5,
+    "DLFR": 5,
+    "DSBL": 12,
+    "DSBR": 6,
+    "DSFL": 20,
+    "DSFR": 25,
+    "LLB": 0,
+    "LLF": 2,
+    "LSB": 16,
+    "LSF": 39,
+    "TLL": 38,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 33,
+    "NM": 112
+  },
+  "blue total shots": {
+    "長球": 55,
+    "切球": 97,
+    "殺球": 86,
+    "挑球": 296,
+    "小球": 72,
+    "平球": 49,
+    "撲球": 61
+  },
+  "red total shots": {
+    "長球": 59,
+    "切球": 152,
+    "殺球": 147,
+    "挑球": 180,
+    "小球": 79,
+    "平球": 46,
+    "撲球": 59
+  },
+  "blue total moves": {
+    "DLBL": 3,
+    "DLBR": 2,
+    "DLFL": 5,
+    "DLFR": 11,
+    "DSBL": 15,
+    "DSBR": 2,
+    "DSFL": 44,
+    "DSFR": 53,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 24,
+    "LSF": 93,
+    "TLL": 82,
+    "TLR": 7,
+    "TSL": 0,
+    "TSR": 68,
+    "NM": 312
+  },
+  "red total moves": {
+    "DLBL": 9,
+    "DLBR": 3,
+    "DLFL": 10,
+    "DLFR": 13,
+    "DSBL": 31,
+    "DSBR": 13,
+    "DSFL": 35,
+    "DSFR": 55,
+    "LLB": 0,
+    "LLF": 3,
+    "LSB": 25,
+    "LSF": 92,
+    "TLL": 83,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 69,
+    "NM": 271
+  }
+}

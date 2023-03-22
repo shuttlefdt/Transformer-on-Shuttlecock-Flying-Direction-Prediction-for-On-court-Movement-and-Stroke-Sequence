@@ -1,0 +1,205 @@
+{
+  "Match": "Korea Open Badminton Championships 2022 ｜ Jonatan Christie (INA) vs Kidambi Srikanth (IND) ｜ SF",
+  "b_r_players": [
+    "Kidambi Srikanth",
+    "Jonatan Christie"
+  ],
+  "correct_scores": [
+    [
+      19,
+      21
+    ],
+    [
+      16,
+      21
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 45,
+      "blue red score": [
+        19,
+        26
+      ]
+    },
+    {
+      "score count": 40,
+      "blue red score": [
+        23,
+        17
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 57,
+    "切球": 31,
+    "殺球": 30,
+    "挑球": 83,
+    "小球": 7,
+    "平球": 18,
+    "撲球": 13
+  },
+  "blue loss shots": {
+    "長球": 46,
+    "切球": 46,
+    "殺球": 69,
+    "挑球": 73,
+    "小球": 18,
+    "平球": 13,
+    "撲球": 8
+  },
+  "red win shots": {
+    "長球": 52,
+    "切球": 31,
+    "殺球": 33,
+    "挑球": 104,
+    "小球": 5,
+    "平球": 16,
+    "撲球": 28
+  },
+  "red loss shots": {
+    "長球": 60,
+    "切球": 34,
+    "殺球": 49,
+    "挑球": 61,
+    "小球": 11,
+    "平球": 18,
+    "撲球": 11
+  },
+  "blue win moves": {
+    "DLBL": 1,
+    "DLBR": 0,
+    "DLFL": 2,
+    "DLFR": 3,
+    "DSBL": 13,
+    "DSBR": 3,
+    "DSFL": 8,
+    "DSFR": 5,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 6,
+    "LSF": 38,
+    "TLL": 39,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 29,
+    "NM": 95
+  },
+  "blue loss moves": {
+    "DLBL": 2,
+    "DLBR": 1,
+    "DLFL": 1,
+    "DLFR": 4,
+    "DSBL": 3,
+    "DSBR": 5,
+    "DSFL": 15,
+    "DSFR": 18,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 7,
+    "LSF": 37,
+    "TLL": 42,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 30,
+    "NM": 102
+  },
+  "red win moves": {
+    "DLBL": 8,
+    "DLBR": 1,
+    "DLFL": 4,
+    "DLFR": 3,
+    "DSBL": 7,
+    "DSBR": 7,
+    "DSFL": 15,
+    "DSFR": 13,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 4,
+    "LSF": 30,
+    "TLL": 36,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 18,
+    "NM": 122
+  },
+  "red loss moves": {
+    "DLBL": 5,
+    "DLBR": 1,
+    "DLFL": 1,
+    "DLFR": 4,
+    "DSBL": 7,
+    "DSBR": 7,
+    "DSFL": 8,
+    "DSFR": 8,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 6,
+    "LSF": 27,
+    "TLL": 35,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 32,
+    "NM": 98
+  },
+  "blue total shots": {
+    "長球": 103,
+    "切球": 77,
+    "殺球": 99,
+    "挑球": 156,
+    "小球": 25,
+    "平球": 31,
+    "撲球": 21
+  },
+  "red total shots": {
+    "長球": 112,
+    "切球": 65,
+    "殺球": 82,
+    "挑球": 165,
+    "小球": 16,
+    "平球": 34,
+    "撲球": 39
+  },
+  "blue total moves": {
+    "DLBL": 3,
+    "DLBR": 1,
+    "DLFL": 3,
+    "DLFR": 7,
+    "DSBL": 16,
+    "DSBR": 8,
+    "DSFL": 23,
+    "DSFR": 23,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 13,
+    "LSF": 75,
+    "TLL": 81,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 59,
+    "NM": 197
+  },
+  "red total moves": {
+    "DLBL": 13,
+    "DLBR": 2,
+    "DLFL": 5,
+    "DLFR": 7,
+    "DSBL": 14,
+    "DSBR": 14,
+    "DSFL": 23,
+    "DSFR": 21,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 10,
+    "LSF": 57,
+    "TLL": 71,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 50,
+    "NM": 220
+  }
+}

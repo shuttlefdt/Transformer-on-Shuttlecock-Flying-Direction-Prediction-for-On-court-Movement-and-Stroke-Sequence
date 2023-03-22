@@ -1,0 +1,212 @@
+{
+  "Match": "BWF World Championships 2022 ｜ Anthony Sinisuka Ginting (INA) [6] vs. Shi Yu Qi (CHN) ｜ R16",
+  "b_r_players": [
+    "Shi Yu Qi",
+    "Anthony Sinisuka Ginting"
+  ],
+  "correct_scores": [
+    [
+      11,
+      21
+    ],
+    [
+      21,
+      13
+    ],
+    [
+      18,
+      21
+    ]
+  ],
+  "games": [
+    {
+      "score count": 32,
+      "blue red score": [
+        18,
+        14
+      ]
+    },
+    {
+      "score count": 34,
+      "blue red score": [
+        21,
+        13
+      ]
+    },
+    {
+      "score count": 39,
+      "blue red score": [
+        14,
+        25
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 19,
+    "切球": 52,
+    "殺球": 32,
+    "挑球": 96,
+    "小球": 27,
+    "平球": 25,
+    "撲球": 30
+  },
+  "blue loss shots": {
+    "長球": 22,
+    "切球": 48,
+    "殺球": 53,
+    "挑球": 84,
+    "小球": 31,
+    "平球": 30,
+    "撲球": 21
+  },
+  "red win shots": {
+    "長球": 34,
+    "切球": 35,
+    "殺球": 40,
+    "挑球": 86,
+    "小球": 36,
+    "平球": 22,
+    "撲球": 32
+  },
+  "red loss shots": {
+    "長球": 22,
+    "切球": 49,
+    "殺球": 42,
+    "挑球": 82,
+    "小球": 35,
+    "平球": 19,
+    "撲球": 30
+  },
+  "blue win moves": {
+    "DLBL": 1,
+    "DLBR": 1,
+    "DLFL": 1,
+    "DLFR": 2,
+    "DSBL": 1,
+    "DSBR": 5,
+    "DSFL": 22,
+    "DSFR": 18,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 14,
+    "LSF": 49,
+    "TLL": 31,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 12,
+    "NM": 119
+  },
+  "blue loss moves": {
+    "DLBL": 1,
+    "DLBR": 2,
+    "DLFL": 3,
+    "DLFR": 4,
+    "DSBL": 8,
+    "DSBR": 3,
+    "DSFL": 18,
+    "DSFR": 7,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 5,
+    "LSF": 59,
+    "TLL": 32,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 23,
+    "NM": 117
+  },
+  "red win moves": {
+    "DLBL": 8,
+    "DLBR": 0,
+    "DLFL": 1,
+    "DLFR": 3,
+    "DSBL": 10,
+    "DSBR": 12,
+    "DSFL": 12,
+    "DSFR": 27,
+    "LLB": 1,
+    "LLF": 2,
+    "LSB": 14,
+    "LSF": 63,
+    "TLL": 24,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 22,
+    "NM": 90
+  },
+  "red loss moves": {
+    "DLBL": 7,
+    "DLBR": 3,
+    "DLFL": 1,
+    "DLFR": 3,
+    "DSBL": 12,
+    "DSBR": 8,
+    "DSFL": 12,
+    "DSFR": 28,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 13,
+    "LSF": 45,
+    "TLL": 25,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 21,
+    "NM": 98
+  },
+  "blue total shots": {
+    "長球": 41,
+    "切球": 100,
+    "殺球": 85,
+    "挑球": 180,
+    "小球": 58,
+    "平球": 55,
+    "撲球": 51
+  },
+  "red total shots": {
+    "長球": 56,
+    "切球": 84,
+    "殺球": 82,
+    "挑球": 168,
+    "小球": 71,
+    "平球": 41,
+    "撲球": 62
+  },
+  "blue total moves": {
+    "DLBL": 2,
+    "DLBR": 3,
+    "DLFL": 4,
+    "DLFR": 6,
+    "DSBL": 9,
+    "DSBR": 8,
+    "DSFL": 40,
+    "DSFR": 25,
+    "LLB": 1,
+    "LLF": 2,
+    "LSB": 19,
+    "LSF": 108,
+    "TLL": 63,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 35,
+    "NM": 236
+  },
+  "red total moves": {
+    "DLBL": 15,
+    "DLBR": 3,
+    "DLFL": 2,
+    "DLFR": 6,
+    "DSBL": 22,
+    "DSBR": 20,
+    "DSFL": 24,
+    "DSFR": 55,
+    "LLB": 1,
+    "LLF": 3,
+    "LSB": 27,
+    "LSF": 108,
+    "TLL": 49,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 43,
+    "NM": 188
+  }
+}

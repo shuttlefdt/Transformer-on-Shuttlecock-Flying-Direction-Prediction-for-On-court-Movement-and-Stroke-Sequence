@@ -1,0 +1,205 @@
+{
+  "Match": "MS ｜ LIN Dan (CHN) [6] vs LEE Chong Wei (MAS) [2] ｜ BWF 2018",
+  "b_r_players": [
+    "LIN Dan",
+    "LEE Chong Wei"
+  ],
+  "correct_scores": [
+    [
+      21,
+      16
+    ],
+    [
+      21,
+      17
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 40,
+      "blue red score": [
+        20,
+        20
+      ]
+    },
+    {
+      "score count": 62,
+      "blue red score": [
+        25,
+        37
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 31,
+    "切球": 62,
+    "殺球": 47,
+    "挑球": 143,
+    "小球": 12,
+    "平球": 4,
+    "撲球": 14
+  },
+  "blue loss shots": {
+    "長球": 44,
+    "切球": 39,
+    "殺球": 47,
+    "挑球": 168,
+    "小球": 10,
+    "平球": 11,
+    "撲球": 27
+  },
+  "red win shots": {
+    "長球": 52,
+    "切球": 90,
+    "殺球": 82,
+    "挑球": 81,
+    "小球": 28,
+    "平球": 17,
+    "撲球": 8
+  },
+  "red loss shots": {
+    "長球": 36,
+    "切球": 69,
+    "殺球": 70,
+    "挑球": 105,
+    "小球": 16,
+    "平球": 11,
+    "撲球": 5
+  },
+  "blue win moves": {
+    "DLBL": 1,
+    "DLBR": 0,
+    "DLFL": 4,
+    "DLFR": 0,
+    "DSBL": 3,
+    "DSBR": 3,
+    "DSFL": 10,
+    "DSFR": 6,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 12,
+    "LSF": 32,
+    "TLL": 26,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 38,
+    "NM": 175
+  },
+  "blue loss moves": {
+    "DLBL": 0,
+    "DLBR": 1,
+    "DLFL": 6,
+    "DLFR": 3,
+    "DSBL": 4,
+    "DSBR": 8,
+    "DSFL": 15,
+    "DSFR": 10,
+    "LLB": 1,
+    "LLF": 4,
+    "LSB": 9,
+    "LSF": 39,
+    "TLL": 34,
+    "TLR": 5,
+    "TSL": 0,
+    "TSR": 44,
+    "NM": 175
+  },
+  "red win moves": {
+    "DLBL": 1,
+    "DLBR": 2,
+    "DLFL": 5,
+    "DLFR": 2,
+    "DSBL": 3,
+    "DSBR": 7,
+    "DSFL": 18,
+    "DSFR": 10,
+    "LLB": 3,
+    "LLF": 0,
+    "LSB": 18,
+    "LSF": 35,
+    "TLL": 32,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 40,
+    "NM": 170
+  },
+  "red loss moves": {
+    "DLBL": 2,
+    "DLBR": 0,
+    "DLFL": 6,
+    "DLFR": 0,
+    "DSBL": 2,
+    "DSBR": 8,
+    "DSFL": 12,
+    "DSFR": 6,
+    "LLB": 2,
+    "LLF": 0,
+    "LSB": 15,
+    "LSF": 33,
+    "TLL": 20,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 31,
+    "NM": 176
+  },
+  "blue total shots": {
+    "長球": 75,
+    "切球": 101,
+    "殺球": 94,
+    "挑球": 311,
+    "小球": 22,
+    "平球": 15,
+    "撲球": 41
+  },
+  "red total shots": {
+    "長球": 88,
+    "切球": 159,
+    "殺球": 152,
+    "挑球": 186,
+    "小球": 44,
+    "平球": 28,
+    "撲球": 13
+  },
+  "blue total moves": {
+    "DLBL": 1,
+    "DLBR": 1,
+    "DLFL": 10,
+    "DLFR": 3,
+    "DSBL": 7,
+    "DSBR": 11,
+    "DSFL": 25,
+    "DSFR": 16,
+    "LLB": 1,
+    "LLF": 4,
+    "LSB": 21,
+    "LSF": 71,
+    "TLL": 60,
+    "TLR": 7,
+    "TSL": 0,
+    "TSR": 82,
+    "NM": 350
+  },
+  "red total moves": {
+    "DLBL": 3,
+    "DLBR": 2,
+    "DLFL": 11,
+    "DLFR": 2,
+    "DSBL": 5,
+    "DSBR": 15,
+    "DSFL": 30,
+    "DSFR": 16,
+    "LLB": 5,
+    "LLF": 0,
+    "LSB": 33,
+    "LSF": 68,
+    "TLL": 52,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 71,
+    "NM": 346
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "Match": "HYLO Open 2022 ｜ Chou Tien Chen (TPE) [3] vs. Anthony Sinisuka Ginting (INA) [5] ｜ F",
+  "b_r_players": [
+    "Chou Tien Chen",
+    "Anthony Sinisuka Ginting"
+  ],
+  "correct_scores": [
+    [
+      21,
+      18
+    ],
+    [
+      11,
+      21
+    ],
+    [
+      22,
+      24
+    ]
+  ],
+  "games": [
+    {
+      "score count": 38,
+      "blue red score": [
+        21,
+        17
+      ]
+    },
+    {
+      "score count": 31,
+      "blue red score": [
+        6,
+        25
+      ]
+    },
+    {
+      "score count": 44,
+      "blue red score": [
+        26,
+        18
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 25,
+    "切球": 66,
+    "殺球": 63,
+    "挑球": 61,
+    "小球": 54,
+    "平球": 21,
+    "撲球": 18
+  },
+  "blue loss shots": {
+    "長球": 28,
+    "切球": 65,
+    "殺球": 49,
+    "挑球": 91,
+    "小球": 48,
+    "平球": 20,
+    "撲球": 34
+  },
+  "red win shots": {
+    "長球": 37,
+    "切球": 51,
+    "殺球": 43,
+    "挑球": 98,
+    "小球": 47,
+    "平球": 21,
+    "撲球": 42
+  },
+  "red loss shots": {
+    "長球": 37,
+    "切球": 24,
+    "殺球": 24,
+    "挑球": 119,
+    "小球": 38,
+    "平球": 17,
+    "撲球": 48
+  },
+  "blue win moves": {
+    "DLBL": 1,
+    "DLBR": 2,
+    "DLFL": 2,
+    "DLFR": 5,
+    "DSBL": 7,
+    "DSBR": 9,
+    "DSFL": 22,
+    "DSFR": 13,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 10,
+    "LSF": 47,
+    "TLL": 40,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 27,
+    "NM": 120
+  },
+  "blue loss moves": {
+    "DLBL": 6,
+    "DLBR": 1,
+    "DLFL": 4,
+    "DLFR": 7,
+    "DSBL": 12,
+    "DSBR": 10,
+    "DSFL": 10,
+    "DSFR": 22,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 6,
+    "LSF": 46,
+    "TLL": 33,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 32,
+    "NM": 147
+  },
+  "red win moves": {
+    "DLBL": 6,
+    "DLBR": 5,
+    "DLFL": 7,
+    "DLFR": 2,
+    "DSBL": 12,
+    "DSBR": 10,
+    "DSFL": 17,
+    "DSFR": 23,
+    "LLB": 2,
+    "LLF": 1,
+    "LSB": 20,
+    "LSF": 51,
+    "TLL": 33,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 34,
+    "NM": 111
+  },
+  "red loss moves": {
+    "DLBL": 7,
+    "DLBR": 2,
+    "DLFL": 3,
+    "DLFR": 7,
+    "DSBL": 14,
+    "DSBR": 11,
+    "DSFL": 10,
+    "DSFR": 25,
+    "LLB": 1,
+    "LLF": 2,
+    "LSB": 17,
+    "LSF": 44,
+    "TLL": 24,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 17,
+    "NM": 123
+  },
+  "blue total shots": {
+    "長球": 53,
+    "切球": 131,
+    "殺球": 112,
+    "挑球": 152,
+    "小球": 102,
+    "平球": 41,
+    "撲球": 52
+  },
+  "red total shots": {
+    "長球": 74,
+    "切球": 75,
+    "殺球": 67,
+    "挑球": 217,
+    "小球": 85,
+    "平球": 38,
+    "撲球": 90
+  },
+  "blue total moves": {
+    "DLBL": 7,
+    "DLBR": 3,
+    "DLFL": 6,
+    "DLFR": 12,
+    "DSBL": 19,
+    "DSBR": 19,
+    "DSFL": 32,
+    "DSFR": 35,
+    "LLB": 2,
+    "LLF": 1,
+    "LSB": 16,
+    "LSF": 93,
+    "TLL": 73,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 59,
+    "NM": 267
+  },
+  "red total moves": {
+    "DLBL": 13,
+    "DLBR": 7,
+    "DLFL": 10,
+    "DLFR": 9,
+    "DSBL": 26,
+    "DSBR": 21,
+    "DSFL": 27,
+    "DSFR": 48,
+    "LLB": 3,
+    "LLF": 3,
+    "LSB": 37,
+    "LSF": 95,
+    "TLL": 57,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 51,
+    "NM": 234
+  }
+}

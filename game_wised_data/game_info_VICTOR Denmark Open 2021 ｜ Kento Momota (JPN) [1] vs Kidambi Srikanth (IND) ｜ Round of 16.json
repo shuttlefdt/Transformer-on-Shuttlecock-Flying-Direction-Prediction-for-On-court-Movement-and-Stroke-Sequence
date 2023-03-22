@@ -1,0 +1,205 @@
+{
+  "Match": "VICTOR Denmark Open 2021 ｜ Kento Momota (JPN) [1] vs Kidambi Srikanth (IND) ｜ Round of 16",
+  "b_r_players": [
+    "Kento Momota",
+    "Kidambi Srikanth"
+  ],
+  "correct_scores": [
+    [
+      23,
+      21
+    ],
+    [
+      21,
+      9
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 43,
+      "blue red score": [
+        24,
+        19
+      ]
+    },
+    {
+      "score count": 31,
+      "blue red score": [
+        21,
+        10
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 32,
+    "切球": 47,
+    "殺球": 46,
+    "挑球": 85,
+    "小球": 41,
+    "平球": 26,
+    "撲球": 45
+  },
+  "blue loss shots": {
+    "長球": 25,
+    "切球": 54,
+    "殺球": 38,
+    "挑球": 58,
+    "小球": 35,
+    "平球": 17,
+    "撲球": 22
+  },
+  "red win shots": {
+    "長球": 24,
+    "切球": 28,
+    "殺球": 27,
+    "挑球": 85,
+    "小球": 24,
+    "平球": 22,
+    "撲球": 30
+  },
+  "red loss shots": {
+    "長球": 34,
+    "切球": 46,
+    "殺球": 37,
+    "挑球": 99,
+    "小球": 38,
+    "平球": 26,
+    "撲球": 48
+  },
+  "blue win moves": {
+    "DLBL": 2,
+    "DLBR": 7,
+    "DLFL": 2,
+    "DLFR": 2,
+    "DSBL": 3,
+    "DSBR": 9,
+    "DSFL": 15,
+    "DSFR": 11,
+    "LLB": 0,
+    "LLF": 3,
+    "LSB": 16,
+    "LSF": 61,
+    "TLL": 29,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 33,
+    "NM": 134
+  },
+  "blue loss moves": {
+    "DLBL": 0,
+    "DLBR": 1,
+    "DLFL": 1,
+    "DLFR": 1,
+    "DSBL": 5,
+    "DSBR": 4,
+    "DSFL": 19,
+    "DSFR": 14,
+    "LLB": 2,
+    "LLF": 2,
+    "LSB": 15,
+    "LSF": 28,
+    "TLL": 23,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 23,
+    "NM": 101
+  },
+  "red win moves": {
+    "DLBL": 2,
+    "DLBR": 4,
+    "DLFL": 1,
+    "DLFR": 0,
+    "DSBL": 4,
+    "DSBR": 4,
+    "DSFL": 6,
+    "DSFR": 14,
+    "LLB": 3,
+    "LLF": 1,
+    "LSB": 5,
+    "LSF": 45,
+    "TLL": 17,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 19,
+    "NM": 122
+  },
+  "red loss moves": {
+    "DLBL": 1,
+    "DLBR": 1,
+    "DLFL": 4,
+    "DLFR": 1,
+    "DSBL": 3,
+    "DSBR": 9,
+    "DSFL": 12,
+    "DSFR": 15,
+    "LLB": 3,
+    "LLF": 1,
+    "LSB": 11,
+    "LSF": 50,
+    "TLL": 29,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 23,
+    "NM": 158
+  },
+  "blue total shots": {
+    "長球": 57,
+    "切球": 101,
+    "殺球": 84,
+    "挑球": 143,
+    "小球": 76,
+    "平球": 43,
+    "撲球": 67
+  },
+  "red total shots": {
+    "長球": 58,
+    "切球": 74,
+    "殺球": 64,
+    "挑球": 184,
+    "小球": 62,
+    "平球": 48,
+    "撲球": 78
+  },
+  "blue total moves": {
+    "DLBL": 2,
+    "DLBR": 8,
+    "DLFL": 3,
+    "DLFR": 3,
+    "DSBL": 8,
+    "DSBR": 13,
+    "DSFL": 34,
+    "DSFR": 25,
+    "LLB": 2,
+    "LLF": 5,
+    "LSB": 31,
+    "LSF": 89,
+    "TLL": 52,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 56,
+    "NM": 235
+  },
+  "red total moves": {
+    "DLBL": 3,
+    "DLBR": 5,
+    "DLFL": 5,
+    "DLFR": 1,
+    "DSBL": 7,
+    "DSBR": 13,
+    "DSFL": 18,
+    "DSFR": 29,
+    "LLB": 6,
+    "LLF": 2,
+    "LSB": 16,
+    "LSF": 95,
+    "TLL": 46,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 42,
+    "NM": 280
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "Match": "BWF World Championships 2022 ｜ Anthony Sinisuka Ginting (INA) [6] vs. Ygor Coelho (BRA) ｜ R64",
+  "b_r_players": [
+    "Ygor Coelho",
+    "Anthony Sinisuka Ginting"
+  ],
+  "correct_scores": [
+    [
+      21,
+      13
+    ],
+    [
+      15,
+      21
+    ],
+    [
+      12,
+      21
+    ]
+  ],
+  "games": [
+    {
+      "score count": 37,
+      "blue red score": [
+        27,
+        10
+      ]
+    },
+    {
+      "score count": 35,
+      "blue red score": [
+        21,
+        14
+      ]
+    },
+    {
+      "score count": 32,
+      "blue red score": [
+        13,
+        19
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 44,
+    "切球": 56,
+    "殺球": 44,
+    "挑球": 84,
+    "小球": 8,
+    "平球": 17,
+    "撲球": 22
+  },
+  "blue loss shots": {
+    "長球": 28,
+    "切球": 39,
+    "殺球": 38,
+    "挑球": 91,
+    "小球": 11,
+    "平球": 14,
+    "撲球": 12
+  },
+  "red win shots": {
+    "長球": 25,
+    "切球": 53,
+    "殺球": 42,
+    "挑球": 80,
+    "小球": 14,
+    "平球": 10,
+    "撲球": 12
+  },
+  "red loss shots": {
+    "長球": 40,
+    "切球": 50,
+    "殺球": 39,
+    "挑球": 103,
+    "小球": 14,
+    "平球": 11,
+    "撲球": 17
+  },
+  "blue win moves": {
+    "DLBL": 1,
+    "DLBR": 2,
+    "DLFL": 3,
+    "DLFR": 6,
+    "DSBL": 8,
+    "DSBR": 5,
+    "DSFL": 12,
+    "DSFR": 9,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 8,
+    "LSF": 41,
+    "TLL": 47,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 32,
+    "NM": 98
+  },
+  "blue loss moves": {
+    "DLBL": 2,
+    "DLBR": 3,
+    "DLFL": 2,
+    "DLFR": 1,
+    "DSBL": 4,
+    "DSBR": 4,
+    "DSFL": 12,
+    "DSFR": 11,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 6,
+    "LSF": 34,
+    "TLL": 22,
+    "TLR": 5,
+    "TSL": 0,
+    "TSR": 23,
+    "NM": 106
+  },
+  "red win moves": {
+    "DLBL": 1,
+    "DLBR": 0,
+    "DLFL": 3,
+    "DLFR": 2,
+    "DSBL": 5,
+    "DSBR": 8,
+    "DSFL": 13,
+    "DSFR": 7,
+    "LLB": 1,
+    "LLF": 5,
+    "LSB": 6,
+    "LSF": 22,
+    "TLL": 27,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 28,
+    "NM": 104
+  },
+  "red loss moves": {
+    "DLBL": 1,
+    "DLBR": 2,
+    "DLFL": 3,
+    "DLFR": 2,
+    "DSBL": 5,
+    "DSBR": 5,
+    "DSFL": 12,
+    "DSFR": 10,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 16,
+    "LSF": 39,
+    "TLL": 26,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 26,
+    "NM": 126
+  },
+  "blue total shots": {
+    "長球": 72,
+    "切球": 95,
+    "殺球": 82,
+    "挑球": 175,
+    "小球": 19,
+    "平球": 31,
+    "撲球": 34
+  },
+  "red total shots": {
+    "長球": 65,
+    "切球": 103,
+    "殺球": 81,
+    "挑球": 183,
+    "小球": 28,
+    "平球": 21,
+    "撲球": 29
+  },
+  "blue total moves": {
+    "DLBL": 3,
+    "DLBR": 5,
+    "DLFL": 5,
+    "DLFR": 7,
+    "DSBL": 12,
+    "DSBR": 9,
+    "DSFL": 24,
+    "DSFR": 20,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 14,
+    "LSF": 75,
+    "TLL": 69,
+    "TLR": 6,
+    "TSL": 0,
+    "TSR": 55,
+    "NM": 204
+  },
+  "red total moves": {
+    "DLBL": 2,
+    "DLBR": 2,
+    "DLFL": 6,
+    "DLFR": 4,
+    "DSBL": 10,
+    "DSBR": 13,
+    "DSFL": 25,
+    "DSFR": 17,
+    "LLB": 2,
+    "LLF": 5,
+    "LSB": 22,
+    "LSF": 61,
+    "TLL": 53,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 54,
+    "NM": 230
+  }
+}

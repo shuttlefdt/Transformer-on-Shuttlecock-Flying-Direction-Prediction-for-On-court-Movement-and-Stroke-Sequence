@@ -1,0 +1,212 @@
+{
+  "Match": "BWF Thomas Cup ｜ Jonatan Christie (INA) vs Anders Antonsen (DEN) ｜ SF",
+  "b_r_players": [
+    "Jonatan Christie",
+    "Anders Antonsen"
+  ],
+  "correct_scores": [
+    [
+      25,
+      23
+    ],
+    [
+      15,
+      21
+    ],
+    [
+      21,
+      16
+    ]
+  ],
+  "games": [
+    {
+      "score count": 44,
+      "blue red score": [
+        25,
+        19
+      ]
+    },
+    {
+      "score count": 33,
+      "blue red score": [
+        13,
+        20
+      ]
+    },
+    {
+      "score count": 35,
+      "blue red score": [
+        20,
+        15
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 82,
+    "切球": 136,
+    "殺球": 92,
+    "挑球": 108,
+    "小球": 20,
+    "平球": 13,
+    "撲球": 25
+  },
+  "blue loss shots": {
+    "長球": 96,
+    "切球": 124,
+    "殺球": 86,
+    "挑球": 134,
+    "小球": 17,
+    "平球": 10,
+    "撲球": 26
+  },
+  "red win shots": {
+    "長球": 98,
+    "切球": 75,
+    "殺球": 55,
+    "挑球": 197,
+    "小球": 20,
+    "平球": 9,
+    "撲球": 23
+  },
+  "red loss shots": {
+    "長球": 78,
+    "切球": 58,
+    "殺球": 51,
+    "挑球": 225,
+    "小球": 14,
+    "平球": 18,
+    "撲球": 27
+  },
+  "blue win moves": {
+    "DLBL": 10,
+    "DLBR": 2,
+    "DLFL": 7,
+    "DLFR": 6,
+    "DSBL": 8,
+    "DSBR": 8,
+    "DSFL": 16,
+    "DSFR": 22,
+    "LLB": 3,
+    "LLF": 1,
+    "LSB": 6,
+    "LSF": 44,
+    "TLL": 70,
+    "TLR": 10,
+    "TSL": 0,
+    "TSR": 69,
+    "NM": 189
+  },
+  "blue loss moves": {
+    "DLBL": 11,
+    "DLBR": 3,
+    "DLFL": 6,
+    "DLFR": 3,
+    "DSBL": 15,
+    "DSBR": 10,
+    "DSFL": 23,
+    "DSFR": 22,
+    "LLB": 2,
+    "LLF": 1,
+    "LSB": 5,
+    "LSF": 41,
+    "TLL": 71,
+    "TLR": 8,
+    "TSL": 0,
+    "TSR": 61,
+    "NM": 195
+  },
+  "red win moves": {
+    "DLBL": 11,
+    "DLBR": 2,
+    "DLFL": 2,
+    "DLFR": 7,
+    "DSBL": 16,
+    "DSBR": 8,
+    "DSFL": 16,
+    "DSFR": 48,
+    "LLB": 3,
+    "LLF": 0,
+    "LSB": 17,
+    "LSF": 56,
+    "TLL": 75,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 56,
+    "NM": 174
+  },
+  "red loss moves": {
+    "DLBL": 20,
+    "DLBR": 1,
+    "DLFL": 2,
+    "DLFR": 4,
+    "DSBL": 16,
+    "DSBR": 13,
+    "DSFL": 11,
+    "DSFR": 41,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 19,
+    "LSF": 68,
+    "TLL": 55,
+    "TLR": 5,
+    "TSL": 0,
+    "TSR": 39,
+    "NM": 182
+  },
+  "blue total shots": {
+    "長球": 178,
+    "切球": 260,
+    "殺球": 178,
+    "挑球": 242,
+    "小球": 37,
+    "平球": 23,
+    "撲球": 51
+  },
+  "red total shots": {
+    "長球": 176,
+    "切球": 133,
+    "殺球": 106,
+    "挑球": 422,
+    "小球": 34,
+    "平球": 27,
+    "撲球": 50
+  },
+  "blue total moves": {
+    "DLBL": 21,
+    "DLBR": 5,
+    "DLFL": 13,
+    "DLFR": 9,
+    "DSBL": 23,
+    "DSBR": 18,
+    "DSFL": 39,
+    "DSFR": 44,
+    "LLB": 5,
+    "LLF": 2,
+    "LSB": 11,
+    "LSF": 85,
+    "TLL": 141,
+    "TLR": 18,
+    "TSL": 0,
+    "TSR": 130,
+    "NM": 384
+  },
+  "red total moves": {
+    "DLBL": 31,
+    "DLBR": 3,
+    "DLFL": 4,
+    "DLFR": 11,
+    "DSBL": 32,
+    "DSBR": 21,
+    "DSFL": 27,
+    "DSFR": 89,
+    "LLB": 3,
+    "LLF": 0,
+    "LSB": 36,
+    "LSF": 124,
+    "TLL": 130,
+    "TLR": 7,
+    "TSL": 0,
+    "TSR": 95,
+    "NM": 356
+  }
+}

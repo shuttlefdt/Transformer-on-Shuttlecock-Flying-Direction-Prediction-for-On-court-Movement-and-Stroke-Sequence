@@ -1,0 +1,212 @@
+{
+  "Match": "Denmark Open 2022 ｜ Lee Zii Jia (MAS) [4] vs. Jonatan Christie (INA) [8] ｜ QF",
+  "b_r_players": [
+    "Lee Zii Jia",
+    "Jonatan Christie"
+  ],
+  "correct_scores": [
+    [
+      21,
+      16
+    ],
+    [
+      18,
+      21
+    ],
+    [
+      21,
+      18
+    ]
+  ],
+  "games": [
+    {
+      "score count": 37,
+      "blue red score": [
+        21,
+        16
+      ]
+    },
+    {
+      "score count": 38,
+      "blue red score": [
+        15,
+        23
+      ]
+    },
+    {
+      "score count": 37,
+      "blue red score": [
+        17,
+        20
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 46,
+    "切球": 62,
+    "殺球": 70,
+    "挑球": 98,
+    "小球": 43,
+    "平球": 14,
+    "撲球": 23
+  },
+  "blue loss shots": {
+    "長球": 45,
+    "切球": 62,
+    "殺球": 66,
+    "挑球": 133,
+    "小球": 33,
+    "平球": 18,
+    "撲球": 33
+  },
+  "red win shots": {
+    "長球": 48,
+    "切球": 54,
+    "殺球": 66,
+    "挑球": 121,
+    "小球": 36,
+    "平球": 19,
+    "撲球": 34
+  },
+  "red loss shots": {
+    "長球": 55,
+    "切球": 44,
+    "殺球": 48,
+    "挑球": 127,
+    "小球": 33,
+    "平球": 16,
+    "撲球": 40
+  },
+  "blue win moves": {
+    "DLBL": 3,
+    "DLBR": 2,
+    "DLFL": 2,
+    "DLFR": 3,
+    "DSBL": 7,
+    "DSBR": 10,
+    "DSFL": 23,
+    "DSFR": 12,
+    "LLB": 0,
+    "LLF": 3,
+    "LSB": 10,
+    "LSF": 59,
+    "TLL": 29,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 23,
+    "NM": 177
+  },
+  "blue loss moves": {
+    "DLBL": 2,
+    "DLBR": 2,
+    "DLFL": 2,
+    "DLFR": 6,
+    "DSBL": 9,
+    "DSBR": 3,
+    "DSFL": 11,
+    "DSFR": 21,
+    "LLB": 1,
+    "LLF": 2,
+    "LSB": 21,
+    "LSF": 62,
+    "TLL": 32,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 29,
+    "NM": 175
+  },
+  "red win moves": {
+    "DLBL": 4,
+    "DLBR": 4,
+    "DLFL": 1,
+    "DLFR": 3,
+    "DSBL": 14,
+    "DSBR": 8,
+    "DSFL": 18,
+    "DSFR": 8,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 16,
+    "LSF": 72,
+    "TLL": 35,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 28,
+    "NM": 178
+  },
+  "red loss moves": {
+    "DLBL": 8,
+    "DLBR": 2,
+    "DLFL": 2,
+    "DLFR": 6,
+    "DSBL": 12,
+    "DSBR": 7,
+    "DSFL": 13,
+    "DSFR": 12,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 13,
+    "LSF": 50,
+    "TLL": 32,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 37,
+    "NM": 158
+  },
+  "blue total shots": {
+    "長球": 91,
+    "切球": 124,
+    "殺球": 136,
+    "挑球": 231,
+    "小球": 76,
+    "平球": 32,
+    "撲球": 56
+  },
+  "red total shots": {
+    "長球": 103,
+    "切球": 98,
+    "殺球": 114,
+    "挑球": 248,
+    "小球": 69,
+    "平球": 35,
+    "撲球": 74
+  },
+  "blue total moves": {
+    "DLBL": 5,
+    "DLBR": 4,
+    "DLFL": 4,
+    "DLFR": 9,
+    "DSBL": 16,
+    "DSBR": 13,
+    "DSFL": 34,
+    "DSFR": 33,
+    "LLB": 1,
+    "LLF": 5,
+    "LSB": 31,
+    "LSF": 121,
+    "TLL": 61,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 52,
+    "NM": 352
+  },
+  "red total moves": {
+    "DLBL": 12,
+    "DLBR": 6,
+    "DLFL": 3,
+    "DLFR": 9,
+    "DSBL": 26,
+    "DSBR": 15,
+    "DSFL": 31,
+    "DSFR": 20,
+    "LLB": 2,
+    "LLF": 0,
+    "LSB": 29,
+    "LSF": 122,
+    "TLL": 67,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 65,
+    "NM": 336
+  }
+}

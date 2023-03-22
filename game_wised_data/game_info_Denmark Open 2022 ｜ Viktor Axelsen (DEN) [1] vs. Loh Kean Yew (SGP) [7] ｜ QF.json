@@ -1,0 +1,198 @@
+{
+  "Match": "Denmark Open 2022 ｜ Viktor Axelsen (DEN) [1] vs. Loh Kean Yew (SGP) [7] ｜ QF",
+  "b_r_players": [
+    "Viktor Axelsen",
+    "Loh Kean Yew"
+  ],
+  "correct_scores": [
+    [
+      17,
+      21
+    ],
+    [
+      10,
+      21
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 67,
+      "blue red score": [
+        40,
+        27
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 13,
+    "切球": 56,
+    "殺球": 55,
+    "挑球": 12,
+    "小球": 53,
+    "平球": 3,
+    "撲球": 2
+  },
+  "blue loss shots": {
+    "長球": 7,
+    "切球": 45,
+    "殺球": 26,
+    "挑球": 13,
+    "小球": 22,
+    "平球": 7,
+    "撲球": 0
+  },
+  "red win shots": {
+    "長球": 15,
+    "切球": 0,
+    "殺球": 1,
+    "挑球": 52,
+    "小球": 5,
+    "平球": 1,
+    "撲球": 38
+  },
+  "red loss shots": {
+    "長球": 23,
+    "切球": 0,
+    "殺球": 1,
+    "挑球": 101,
+    "小球": 15,
+    "平球": 11,
+    "撲球": 49
+  },
+  "blue win moves": {
+    "DLBL": 1,
+    "DLBR": 1,
+    "DLFL": 2,
+    "DLFR": 2,
+    "DSBL": 8,
+    "DSBR": 4,
+    "DSFL": 11,
+    "DSFR": 16,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 6,
+    "LSF": 11,
+    "TLL": 22,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 19,
+    "NM": 95
+  },
+  "blue loss moves": {
+    "DLBL": 0,
+    "DLBR": 0,
+    "DLFL": 1,
+    "DLFR": 1,
+    "DSBL": 0,
+    "DSBR": 1,
+    "DSFL": 4,
+    "DSFR": 10,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 4,
+    "LSF": 16,
+    "TLL": 12,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 10,
+    "NM": 52
+  },
+  "red win moves": {
+    "DLBL": 6,
+    "DLBR": 2,
+    "DLFL": 2,
+    "DLFR": 0,
+    "DSBL": 4,
+    "DSBR": 2,
+    "DSFL": 5,
+    "DSFR": 5,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 8,
+    "LSF": 25,
+    "TLL": 8,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 7,
+    "NM": 45
+  },
+  "red loss moves": {
+    "DLBL": 8,
+    "DLBR": 1,
+    "DLFL": 2,
+    "DLFR": 4,
+    "DSBL": 2,
+    "DSBR": 1,
+    "DSFL": 7,
+    "DSFR": 4,
+    "LLB": 1,
+    "LLF": 0,
+    "LSB": 7,
+    "LSF": 40,
+    "TLL": 14,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 20,
+    "NM": 82
+  },
+  "blue total shots": {
+    "長球": 20,
+    "切球": 101,
+    "殺球": 81,
+    "挑球": 25,
+    "小球": 75,
+    "平球": 10,
+    "撲球": 2
+  },
+  "red total shots": {
+    "長球": 38,
+    "切球": 0,
+    "殺球": 2,
+    "挑球": 153,
+    "小球": 20,
+    "平球": 12,
+    "撲球": 87
+  },
+  "blue total moves": {
+    "DLBL": 1,
+    "DLBR": 1,
+    "DLFL": 3,
+    "DLFR": 3,
+    "DSBL": 8,
+    "DSBR": 5,
+    "DSFL": 15,
+    "DSFR": 26,
+    "LLB": 0,
+    "LLF": 2,
+    "LSB": 10,
+    "LSF": 27,
+    "TLL": 34,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 29,
+    "NM": 147
+  },
+  "red total moves": {
+    "DLBL": 14,
+    "DLBR": 3,
+    "DLFL": 4,
+    "DLFR": 4,
+    "DSBL": 6,
+    "DSBR": 3,
+    "DSFL": 12,
+    "DSFR": 9,
+    "LLB": 2,
+    "LLF": 0,
+    "LSB": 15,
+    "LSF": 65,
+    "TLL": 22,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 27,
+    "NM": 127
+  }
+}

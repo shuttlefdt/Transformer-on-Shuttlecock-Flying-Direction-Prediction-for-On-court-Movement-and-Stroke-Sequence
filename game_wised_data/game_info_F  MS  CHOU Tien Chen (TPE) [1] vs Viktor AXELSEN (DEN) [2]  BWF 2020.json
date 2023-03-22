@@ -1,0 +1,212 @@
+{
+  "Match": "F  MS  CHOU Tien Chen (TPE) [1] vs Viktor AXELSEN (DEN) [2]  BWF 2020",
+  "b_r_players": [
+    "Viktor AXELSEN",
+    "CHOU Tien Chen"
+  ],
+  "correct_scores": [
+    [
+      21,
+      13
+    ],
+    [
+      21,
+      14
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "games": [
+    {
+      "score count": 48,
+      "blue red score": [
+        19,
+        29
+      ]
+    },
+    {
+      "score count": 31,
+      "blue red score": [
+        17,
+        14
+      ]
+    },
+    {
+      "score count": 12,
+      "blue red score": [
+        4,
+        8
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 11,
+    "切球": 34,
+    "殺球": 16,
+    "挑球": 44,
+    "小球": 6,
+    "平球": 14,
+    "撲球": 9
+  },
+  "blue loss shots": {
+    "長球": 9,
+    "切球": 48,
+    "殺球": 40,
+    "挑球": 46,
+    "小球": 16,
+    "平球": 9,
+    "撲球": 8
+  },
+  "red win shots": {
+    "長球": 18,
+    "切球": 16,
+    "殺球": 21,
+    "挑球": 79,
+    "小球": 20,
+    "平球": 12,
+    "撲球": 24
+  },
+  "red loss shots": {
+    "長球": 9,
+    "切球": 16,
+    "殺球": 32,
+    "挑球": 47,
+    "小球": 14,
+    "平球": 4,
+    "撲球": 10
+  },
+  "blue win moves": {
+    "DLBL": 0,
+    "DLBR": 0,
+    "DLFL": 1,
+    "DLFR": 7,
+    "DSBL": 2,
+    "DSBR": 0,
+    "DSFL": 12,
+    "DSFR": 11,
+    "LLB": 0,
+    "LLF": 1,
+    "LSB": 1,
+    "LSF": 15,
+    "TLL": 27,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 13,
+    "NM": 41
+  },
+  "blue loss moves": {
+    "DLBL": 0,
+    "DLBR": 0,
+    "DLFL": 3,
+    "DLFR": 8,
+    "DSBL": 3,
+    "DSBR": 2,
+    "DSFL": 24,
+    "DSFR": 11,
+    "LLB": 1,
+    "LLF": 1,
+    "LSB": 4,
+    "LSF": 29,
+    "TLL": 34,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 17,
+    "NM": 53
+  },
+  "red win moves": {
+    "DLBL": 2,
+    "DLBR": 0,
+    "DLFL": 3,
+    "DLFR": 8,
+    "DSBL": 7,
+    "DSBR": 2,
+    "DSFL": 9,
+    "DSFR": 20,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 12,
+    "LSF": 21,
+    "TLL": 28,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 17,
+    "NM": 46
+  },
+  "red loss moves": {
+    "DLBL": 1,
+    "DLBR": 0,
+    "DLFL": 0,
+    "DLFR": 5,
+    "DSBL": 5,
+    "DSBR": 4,
+    "DSFL": 12,
+    "DSFR": 12,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 6,
+    "LSF": 19,
+    "TLL": 17,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 9,
+    "NM": 43
+  },
+  "blue total shots": {
+    "長球": 20,
+    "切球": 82,
+    "殺球": 56,
+    "挑球": 90,
+    "小球": 22,
+    "平球": 23,
+    "撲球": 17
+  },
+  "red total shots": {
+    "長球": 27,
+    "切球": 32,
+    "殺球": 53,
+    "挑球": 126,
+    "小球": 34,
+    "平球": 16,
+    "撲球": 34
+  },
+  "blue total moves": {
+    "DLBL": 0,
+    "DLBR": 0,
+    "DLFL": 4,
+    "DLFR": 15,
+    "DSBL": 5,
+    "DSBR": 2,
+    "DSFL": 36,
+    "DSFR": 22,
+    "LLB": 1,
+    "LLF": 2,
+    "LSB": 5,
+    "LSF": 44,
+    "TLL": 61,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 30,
+    "NM": 94
+  },
+  "red total moves": {
+    "DLBL": 3,
+    "DLBR": 0,
+    "DLFL": 3,
+    "DLFR": 13,
+    "DSBL": 12,
+    "DSBR": 6,
+    "DSFL": 21,
+    "DSFR": 32,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 18,
+    "LSF": 40,
+    "TLL": 45,
+    "TLR": 2,
+    "TSL": 0,
+    "TSR": 26,
+    "NM": 89
+  }
+}

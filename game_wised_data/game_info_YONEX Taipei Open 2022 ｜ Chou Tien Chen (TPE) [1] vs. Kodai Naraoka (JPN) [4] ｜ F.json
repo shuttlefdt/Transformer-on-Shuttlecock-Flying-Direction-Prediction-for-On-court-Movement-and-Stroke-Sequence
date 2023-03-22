@@ -1,0 +1,212 @@
+{
+  "Match": "YONEX Taipei Open 2022 ｜ Chou Tien Chen (TPE) [1] vs. Kodai Naraoka (JPN) [4] ｜ F",
+  "b_r_players": [
+    "Chou Tien Chen",
+    "Kodai Naraoka"
+  ],
+  "correct_scores": [
+    [
+      14,
+      21
+    ],
+    [
+      21,
+      10
+    ],
+    [
+      21,
+      6
+    ]
+  ],
+  "games": [
+    {
+      "score count": 33,
+      "blue red score": [
+        16,
+        17
+      ]
+    },
+    {
+      "score count": 31,
+      "blue red score": [
+        22,
+        9
+      ]
+    },
+    {
+      "score count": 26,
+      "blue red score": [
+        10,
+        16
+      ]
+    }
+  ],
+  "blue win shots": {
+    "長球": 31,
+    "切球": 43,
+    "殺球": 68,
+    "挑球": 96,
+    "小球": 32,
+    "平球": 10,
+    "撲球": 29
+  },
+  "blue loss shots": {
+    "長球": 30,
+    "切球": 77,
+    "殺球": 94,
+    "挑球": 49,
+    "小球": 52,
+    "平球": 22,
+    "撲球": 10
+  },
+  "red win shots": {
+    "長球": 37,
+    "切球": 11,
+    "殺球": 27,
+    "挑球": 155,
+    "小球": 13,
+    "平球": 22,
+    "撲球": 59
+  },
+  "red loss shots": {
+    "長球": 41,
+    "切球": 36,
+    "殺球": 47,
+    "挑球": 106,
+    "小球": 32,
+    "平球": 22,
+    "撲球": 27
+  },
+  "blue win moves": {
+    "DLBL": 3,
+    "DLBR": 0,
+    "DLFL": 2,
+    "DLFR": 3,
+    "DSBL": 9,
+    "DSBR": 5,
+    "DSFL": 23,
+    "DSFR": 18,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 12,
+    "LSF": 47,
+    "TLL": 29,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 31,
+    "NM": 126
+  },
+  "blue loss moves": {
+    "DLBL": 2,
+    "DLBR": 0,
+    "DLFL": 2,
+    "DLFR": 4,
+    "DSBL": 11,
+    "DSBR": 15,
+    "DSFL": 23,
+    "DSFR": 12,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 12,
+    "LSF": 34,
+    "TLL": 36,
+    "TLR": 1,
+    "TSL": 0,
+    "TSR": 26,
+    "NM": 146
+  },
+  "red win moves": {
+    "DLBL": 3,
+    "DLBR": 1,
+    "DLFL": 1,
+    "DLFR": 10,
+    "DSBL": 7,
+    "DSBR": 8,
+    "DSFL": 11,
+    "DSFR": 16,
+    "LLB": 1,
+    "LLF": 2,
+    "LSB": 11,
+    "LSF": 37,
+    "TLL": 39,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 27,
+    "NM": 157
+  },
+  "red loss moves": {
+    "DLBL": 2,
+    "DLBR": 0,
+    "DLFL": 1,
+    "DLFR": 4,
+    "DSBL": 8,
+    "DSBR": 13,
+    "DSFL": 12,
+    "DSFR": 20,
+    "LLB": 3,
+    "LLF": 1,
+    "LSB": 12,
+    "LSF": 35,
+    "TLL": 32,
+    "TLR": 0,
+    "TSL": 0,
+    "TSR": 24,
+    "NM": 142
+  },
+  "blue total shots": {
+    "長球": 61,
+    "切球": 120,
+    "殺球": 162,
+    "挑球": 145,
+    "小球": 84,
+    "平球": 32,
+    "撲球": 39
+  },
+  "red total shots": {
+    "長球": 78,
+    "切球": 47,
+    "殺球": 74,
+    "挑球": 261,
+    "小球": 45,
+    "平球": 44,
+    "撲球": 86
+  },
+  "blue total moves": {
+    "DLBL": 5,
+    "DLBR": 0,
+    "DLFL": 4,
+    "DLFR": 7,
+    "DSBL": 20,
+    "DSBR": 20,
+    "DSFL": 46,
+    "DSFR": 30,
+    "LLB": 0,
+    "LLF": 0,
+    "LSB": 24,
+    "LSF": 81,
+    "TLL": 65,
+    "TLR": 4,
+    "TSL": 0,
+    "TSR": 57,
+    "NM": 272
+  },
+  "red total moves": {
+    "DLBL": 5,
+    "DLBR": 1,
+    "DLFL": 2,
+    "DLFR": 14,
+    "DSBL": 15,
+    "DSBR": 21,
+    "DSFL": 23,
+    "DSFR": 36,
+    "LLB": 4,
+    "LLF": 3,
+    "LSB": 23,
+    "LSF": 72,
+    "TLL": 71,
+    "TLR": 3,
+    "TSL": 0,
+    "TSR": 51,
+    "NM": 299
+  }
+}
